@@ -1,0 +1,12 @@
+{
+  "id": "u9-x2-reveal",
+  "duration": 11.1,
+  "sourceHash": "78ff2ff8681aef6f9eae2e1d8c81b74733317b6d1b5c2ef11f955b43f58f0fd5",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Green and blue finish on, while red is off. Pressing switch one twice cancels its effect. Switch two then reverses only green and blue from the original all-off state.",
+  "words": 29,
+  "wpm": 156.8
+}

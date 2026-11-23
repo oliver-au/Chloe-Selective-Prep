@@ -1,0 +1,12 @@
+{
+  "id": "q7-hook",
+  "duration": 7.4,
+  "sourceHash": "7cc1efdc2c0867c1d89048a0756f8b4d6ed3a05b68099edc547310451a392bdc",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Chloe plays tennis and soccer. How often does her name appear when we add the two team lists?",
+  "words": 18,
+  "wpm": 145.9
+}

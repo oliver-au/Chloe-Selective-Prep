@@ -1,0 +1,12 @@
+{
+  "id": "02-m5-quiz",
+  "duration": 20.3,
+  "sourceHash": "eedce2e897e414cc1f392202da336b6d8ee8b70e81a117cc05623b76948165f3",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "This bag holds only red, green and blue marbles. There are four red and two green. We know there is at least one blue marble, but we do not know how many. Which colour has the fewest? Try changing only the blue number. Can you make the answer change?",
+  "words": 49,
+  "wpm": 144.8
+}

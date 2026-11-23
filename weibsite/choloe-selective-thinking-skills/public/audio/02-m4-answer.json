@@ -1,0 +1,12 @@
+{
+  "id": "02-m4-answer",
+  "duration": 18,
+  "sourceHash": "0f046434d940a74518e367ab772e49a60b0d9eb4fe6a9afff090764c57be8315",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "At least one striped card is not green. The striped square cards exist because the first statement says some, and every square card is excluded from green. We cannot claim that all striped cards are squares or that none are green.",
+  "words": 41,
+  "wpm": 136.7
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u8-q1-explain",
+  "duration": 16.2,
+  "sourceHash": "9a40a5cf210e27b6fe8a86d276429d5ec3af546e4a73c5150110c614c6a4c18c",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Draw a dot for a visit and a line for the wait until the next visit. If today is visit one, there is no wait before it. With dates, mark whether you move earlier or later. A week takes you back to the same weekday, even though seven days have passed.",
+  "words": 51,
+  "wpm": 188.9
+}

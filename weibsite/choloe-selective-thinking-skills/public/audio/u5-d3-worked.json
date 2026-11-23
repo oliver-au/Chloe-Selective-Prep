@@ -1,0 +1,12 @@
+{
+  "id": "u5-d3-worked",
+  "duration": 22.8,
+  "sourceHash": "858feabdcf045a274e894b38e60068d920027a434a61db911279eb7210a06250",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Exactly one of Leo and Maya is selected. Selecting Leo requires Nina; selecting Maya requires Omar. In Leo’s case, Nina is selected. In Maya’s case, Omar is selected. Therefore at least one of Nina and Omar must be selected. We cannot insist on Nina alone or Omar alone, and the rules do not forbid both.",
+  "words": 55,
+  "wpm": 144.7
+}

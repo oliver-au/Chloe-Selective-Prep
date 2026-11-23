@@ -1,0 +1,12 @@
+{
+  "id": "03-a2-answer",
+  "duration": 16.9,
+  "sourceHash": "7eab61772396919ca8c2994a87bc9b0e0d980124d91676357c0aa52c79dc8522",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "It weakens the council’s argument. A bike rack helps once you reach the end of the trip. It cannot give you a safer route on the way there. Some people might still use the racks, but the survey gives us a reason to expect fewer new cyclists than the council hopes.",
+  "words": 51,
+  "wpm": 181.1
+}

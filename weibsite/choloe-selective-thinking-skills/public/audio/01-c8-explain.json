@@ -1,0 +1,12 @@
+{
+  "id": "01-c8-explain",
+  "duration": 18.1,
+  "sourceHash": "91500ccb4d99b59b24503db13dfbdce837ef40f5b372505058f8a909ff84c24c",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "One result may have several routes. Draw each route separately, and do not assume the result identifies one of them. You can eliminate routes only when the question gives enough information. To conclude that one listed route must occur, the list must cover all allowed routes.",
+  "words": 46,
+  "wpm": 152.5
+}

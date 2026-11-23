@@ -1,0 +1,12 @@
+{
+  "id": "u4-o4-answer",
+  "duration": 14,
+  "sourceHash": "a3e6ad39b2ec72e58469aed26057553f52d88b606c6a733b6742264d73415b02",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Ben is on Ava’s left. At the north seat, Ava faces south towards the table. Her left hand points east. Always establish the person’s facing direction before interpreting left or right.",
+  "words": 31,
+  "wpm": 132.9
+}

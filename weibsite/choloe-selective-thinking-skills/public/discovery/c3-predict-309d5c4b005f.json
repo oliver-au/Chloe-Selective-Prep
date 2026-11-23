@@ -1,0 +1,12 @@
+{
+  "id": "c3-predict",
+  "duration": 10.8,
+  "sourceHash": "309d5c4b005fd9862e589e1f37c3a460c9f4d347d59baf35c78d30ad83041afa",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Read the pool rule. Only students wearing wristbands may enter. The band looks like proof. Choose your answer.",
+  "words": 18,
+  "wpm": 100
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u7-p3-practice",
+  "duration": 13.8,
+  "sourceHash": "13d8267f0f57d9c2d80f41367eacc3e8807304c61f86c5e4c3e6d766c789117d",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Beads repeat red, blue, green, yellow. Red is first. Which colour is the twenty-eighth bead? Show where the last complete group ends.",
+  "words": 22,
+  "wpm": 95.7
+}

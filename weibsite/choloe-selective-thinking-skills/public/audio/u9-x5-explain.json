@@ -1,0 +1,12 @@
+{
+  "id": "u9-x5-explain",
+  "duration": 19.4,
+  "sourceHash": "6e58254ee9325ace1782e18381a325643a26e55fe969dfa6410e7baa336a00d9",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Write one row for everyone before anything moves. Who gives something away? Who gets it? If people take turns, finish one turn before the next. If everyone passes at the same time, calculate every gift from the same starting row. When nothing is added or lost, each row should have the same total.",
+  "words": 53,
+  "wpm": 163.9
+}

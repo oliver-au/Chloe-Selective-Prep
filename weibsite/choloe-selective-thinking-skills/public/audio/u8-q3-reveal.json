@@ -1,0 +1,12 @@
+{
+  "id": "u8-q3-reveal",
+  "duration": 16.5,
+  "sourceHash": "47a6100ca1f65670674b5abfb30dc2cb41fe47e729a6694a34c65780e07bb66f",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Five parts out of eight is the larger share. Cut each whole into twenty-four equal pieces. The first fraction covers fifteen of those pieces. The second fraction covers fourteen. Once the pieces are the same size, the comparison is easy.",
+  "words": 40,
+  "wpm": 145.5
+}

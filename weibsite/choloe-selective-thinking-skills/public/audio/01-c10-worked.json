@@ -1,0 +1,12 @@
+{
+  "id": "01-c10-worked",
+  "duration": 21.2,
+  "sourceHash": "73ed37e727d81f8c3d4977f0607d00a3e66bd24b178045b1c3f83646637f2cd7",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Imagine two different days. When the national team plays, every shop in this puzzle puts up its flags. Rob sees no flags. The team cannot be playing there that day, because the flags would be up. Paul sees flags on the other day. Could shops also put up flags for a parade? Yes. Only Rob can be certain.",
+  "words": 58,
+  "wpm": 164.2
+}

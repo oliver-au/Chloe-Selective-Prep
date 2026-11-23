@@ -1,0 +1,12 @@
+{
+  "id": "01-c4-answer",
+  "duration": 15.6,
+  "sourceHash": "9fd38abbe0b5807eefec0e03981b8378955204e74e9f26afb1122b532b2c04c2",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The player scored a number of goals other than three. Exactly three would have meant a report. Two goals still fit the clues. Four goals also fit. We ruled out one number without deciding whether the player scored more or fewer than three.",
+  "words": 43,
+  "wpm": 165.4
+}

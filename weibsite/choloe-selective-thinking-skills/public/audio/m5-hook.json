@@ -1,0 +1,12 @@
+{
+  "id": "m5-hook",
+  "duration": 6.1,
+  "sourceHash": "b8f5606b866428337cf4aa000a1aad9f55fcb64bfb9bde045dd1350b886bc97b",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Nina is taller than Leo and Max. Could someone else still be tallest?",
+  "words": 13,
+  "wpm": 127.9
+}

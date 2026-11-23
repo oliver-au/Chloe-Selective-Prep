@@ -1,0 +1,12 @@
+{
+  "id": "u5-d8-worked",
+  "duration": 20,
+  "sourceHash": "a227ed851ea8d267f8be91ea617cc6df492e8dc6e982974ed5af1aff3b56e816",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The library connects to the park, and the school connects to the pool. All paths are two-way, but the two pairs are separate. Add a path from park to school. Now we can travel from library to park, then school, then pool. A link within one original pair would not connect the two groups.",
+  "words": 54,
+  "wpm": 162
+}

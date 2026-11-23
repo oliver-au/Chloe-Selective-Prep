@@ -1,0 +1,12 @@
+{
+  "id": "d4-hook",
+  "duration": 6.6,
+  "sourceHash": "0fc621a3c533c836fdd56449be17b0b3dd80100b9cbd0c2a22414db7bb58e1a6",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Cara comes first, then Ava, then Ben. Could this be the finishing order?",
+  "words": 13,
+  "wpm": 118.2
+}

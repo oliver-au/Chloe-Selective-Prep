@@ -1,0 +1,12 @@
+{
+  "id": "d8-hook",
+  "duration": 6.2,
+  "sourceHash": "589860f16d625dfb529540058afaee207be561f1e38f2dde15af503026e1cfcd",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "There is a path at the library and a path at the pool. Can you get between them?",
+  "words": 18,
+  "wpm": 174.2
+}

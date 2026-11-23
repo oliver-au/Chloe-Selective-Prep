@@ -1,0 +1,12 @@
+{
+  "id": "u4-o5-quiz",
+  "duration": 12.2,
+  "sourceHash": "c479520d1b641d2300f88910639ecc4a74d077199c58b75c562b2d0224e01a57",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Training happens only in the morning, and events only in the afternoon. The hall opens only for these activities. It opens this morning. Why?",
+  "words": 24,
+  "wpm": 118
+}

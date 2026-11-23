@@ -1,0 +1,12 @@
+{
+  "id": "u6-s8-quiz",
+  "duration": 16.6,
+  "sourceHash": "90ae4f52b829caad88eeebe13b59c54d6eef4f3a451643c7a5a012eb64e9ecc3",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Start with P pointing left, Q up and R right. Swap the first two cards. Then turn the cards now in places one and three a quarter-turn clockwise. What is the final row?",
+  "words": 33,
+  "wpm": 119.3
+}

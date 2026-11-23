@@ -1,0 +1,12 @@
+{
+  "id": "03-a4-explain",
+  "duration": 20.8,
+  "sourceHash": "2057969033e4c23da2c6198b5a19a83207934236f809572cc11bec2f40ca38f5",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A necessary assumption is an unstated part the argument depends on. Identify the gap, then negate a candidate assumption. Ask whether the argument's support breaks. Merely helpful information is not necessarily required. Negate the meaning carefully: not all is not the same as none.",
+  "words": 44,
+  "wpm": 126.9
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u8-q5-reveal",
+  "duration": 14.4,
+  "sourceHash": "a1ac7125aac9e353e464614da8a54a37237556979e50b692dd3c3ca9cf0a33f0",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The detour adds one hundred and sixty metres. The walker travels eighty metres back and eighty metres forward. Their position returns to where it was, but zero net position change does not mean zero distance travelled.",
+  "words": 36,
+  "wpm": 150
+}

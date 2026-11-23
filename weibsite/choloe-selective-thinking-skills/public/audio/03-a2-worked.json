@@ -1,0 +1,12 @@
+{
+  "id": "03-a2-worked",
+  "duration": 18.1,
+  "sourceHash": "5c7d19244ea943bc14d653494a434a58f52ff6bedf7499f853914df6dc8cb228",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Late homework submissions fell after a new reminder system began. The school credits the reminders. But teachers also started calling parents about missed deadlines at the same time. Those calls provide an alternative explanation, so the fall alone cannot confidently be credited to the reminder system.",
+  "words": 46,
+  "wpm": 152.5
+}

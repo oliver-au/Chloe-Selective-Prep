@@ -1,0 +1,12 @@
+{
+  "id": "u7-p2-practice",
+  "duration": 15.2,
+  "sourceHash": "240beac40fbe3bd3c5675410601e5586bcc185a058f7382e26f5d8396b0054aa",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A three-letter code uses B, A, and T once each. T is last. A is not first. What is the code? Use three boxes before answering.",
+  "words": 26,
+  "wpm": 102.6
+}

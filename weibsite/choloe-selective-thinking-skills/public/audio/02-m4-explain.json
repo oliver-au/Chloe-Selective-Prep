@@ -1,0 +1,12 @@
+{
+  "id": "02-m4-explain",
+  "duration": 19.6,
+  "sourceHash": "839836307207902d3a4f2c6749b16a0d3509dfe236e952a9dd3a1f2f9e7beec8",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Some means at least one. None means zero. If someone says “not all the singers came”, at least one singer missed out. Now try “every square card is blue”. You can say what a square card would look like, but there might be no square cards in the box. And a blue card could be round.",
+  "words": 56,
+  "wpm": 171.4
+}

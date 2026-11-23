@@ -1,0 +1,12 @@
+{
+  "id": "u6-s7-worked",
+  "duration": 21.4,
+  "sourceHash": "aceeb2a0b470497cfde3328dbb5914f574da963954c55596e0fa2fee3244a9bd",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A two-row, three-column rectangle contains an L-piece in the top-left, bottom-left, and bottom-middle cells. Three cells remain empty: top-middle, top-right, and bottom-right. The missing piece must fill exactly those cells. It needs three squares, but it also needs the correct bent shape; a straight strip cannot cover this gap.",
+  "words": 49,
+  "wpm": 137.4
+}

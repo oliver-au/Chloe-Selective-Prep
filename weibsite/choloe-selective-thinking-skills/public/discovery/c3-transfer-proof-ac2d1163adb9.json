@@ -1,0 +1,12 @@
+{
+  "id": "c3-transfer-proof",
+  "duration": 20.8,
+  "sourceHash": "ac2d1163adb9515e3d65096a5b36ede64d70d9eb784d3594c8be7315a6687202",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Choice B. The rover sent a signal, so it had power when it sent it. Choice A turns the rule backwards. A powered rover could stay silent. Choice C asks about its power now. The signal only tells us about the moment it was sent. Choice D guesses where that power came from.",
+  "words": 53,
+  "wpm": 152.9
+}

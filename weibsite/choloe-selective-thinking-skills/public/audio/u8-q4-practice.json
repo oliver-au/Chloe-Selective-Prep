@@ -1,0 +1,12 @@
+{
+  "id": "u8-q4-practice",
+  "duration": 14.1,
+  "sourceHash": "ca232cc7023a721f4feaa14b044e0e7323e72fdc5b3b1bb3158f99cde1360044",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Seventy-three students and five teachers need transport. Each bus has eleven passenger seats. What is the minimum number of buses? Include all the passengers, and explain your rounding.",
+  "words": 28,
+  "wpm": 119.1
+}

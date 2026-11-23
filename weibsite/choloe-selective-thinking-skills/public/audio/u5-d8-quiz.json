@@ -1,0 +1,12 @@
+{
+  "id": "u5-d8-quiz",
+  "duration": 11.3,
+  "sourceHash": "f757b8980bbffd9634b88fc5bf1969aeffb5d34f9fe7ef1ab399f4602a47e3a9",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Two-way links connect A to B and C to D. Which new link would let you travel from A to D: A–B or B–C?",
+  "words": 24,
+  "wpm": 127.4
+}

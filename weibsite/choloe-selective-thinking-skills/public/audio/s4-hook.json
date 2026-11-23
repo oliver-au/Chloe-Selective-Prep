@@ -1,0 +1,12 @@
+{
+  "id": "s4-hook",
+  "duration": 6.4,
+  "sourceHash": "09d105c6e99e2618d05efdd64cca8c02a5c8c41a7f2e9ba587264a1f7649661a",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "One punch through folded paper. Will two folds always give four holes?",
+  "words": 12,
+  "wpm": 112.5
+}

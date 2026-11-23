@@ -1,0 +1,12 @@
+{
+  "id": "m3-hook",
+  "duration": 5.8,
+  "sourceHash": "6c79e49829f74dca510da107c167ceb10b1ac85636896f3725ad3015316374f8",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Exactly three spaces are full. Could all five spaces be full?",
+  "words": 11,
+  "wpm": 113.8
+}

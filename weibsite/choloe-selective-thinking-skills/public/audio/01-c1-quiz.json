@@ -1,0 +1,12 @@
+{
+  "id": "01-c1-quiz",
+  "duration": 15.7,
+  "sourceHash": "3e304c70d0334c8c68a0748b5610e0b96d7a13cbf66a57604f6a7a4f80096782",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Your turn. If Chloe attends robotics, she catches the late bus. Chloe attends robotics today. What must she do? Draw the arrow and give a one-sentence proof. Pause if you want more thinking time.",
+  "words": 34,
+  "wpm": 129.9
+}

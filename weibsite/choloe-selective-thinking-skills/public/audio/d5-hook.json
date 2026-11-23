@@ -1,0 +1,12 @@
+{
+  "id": "d5-hook",
+  "duration": 5.7,
+  "sourceHash": "a505f9e345761f8f0f9b9a1d01b2322f04797caabe830cd1fd994526171b01a4",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Three runners tell you who won. What if exactly one statement is false?",
+  "words": 13,
+  "wpm": 136.8
+}

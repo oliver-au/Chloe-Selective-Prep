@@ -1,0 +1,12 @@
+{
+  "id": "u9-x6-explain",
+  "duration": 17.7,
+  "sourceHash": "79a4fc6aba9612b63487976acab7116a9839c1de19921af1df3abede45af3e5d",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Imagine two birds that both eat seeds. Seeing one eat a seed fits both stories. To tell them apart, you need an observation that rules one out. Be careful with the word can. A bird that can eat a berry might still leave this particular berry alone.",
+  "words": 47,
+  "wpm": 159.3
+}

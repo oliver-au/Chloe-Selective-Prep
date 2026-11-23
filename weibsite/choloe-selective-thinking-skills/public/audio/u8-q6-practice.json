@@ -1,0 +1,12 @@
+{
+  "id": "u8-q6-practice",
+  "duration": 13.4,
+  "sourceHash": "d7c38d2d7e49a80f33e8bc7dd5b347da145aa6ba7934a4440360fb7e8617678e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "One straight paper strip is fully cut across at five distinct interior positions. It is not folded or stacked. How many pieces result? Explain using a small drawing.",
+  "words": 28,
+  "wpm": 125.4
+}

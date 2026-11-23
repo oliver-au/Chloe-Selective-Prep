@@ -1,0 +1,12 @@
+{
+  "id": "x4-hook",
+  "duration": 5.8,
+  "sourceHash": "518cbd2a9c83d83c81e5dd39e5de1776797bde67008bf3410a300d7f24b64f89",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Can the tennis slice of a pie chart grow when the tennis club gains nobody?",
+  "words": 15,
+  "wpm": 155.2
+}

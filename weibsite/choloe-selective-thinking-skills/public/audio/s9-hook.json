@@ -1,0 +1,12 @@
+{
+  "id": "s9-hook",
+  "duration": 6.4,
+  "sourceHash": "471ec51251a8bfc3ecfebab11268f28f8e77c099e94c892337220fe8f3711b37",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "You face west and turn on the spot. Did your place on the map change?",
+  "words": 15,
+  "wpm": 140.6
+}

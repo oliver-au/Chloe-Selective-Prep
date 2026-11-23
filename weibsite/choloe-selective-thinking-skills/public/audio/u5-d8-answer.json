@@ -1,0 +1,12 @@
+{
+  "id": "u5-d8-answer",
+  "duration": 12.4,
+  "sourceHash": "3e8bd4f544a15138d9a6337d6cd12dc8ab2df7fd8a8e81f76f31d9694613565f",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Add B to C. The route becomes A, B, C, D, with every step connected. Adding A to B again would leave the two groups separate and would not reach D.",
+  "words": 31,
+  "wpm": 150
+}

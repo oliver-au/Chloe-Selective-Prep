@@ -1,0 +1,12 @@
+{
+  "id": "u9-x4-worked",
+  "duration": 24,
+  "sourceHash": "0edac568fe3939e64d24f90ca15bf1e3a05431ce617c056dcb0ada5d5ac09dac",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Twelve people play tennis, eight swim, and four run. Everyone belongs to just one group. Tennis is twelve out of twenty-four, exactly half the circle. Now make a second chart for tennis and swimming only. The twelve tennis players stay. The new whole is twenty people. Twelve out of twenty is sixty per cent. The same twelve now fill a bigger slice.",
+  "words": 62,
+  "wpm": 155
+}

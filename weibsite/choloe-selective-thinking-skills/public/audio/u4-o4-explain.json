@@ -1,0 +1,12 @@
+{
+  "id": "u4-o4-explain",
+  "duration": 19.2,
+  "sourceHash": "94d58ceb2d4380ce739f014fc31312396ac6d089348bb99a8115f8d7896a0fa0",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Imagine looking down at a round table. Across the table means opposite. Clockwise means the way the hands on a clock move. Left is different: it belongs to the person in the clue. Turn your page until you face the way that person faces. Now point to their left.",
+  "words": 49,
+  "wpm": 153.1
+}

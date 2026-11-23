@@ -1,0 +1,12 @@
+{
+  "id": "u8-q4-reveal",
+  "duration": 13.8,
+  "sourceHash": "804356e17b2bf98528ad40a5c1d5c1615d587c1fc1f903d7417b0e65c4ef74c0",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Eight buses are needed. There are seventy-eight people. Seven buses hold only seventy-seven, leaving one person without a seat. Rounding up is necessary because the requirement is enough capacity for everyone.",
+  "words": 31,
+  "wpm": 134.8
+}

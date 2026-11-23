@@ -1,0 +1,12 @@
+{
+  "id": "02-m5-worked",
+  "duration": 22.5,
+  "sourceHash": "3969b287bb159bef6b15ad6f3225c9e01db5cf0433e00b5fb12edb51d19f225e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Leo is shorter than Nina and taller than Max. We can line up those three from tallest to shortest. Where does Sam go? Try putting Sam above the entire group. Sam is tallest in that line. Now put Sam below everyone else. The original leader is tallest again. Both lines fit the clues. We cannot name one certain winner.",
+  "words": 59,
+  "wpm": 157.3
+}

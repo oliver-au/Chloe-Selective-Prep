@@ -1,0 +1,12 @@
+{
+  "id": "o6-hook",
+  "duration": 4.4,
+  "sourceHash": "6be097ed76b93c2ff478b2ee77baf5272761efb57cf8d4f63a66975ccbfbc003",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Ari owns locker three. Can you work out its colour?",
+  "words": 10,
+  "wpm": 136.4
+}

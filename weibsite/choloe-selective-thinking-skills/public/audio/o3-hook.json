@@ -1,0 +1,12 @@
+{
+  "id": "o3-hook",
+  "duration": 5.7,
+  "sourceHash": "d67404a69bbe2a67c7edef2d48c0da6a2cd371c0f03200444d93e0b61714c410",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "One box sits between two others. How many places apart are they?",
+  "words": 12,
+  "wpm": 126.3
+}

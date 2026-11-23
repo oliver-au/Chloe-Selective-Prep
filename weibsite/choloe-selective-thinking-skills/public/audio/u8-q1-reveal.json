@@ -1,0 +1,12 @@
+{
+  "id": "u8-q1-reveal",
+  "duration": 16.8,
+  "sourceHash": "10bfd8144ff3c98927cf45fadd63dd23484ac9d745a96825a15c15afcf4fd1d8",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The third visit comes eight days after Monday. The first wait lasts four days. The next wait lasts another four. That makes eight days of waiting. If we counted three extra visits after Monday, there would be three waits, making twelve days instead.",
+  "words": 43,
+  "wpm": 153.6
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c2-hook",
+  "duration": 5,
+  "sourceHash": "39ec70331bc16203843dd1668a94737312d9471ea8fca22aa7461d97ad311289",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Mia handed in her form. Has she made the final?",
+  "words": 10,
+  "wpm": 120
+}

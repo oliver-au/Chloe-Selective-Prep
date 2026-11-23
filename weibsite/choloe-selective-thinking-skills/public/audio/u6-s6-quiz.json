@@ -1,0 +1,12 @@
+{
+  "id": "u6-s6-quiz",
+  "duration": 12.9,
+  "sourceHash": "0644b1458fd7523709327d602ebb151d3c7addd0c1f2c186e73d58b9d1b9a846",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "From top one, front two, right three, can a rotation keep one on top while changing to front three and right two?",
+  "words": 22,
+  "wpm": 102.3
+}

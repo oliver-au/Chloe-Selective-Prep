@@ -1,0 +1,12 @@
+{
+  "id": "u4-o3-answer",
+  "duration": 13.4,
+  "sourceHash": "1494f49390c4b462dfc53de64f0c548e93f03cd2ced6c7655f63d3d5bbbc01fd",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Ben can occupy position two or position four. If Ava sits in position one, Ben is in two. If Ava sits in five, Ben is in four. Keep both legal cases.",
+  "words": 31,
+  "wpm": 138.8
+}

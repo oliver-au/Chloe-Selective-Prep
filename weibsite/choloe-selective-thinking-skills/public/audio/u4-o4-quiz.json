@@ -1,0 +1,12 @@
+{
+  "id": "u4-o4-quiz",
+  "duration": 10.6,
+  "sourceHash": "bedf7bb9536cda5c464d8ae19dd48cdeb85dd6c2f85e46816a8b4a98a2be4bea",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Ava is in the north seat, facing inward towards the table. Ben is in the east seat. Is Ben on Ava’s left or right?",
+  "words": 24,
+  "wpm": 135.8
+}

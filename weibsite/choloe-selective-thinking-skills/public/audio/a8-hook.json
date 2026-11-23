@@ -1,0 +1,12 @@
+{
+  "id": "a8-hook",
+  "duration": 6.1,
+  "sourceHash": "467f14e3e4cbe454461a8737a09df7b378127627e6f5a6311a2521318dd03ad4",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Observers spot many more red frogs than green ones. Are red frogs more common?",
+  "words": 14,
+  "wpm": 137.7
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u8-q2-explain",
+  "duration": 19.9,
+  "sourceHash": "c8e3f53748262804f1fd8031f329160b5d239527d30a3a76fdf31ca8d4832006",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A rate tells you how much happens in one minute or one hour. Keep those units beside the numbers. Taps filling the same tub add water together. A drain takes water away. For a whole trip, average speed has one meaning: total distance divided by total time, including any stops the question counts.",
+  "words": 53,
+  "wpm": 159.8
+}

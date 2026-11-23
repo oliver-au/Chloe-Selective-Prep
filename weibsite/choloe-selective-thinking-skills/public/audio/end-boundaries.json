@@ -1,0 +1,12 @@
+{
+  "id": "end-boundaries",
+  "duration": 23.2,
+  "sourceHash": "314a5ce3855480c11202a7795ca245cc10d40793dcc4379d99f00f0854439532",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Use the rules printed in the question. A map may show which places connect without showing their exact distances. If no distances are given, a ruler can't tell you the shortest journey. Ask which facts the diagram really gives. For practice with the actual computer test, use the Department of Education's current sample questions.",
+  "words": 54,
+  "wpm": 139.7
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u5-d6-quiz",
+  "duration": 12,
+  "sourceHash": "683684105cca1057a7064ae79bb0885ec30465f3b7ae78900e70b0d31fc5c7f7",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "All swimmers are club members. No club member is under eight. Can a swimmer be under eight? Do the statements guarantee that swimmers exist?",
+  "words": 24,
+  "wpm": 120
+}

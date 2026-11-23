@@ -1,0 +1,12 @@
+{
+  "id": "u4-o5-answer",
+  "duration": 14.1,
+  "sourceHash": "608e66c504adde6cb2eb85ed00846030f941f0e94257ac2e0cfd2af96923e080",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "It opens for training. An afternoon-only event cannot explain a morning opening, and the rules allow no other reason. Eliminating the impossible activity leaves training as the only option.",
+  "words": 29,
+  "wpm": 123.4
+}

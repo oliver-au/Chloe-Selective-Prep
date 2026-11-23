@@ -1,0 +1,12 @@
+{
+  "id": "03-a8-answer",
+  "duration": 17.2,
+  "sourceHash": "76aeadb2bf0bf50cb1a6d539a409f414c715462e18782e90f01ab6c5d6a4c160",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "It weakens the claim based on the recorded fall. The measurement rule changed, so fewer reports could occur without an equivalent fall in actual bullying. This does not prove the policy failed; it shows that these counts cannot by themselves establish its effect.",
+  "words": 43,
+  "wpm": 150
+}

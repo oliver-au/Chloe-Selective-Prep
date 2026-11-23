@@ -1,0 +1,12 @@
+{
+  "id": "01-c8-quiz",
+  "duration": 11.8,
+  "sourceHash": "3710e9f399e76d1c999eb7fa4796b98f316ac1d52f0138d92ae0c5b735c3ea0d",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A badge can be earned through training or through a challenge. Sam has a badge. Does that prove Sam completed training? Explain the alternative that prevents a definite conclusion.",
+  "words": 29,
+  "wpm": 147.5
+}

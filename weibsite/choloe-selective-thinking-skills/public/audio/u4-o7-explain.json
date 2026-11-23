@@ -1,0 +1,12 @@
+{
+  "id": "u4-o7-explain",
+  "duration": 18.5,
+  "sourceHash": "353beef027635d4d663c9e9e9a810b5d398e52125fbcdd86cc0798228bba6334",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Ava, Ben and Cara are lining up. Imagine two line-ups still fit every clue. Another clue might be true in both. Knowing it would leave you stuck. Or it might fit just one. Then you know the whole order. Try each extra clue on the original list, and count what still fits.",
+  "words": 52,
+  "wpm": 168.6
+}

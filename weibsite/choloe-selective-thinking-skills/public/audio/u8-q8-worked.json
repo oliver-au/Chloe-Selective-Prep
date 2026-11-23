@@ -1,0 +1,12 @@
+{
+  "id": "u8-q8-worked",
+  "duration": 22.7,
+  "sourceHash": "4702028d377263e9dd7b33f676669305a0b528bea1ec1de334cebe8ab3e0caa8",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Two visitors have passes from ten in the morning until one. Three have passes from eleven until two. Four have passes from one until four. A pass works from its start until its end, when its holder must be out. Mark half past twelve. The first two groups can both be there. With room for everyone, that makes five possible visitors.",
+  "words": 61,
+  "wpm": 161.2
+}

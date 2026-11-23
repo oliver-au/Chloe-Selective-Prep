@@ -1,0 +1,12 @@
+{
+  "id": "o5-hook",
+  "duration": 5.6,
+  "sourceHash": "a8e6cdf12f49ab768fb2311d02668c81f78ac7bd03a6576c48a2cb72666470b4",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Music has taken Tuesday morning. Which slot is left for chess?",
+  "words": 11,
+  "wpm": 117.9
+}

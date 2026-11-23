@@ -1,0 +1,12 @@
+{
+  "id": "u9-x4-practice",
+  "duration": 18.7,
+  "sourceHash": "1ad89352dfa039ccbc1fe9c65dc11e0dba1712573fae8b96a0bf17d7a3de9bbf",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Make the chart for tennis and swimming only. Twelve people play tennis and eight swim. They are separate groups. What fraction of the circle belongs to swimmers? A full turn is three hundred and sixty degrees. How many degrees should the swimming slice take?",
+  "words": 44,
+  "wpm": 141.2
+}

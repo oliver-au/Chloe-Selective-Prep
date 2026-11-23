@@ -1,0 +1,12 @@
+{
+  "id": "01-c10-answer",
+  "duration": 15.4,
+  "sourceHash": "777e992558717d064fd2fd99e83526f19a51a5503bb325bca94a6a8a26b55ffb",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Only Ben reasons correctly. No beep rules out a red detection under this absolute rule. Ava reverses the arrow: another input might also cause a beep. The explanation matters more than remembering the answer combination.",
+  "words": 35,
+  "wpm": 136.4
+}

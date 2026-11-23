@@ -1,0 +1,12 @@
+{
+  "id": "u8-q3-practice",
+  "duration": 12.8,
+  "sourceHash": "9132651bcd6b509a11eca7ff7fbe45a7ac5e644b8bd2e5f8b9eb9c85663126b9",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Which fraction is larger? Five parts out of eight, or seven parts out of twelve? Imagine sharing two equal-sized bars. How could you compare the pieces fairly?",
+  "words": 27,
+  "wpm": 126.6
+}

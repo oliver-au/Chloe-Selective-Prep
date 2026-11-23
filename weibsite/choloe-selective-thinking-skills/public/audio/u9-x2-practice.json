@@ -1,0 +1,12 @@
+{
+  "id": "u9-x2-practice",
+  "duration": 13.3,
+  "sourceHash": "3e4a20177b4b20aac13085df1ea4354d2d49331629f07b96a07683631b0c2a23",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Start with all three lights off again. Press switch one twice, then switch two once. Which lights finish on? Track the changes or count each light's toggles.",
+  "words": 27,
+  "wpm": 121.8
+}

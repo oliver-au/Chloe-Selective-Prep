@@ -1,0 +1,2377 @@
+{
+  "c3-hook": {
+    "text": "Nina wears a pool wristband. Does that prove she went through the gate?",
+    "src": "discovery/c3-hook-8f7ac897c44f.m4a",
+    "duration": 4.6,
+    "sourceHash": "8f7ac897c44fc55ec26155a70ec0faf61135d2ea0c58d50feba6bc36af4d6152",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "captions": [
+      {
+        "text": "Nina wears a pool wristband.",
+        "startMs": 180,
+        "endMs": 2310,
+        "timestampMs": 180,
+        "confidence": null
+      },
+      {
+        "text": "Does that prove she went through the gate?",
+        "startMs": 2460,
+        "endMs": 4410,
+        "timestampMs": 2460,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Nina",
+        "startMs": 180,
+        "endMs": 660
+      },
+      {
+        "word": "wears",
+        "startMs": 660,
+        "endMs": 1020
+      },
+      {
+        "word": "a",
+        "startMs": 1020,
+        "endMs": 1140
+      },
+      {
+        "word": "pool",
+        "startMs": 1140,
+        "endMs": 1260
+      },
+      {
+        "word": "wristband.",
+        "startMs": 1260,
+        "endMs": 2220
+      },
+      {
+        "word": "Does",
+        "startMs": 2460,
+        "endMs": 2760
+      },
+      {
+        "word": "that",
+        "startMs": 2760,
+        "endMs": 2940
+      },
+      {
+        "word": "prove",
+        "startMs": 2940,
+        "endMs": 3240
+      },
+      {
+        "word": "she",
+        "startMs": 3240,
+        "endMs": 3420
+      },
+      {
+        "word": "went",
+        "startMs": 3420,
+        "endMs": 3540
+      },
+      {
+        "word": "through",
+        "startMs": 3540,
+        "endMs": 3720
+      },
+      {
+        "word": "the",
+        "startMs": 3720,
+        "endMs": 3900
+      },
+      {
+        "word": "gate?",
+        "startMs": 3900,
+        "endMs": 4320
+      }
+    ],
+    "captionTiming": "Word-level timestamps aligned on-device with macOS en-AU SpeechAnalyzer on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "c3-predict": {
+    "text": "Read the pool rule. Only students wearing wristbands may enter. The band looks like proof. Choose your answer.",
+    "src": "discovery/c3-predict-309d5c4b005f.m4a",
+    "duration": 10.8,
+    "sourceHash": "309d5c4b005fd9862e589e1f37c3a460c9f4d347d59baf35c78d30ad83041afa",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "captions": [
+      {
+        "text": "Read the pool rule.",
+        "startMs": 180,
+        "endMs": 2070,
+        "timestampMs": 180,
+        "confidence": null
+      },
+      {
+        "text": "Only students wearing wristbands may enter.",
+        "startMs": 2700,
+        "endMs": 5910,
+        "timestampMs": 2700,
+        "confidence": null
+      },
+      {
+        "text": "The band looks like proof.",
+        "startMs": 6480,
+        "endMs": 8490,
+        "timestampMs": 6480,
+        "confidence": null
+      },
+      {
+        "text": "Choose your answer.",
+        "startMs": 8880,
+        "endMs": 9990,
+        "timestampMs": 8880,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Read",
+        "startMs": 180,
+        "endMs": 480
+      },
+      {
+        "word": "the",
+        "startMs": 480,
+        "endMs": 900
+      },
+      {
+        "word": "pool",
+        "startMs": 900,
+        "endMs": 1200
+      },
+      {
+        "word": "rule.",
+        "startMs": 1200,
+        "endMs": 1980
+      },
+      {
+        "word": "Only",
+        "startMs": 2700,
+        "endMs": 3000
+      },
+      {
+        "word": "students",
+        "startMs": 3000,
+        "endMs": 3420
+      },
+      {
+        "word": "wearing",
+        "startMs": 3420,
+        "endMs": 4020
+      },
+      {
+        "word": "wristbands",
+        "startMs": 4020,
+        "endMs": 4860
+      },
+      {
+        "word": "may",
+        "startMs": 4860,
+        "endMs": 5160
+      },
+      {
+        "word": "enter.",
+        "startMs": 5160,
+        "endMs": 5820
+      },
+      {
+        "word": "The",
+        "startMs": 6480,
+        "endMs": 6780
+      },
+      {
+        "word": "band",
+        "startMs": 6780,
+        "endMs": 6960
+      },
+      {
+        "word": "looks",
+        "startMs": 6960,
+        "endMs": 7440
+      },
+      {
+        "word": "like",
+        "startMs": 7440,
+        "endMs": 7740
+      },
+      {
+        "word": "proof.",
+        "startMs": 7740,
+        "endMs": 8400
+      },
+      {
+        "word": "Choose",
+        "startMs": 8880,
+        "endMs": 9300
+      },
+      {
+        "word": "your",
+        "startMs": 9300,
+        "endMs": 9480
+      },
+      {
+        "word": "answer.",
+        "startMs": 9480,
+        "endMs": 9900
+      }
+    ],
+    "captionTiming": "Word-level timestamps aligned on-device with macOS en-AU SpeechAnalyzer on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "c3-cross": {
+    "text": "Let's follow her. In one possible story, Nina wears her band and walks through the gate.",
+    "src": "discovery/c3-cross-61064776359f.m4a",
+    "duration": 6.4,
+    "sourceHash": "61064776359fba0792cc2fe458fa261ddfcb03c24d7019a539ee936a9147e4df",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "captions": [
+      {
+        "text": "Let's follow her.",
+        "startMs": 60,
+        "endMs": 1170,
+        "timestampMs": 60,
+        "confidence": null
+      },
+      {
+        "text": "In one possible story,",
+        "startMs": 1680,
+        "endMs": 3120,
+        "timestampMs": 1680,
+        "confidence": null
+      },
+      {
+        "text": "Nina wears her band and walks through the gate.",
+        "startMs": 3120,
+        "endMs": 6270,
+        "timestampMs": 3120,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Let's",
+        "startMs": 60,
+        "endMs": 540
+      },
+      {
+        "word": "follow",
+        "startMs": 540,
+        "endMs": 660
+      },
+      {
+        "word": "her.",
+        "startMs": 660,
+        "endMs": 1080
+      },
+      {
+        "word": "In",
+        "startMs": 1680,
+        "endMs": 1980
+      },
+      {
+        "word": "one",
+        "startMs": 1980,
+        "endMs": 2160
+      },
+      {
+        "word": "possible",
+        "startMs": 2160,
+        "endMs": 2460
+      },
+      {
+        "word": "story,",
+        "startMs": 2460,
+        "endMs": 3120
+      },
+      {
+        "word": "Nina",
+        "startMs": 3120,
+        "endMs": 3960
+      },
+      {
+        "word": "wears",
+        "startMs": 3960,
+        "endMs": 4320
+      },
+      {
+        "word": "her",
+        "startMs": 4320,
+        "endMs": 4440
+      },
+      {
+        "word": "band",
+        "startMs": 4440,
+        "endMs": 4620
+      },
+      {
+        "word": "and",
+        "startMs": 4620,
+        "endMs": 4980
+      },
+      {
+        "word": "walks",
+        "startMs": 4980,
+        "endMs": 5340
+      },
+      {
+        "word": "through",
+        "startMs": 5340,
+        "endMs": 5520
+      },
+      {
+        "word": "the",
+        "startMs": 5520,
+        "endMs": 5700
+      },
+      {
+        "word": "gate.",
+        "startMs": 5700,
+        "endMs": 6180
+      }
+    ],
+    "captionTiming": "Word-level timestamps aligned on-device with macOS en-AU SpeechAnalyzer on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "c3-stay": {
+    "text": "Rewind. Same girl, same wristband. This time she stays outside to wait for a friend. Both stories obey the rule. A band alone cannot tell us which happened.",
+    "src": "discovery/c3-stay-446174e8e95c.m4a",
+    "duration": 12.2,
+    "sourceHash": "446174e8e95c7d7f5539a6dbc560ef95670f3a89d0eb0910368545cd64180a24",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "captions": [
+      {
+        "text": "Rewind.",
+        "startMs": 240,
+        "endMs": 1080,
+        "timestampMs": 240,
+        "confidence": null
+      },
+      {
+        "text": "Same girl, same wristband.",
+        "startMs": 1080,
+        "endMs": 3450,
+        "timestampMs": 1080,
+        "confidence": null
+      },
+      {
+        "text": "This time she stays outside to wait for a friend.",
+        "startMs": 3780,
+        "endMs": 6690,
+        "timestampMs": 3780,
+        "confidence": null
+      },
+      {
+        "text": "Both stories obey the rule.",
+        "startMs": 7080,
+        "endMs": 8850,
+        "timestampMs": 7080,
+        "confidence": null
+      },
+      {
+        "text": "A band alone cannot tell us which happened.",
+        "startMs": 8880,
+        "endMs": 11610,
+        "timestampMs": 8880,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Rewind.",
+        "startMs": 240,
+        "endMs": 1080
+      },
+      {
+        "word": "Same",
+        "startMs": 1080,
+        "endMs": 1440
+      },
+      {
+        "word": "girl,",
+        "startMs": 1440,
+        "endMs": 2100
+      },
+      {
+        "word": "same",
+        "startMs": 2100,
+        "endMs": 2460
+      },
+      {
+        "word": "wristband.",
+        "startMs": 2460,
+        "endMs": 3360
+      },
+      {
+        "word": "This",
+        "startMs": 3780,
+        "endMs": 4080
+      },
+      {
+        "word": "time",
+        "startMs": 4080,
+        "endMs": 4260
+      },
+      {
+        "word": "she",
+        "startMs": 4260,
+        "endMs": 4560
+      },
+      {
+        "word": "stays",
+        "startMs": 4560,
+        "endMs": 4980
+      },
+      {
+        "word": "outside",
+        "startMs": 4980,
+        "endMs": 5280
+      },
+      {
+        "word": "to",
+        "startMs": 5280,
+        "endMs": 5760
+      },
+      {
+        "word": "wait",
+        "startMs": 5760,
+        "endMs": 5880
+      },
+      {
+        "word": "for",
+        "startMs": 5880,
+        "endMs": 6060
+      },
+      {
+        "word": "a",
+        "startMs": 6060,
+        "endMs": 6180
+      },
+      {
+        "word": "friend.",
+        "startMs": 6180,
+        "endMs": 6600
+      },
+      {
+        "word": "Both",
+        "startMs": 7080,
+        "endMs": 7380
+      },
+      {
+        "word": "stories",
+        "startMs": 7380,
+        "endMs": 7800
+      },
+      {
+        "word": "obey",
+        "startMs": 7800,
+        "endMs": 8220
+      },
+      {
+        "word": "the",
+        "startMs": 8220,
+        "endMs": 8400
+      },
+      {
+        "word": "rule.",
+        "startMs": 8400,
+        "endMs": 8760
+      },
+      {
+        "word": "A",
+        "startMs": 8880,
+        "endMs": 9180
+      },
+      {
+        "word": "band",
+        "startMs": 9180,
+        "endMs": 9420
+      },
+      {
+        "word": "alone",
+        "startMs": 9420,
+        "endMs": 9780
+      },
+      {
+        "word": "cannot",
+        "startMs": 9780,
+        "endMs": 10380
+      },
+      {
+        "word": "tell",
+        "startMs": 10380,
+        "endMs": 10740
+      },
+      {
+        "word": "us",
+        "startMs": 10740,
+        "endMs": 10860
+      },
+      {
+        "word": "which",
+        "startMs": 10860,
+        "endMs": 11040
+      },
+      {
+        "word": "happened.",
+        "startMs": 11040,
+        "endMs": 11520
+      }
+    ],
+    "captionTiming": "Word-level timestamps aligned on-device with macOS en-AU SpeechAnalyzer on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "c3-forward": {
+    "text": "Now suppose Nina did enter, following the rule. What must she have been wearing at the gate? A wristband. Start with what happened, then point to what it needed.",
+    "src": "discovery/c3-forward-9ac645240351.m4a",
+    "duration": 10.8,
+    "sourceHash": "9ac64524035138546529427c46d7ccf6c7fc5925464201307ba769fa1cad403d",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "captions": [
+      {
+        "text": "Now suppose Nina did enter, following the rule.",
+        "startMs": 120,
+        "endMs": 3150,
+        "timestampMs": 120,
+        "confidence": null
+      },
+      {
+        "text": "What must she have been wearing at the gate?",
+        "startMs": 3660,
+        "endMs": 5850,
+        "timestampMs": 3660,
+        "confidence": null
+      },
+      {
+        "text": "A wristband.",
+        "startMs": 6240,
+        "endMs": 7800,
+        "timestampMs": 6240,
+        "confidence": null
+      },
+      {
+        "text": "Start with what happened, then point to what it needed.",
+        "startMs": 7800,
+        "endMs": 10470,
+        "timestampMs": 7800,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Now",
+        "startMs": 120,
+        "endMs": 660
+      },
+      {
+        "word": "suppose",
+        "startMs": 660,
+        "endMs": 1020
+      },
+      {
+        "word": "Nina",
+        "startMs": 1020,
+        "endMs": 1440
+      },
+      {
+        "word": "did",
+        "startMs": 1440,
+        "endMs": 1680
+      },
+      {
+        "word": "enter,",
+        "startMs": 1680,
+        "endMs": 1920
+      },
+      {
+        "word": "following",
+        "startMs": 1920,
+        "endMs": 2340
+      },
+      {
+        "word": "the",
+        "startMs": 2340,
+        "endMs": 2640
+      },
+      {
+        "word": "rule.",
+        "startMs": 2640,
+        "endMs": 3060
+      },
+      {
+        "word": "What",
+        "startMs": 3660,
+        "endMs": 3960
+      },
+      {
+        "word": "must",
+        "startMs": 3960,
+        "endMs": 4260
+      },
+      {
+        "word": "she",
+        "startMs": 4260,
+        "endMs": 4500
+      },
+      {
+        "word": "have",
+        "startMs": 4500,
+        "endMs": 4680
+      },
+      {
+        "word": "been",
+        "startMs": 4680,
+        "endMs": 4800
+      },
+      {
+        "word": "wearing",
+        "startMs": 4800,
+        "endMs": 4920
+      },
+      {
+        "word": "at",
+        "startMs": 4920,
+        "endMs": 5220
+      },
+      {
+        "word": "the",
+        "startMs": 5220,
+        "endMs": 5340
+      },
+      {
+        "word": "gate?",
+        "startMs": 5340,
+        "endMs": 5760
+      },
+      {
+        "word": "A",
+        "startMs": 6240,
+        "endMs": 6540
+      },
+      {
+        "word": "wristband.",
+        "startMs": 6540,
+        "endMs": 7740
+      },
+      {
+        "word": "Start",
+        "startMs": 7800,
+        "endMs": 8040
+      },
+      {
+        "word": "with",
+        "startMs": 8040,
+        "endMs": 8280
+      },
+      {
+        "word": "what",
+        "startMs": 8280,
+        "endMs": 8460
+      },
+      {
+        "word": "happened,",
+        "startMs": 8460,
+        "endMs": 8940
+      },
+      {
+        "word": "then",
+        "startMs": 8940,
+        "endMs": 9060
+      },
+      {
+        "word": "point",
+        "startMs": 9060,
+        "endMs": 9420
+      },
+      {
+        "word": "to",
+        "startMs": 9420,
+        "endMs": 9660
+      },
+      {
+        "word": "what",
+        "startMs": 9660,
+        "endMs": 9780
+      },
+      {
+        "word": "it",
+        "startMs": 9780,
+        "endMs": 9900
+      },
+      {
+        "word": "needed.",
+        "startMs": 9900,
+        "endMs": 10380
+      }
+    ],
+    "captionTiming": "Word-level timestamps aligned on-device with macOS en-AU SpeechAnalyzer on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "c3-language": {
+    "text": "Listen to three ways of saying the pool rule. Only students wearing bands may enter. A student may enter only if wearing a band. A student cannot enter under the rule without wearing a band. Each time, entry needs a band.",
+    "src": "discovery/c3-language-bfe46a617c2a.m4a",
+    "duration": 14.7,
+    "sourceHash": "bfe46a617c2a8da8b0be147e5971a36f11d7cdf25ea4b2d684b05cc5a9f14d3d",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "captions": [
+      {
+        "text": "Listen to three ways of saying the pool rule.",
+        "startMs": 180,
+        "endMs": 2790,
+        "timestampMs": 180,
+        "confidence": null
+      },
+      {
+        "text": "Only students wearing bands may enter.",
+        "startMs": 3060,
+        "endMs": 5310,
+        "timestampMs": 3060,
+        "confidence": null
+      },
+      {
+        "text": "A student may enter only if wearing a band.",
+        "startMs": 5460,
+        "endMs": 8100,
+        "timestampMs": 5460,
+        "confidence": null
+      },
+      {
+        "text": "A student cannot enter under the rule without wearing a band.",
+        "startMs": 8100,
+        "endMs": 11730,
+        "timestampMs": 8100,
+        "confidence": null
+      },
+      {
+        "text": "Each time, entry needs a band.",
+        "startMs": 12300,
+        "endMs": 14130,
+        "timestampMs": 12300,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Listen",
+        "startMs": 180,
+        "endMs": 600
+      },
+      {
+        "word": "to",
+        "startMs": 600,
+        "endMs": 780
+      },
+      {
+        "word": "three",
+        "startMs": 780,
+        "endMs": 960
+      },
+      {
+        "word": "ways",
+        "startMs": 960,
+        "endMs": 1200
+      },
+      {
+        "word": "of",
+        "startMs": 1200,
+        "endMs": 1440
+      },
+      {
+        "word": "saying",
+        "startMs": 1440,
+        "endMs": 1620
+      },
+      {
+        "word": "the",
+        "startMs": 1620,
+        "endMs": 1860
+      },
+      {
+        "word": "pool",
+        "startMs": 1860,
+        "endMs": 2100
+      },
+      {
+        "word": "rule.",
+        "startMs": 2100,
+        "endMs": 2700
+      },
+      {
+        "word": "Only",
+        "startMs": 3060,
+        "endMs": 3360
+      },
+      {
+        "word": "students",
+        "startMs": 3360,
+        "endMs": 3900
+      },
+      {
+        "word": "wearing",
+        "startMs": 3900,
+        "endMs": 4140
+      },
+      {
+        "word": "bands",
+        "startMs": 4140,
+        "endMs": 4560
+      },
+      {
+        "word": "may",
+        "startMs": 4560,
+        "endMs": 4740
+      },
+      {
+        "word": "enter.",
+        "startMs": 4740,
+        "endMs": 5220
+      },
+      {
+        "word": "A",
+        "startMs": 5460,
+        "endMs": 5760
+      },
+      {
+        "word": "student",
+        "startMs": 5760,
+        "endMs": 5940
+      },
+      {
+        "word": "may",
+        "startMs": 5940,
+        "endMs": 6300
+      },
+      {
+        "word": "enter",
+        "startMs": 6300,
+        "endMs": 6540
+      },
+      {
+        "word": "only",
+        "startMs": 6540,
+        "endMs": 6900
+      },
+      {
+        "word": "if",
+        "startMs": 6900,
+        "endMs": 7140
+      },
+      {
+        "word": "wearing",
+        "startMs": 7140,
+        "endMs": 7320
+      },
+      {
+        "word": "a",
+        "startMs": 7320,
+        "endMs": 7740
+      },
+      {
+        "word": "band.",
+        "startMs": 7740,
+        "endMs": 8100
+      },
+      {
+        "word": "A",
+        "startMs": 8100,
+        "endMs": 8580
+      },
+      {
+        "word": "student",
+        "startMs": 8580,
+        "endMs": 8760
+      },
+      {
+        "word": "cannot",
+        "startMs": 8760,
+        "endMs": 9120
+      },
+      {
+        "word": "enter",
+        "startMs": 9120,
+        "endMs": 9480
+      },
+      {
+        "word": "under",
+        "startMs": 9480,
+        "endMs": 9840
+      },
+      {
+        "word": "the",
+        "startMs": 9840,
+        "endMs": 9960
+      },
+      {
+        "word": "rule",
+        "startMs": 9960,
+        "endMs": 10200
+      },
+      {
+        "word": "without",
+        "startMs": 10200,
+        "endMs": 10560
+      },
+      {
+        "word": "wearing",
+        "startMs": 10560,
+        "endMs": 10920
+      },
+      {
+        "word": "a",
+        "startMs": 10920,
+        "endMs": 11160
+      },
+      {
+        "word": "band.",
+        "startMs": 11160,
+        "endMs": 11640
+      },
+      {
+        "word": "Each",
+        "startMs": 12300,
+        "endMs": 12660
+      },
+      {
+        "word": "time,",
+        "startMs": 12660,
+        "endMs": 12840
+      },
+      {
+        "word": "entry",
+        "startMs": 12840,
+        "endMs": 13380
+      },
+      {
+        "word": "needs",
+        "startMs": 13380,
+        "endMs": 13620
+      },
+      {
+        "word": "a",
+        "startMs": 13620,
+        "endMs": 13800
+      },
+      {
+        "word": "band.",
+        "startMs": 13800,
+        "endMs": 14040
+      }
+    ],
+    "captionTiming": "Word-level timestamps aligned on-device with macOS en-AU SpeechAnalyzer on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "c3-room": {
+    "text": "Now try a rule for Room B. You may use Room B only if a teacher approves. There's no approval. That rules out permitted use. It tells us about permission. It doesn't tell us whether someone broke the rule.",
+    "src": "discovery/c3-room-d7695d45fc51.m4a",
+    "duration": 14.3,
+    "sourceHash": "d7695d45fc51bf4e82765a5cd78c2dfb51aa376ff4c86d546d2f2c7c88adc30a",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "captions": [
+      {
+        "text": "Now try a rule for Room B.",
+        "startMs": 180,
+        "endMs": 2430,
+        "timestampMs": 180,
+        "confidence": null
+      },
+      {
+        "text": "You may use Room B only if a teacher approves.",
+        "startMs": 2580,
+        "endMs": 5850,
+        "timestampMs": 2580,
+        "confidence": null
+      },
+      {
+        "text": "There's no approval.",
+        "startMs": 6180,
+        "endMs": 7800,
+        "timestampMs": 6180,
+        "confidence": null
+      },
+      {
+        "text": "That rules out permitted use.",
+        "startMs": 7800,
+        "endMs": 9570,
+        "timestampMs": 7800,
+        "confidence": null
+      },
+      {
+        "text": "It tells us about permission.",
+        "startMs": 9780,
+        "endMs": 11640,
+        "timestampMs": 9780,
+        "confidence": null
+      },
+      {
+        "text": "It doesn't tell us whether someone broke the rule.",
+        "startMs": 11640,
+        "endMs": 13830,
+        "timestampMs": 11640,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Now",
+        "startMs": 180,
+        "endMs": 480
+      },
+      {
+        "word": "try",
+        "startMs": 480,
+        "endMs": 840
+      },
+      {
+        "word": "a",
+        "startMs": 840,
+        "endMs": 1020
+      },
+      {
+        "word": "rule",
+        "startMs": 1020,
+        "endMs": 1260
+      },
+      {
+        "word": "for",
+        "startMs": 1260,
+        "endMs": 1440
+      },
+      {
+        "word": "Room",
+        "startMs": 1440,
+        "endMs": 1620
+      },
+      {
+        "word": "B.",
+        "startMs": 1620,
+        "endMs": 2340
+      },
+      {
+        "word": "You",
+        "startMs": 2580,
+        "endMs": 2880
+      },
+      {
+        "word": "may",
+        "startMs": 2880,
+        "endMs": 3060
+      },
+      {
+        "word": "use",
+        "startMs": 3060,
+        "endMs": 3240
+      },
+      {
+        "word": "Room",
+        "startMs": 3240,
+        "endMs": 3540
+      },
+      {
+        "word": "B",
+        "startMs": 3540,
+        "endMs": 3960
+      },
+      {
+        "word": "only",
+        "startMs": 3960,
+        "endMs": 4260
+      },
+      {
+        "word": "if",
+        "startMs": 4260,
+        "endMs": 4560
+      },
+      {
+        "word": "a",
+        "startMs": 4560,
+        "endMs": 4740
+      },
+      {
+        "word": "teacher",
+        "startMs": 4740,
+        "endMs": 4920
+      },
+      {
+        "word": "approves.",
+        "startMs": 4920,
+        "endMs": 5760
+      },
+      {
+        "word": "There's",
+        "startMs": 6180,
+        "endMs": 6660
+      },
+      {
+        "word": "no",
+        "startMs": 6660,
+        "endMs": 6720
+      },
+      {
+        "word": "approval.",
+        "startMs": 6720,
+        "endMs": 7740
+      },
+      {
+        "word": "That",
+        "startMs": 7800,
+        "endMs": 7920
+      },
+      {
+        "word": "rules",
+        "startMs": 7920,
+        "endMs": 8220
+      },
+      {
+        "word": "out",
+        "startMs": 8220,
+        "endMs": 8460
+      },
+      {
+        "word": "permitted",
+        "startMs": 8460,
+        "endMs": 9000
+      },
+      {
+        "word": "use.",
+        "startMs": 9000,
+        "endMs": 9480
+      },
+      {
+        "word": "It",
+        "startMs": 9780,
+        "endMs": 10080
+      },
+      {
+        "word": "tells",
+        "startMs": 10080,
+        "endMs": 10440
+      },
+      {
+        "word": "us",
+        "startMs": 10440,
+        "endMs": 10560
+      },
+      {
+        "word": "about",
+        "startMs": 10560,
+        "endMs": 10680
+      },
+      {
+        "word": "permission.",
+        "startMs": 10680,
+        "endMs": 11580
+      },
+      {
+        "word": "It",
+        "startMs": 11640,
+        "endMs": 11820
+      },
+      {
+        "word": "doesn't",
+        "startMs": 11820,
+        "endMs": 12180
+      },
+      {
+        "word": "tell",
+        "startMs": 12180,
+        "endMs": 12300
+      },
+      {
+        "word": "us",
+        "startMs": 12300,
+        "endMs": 12420
+      },
+      {
+        "word": "whether",
+        "startMs": 12420,
+        "endMs": 12600
+      },
+      {
+        "word": "someone",
+        "startMs": 12600,
+        "endMs": 12900
+      },
+      {
+        "word": "broke",
+        "startMs": 12900,
+        "endMs": 13200
+      },
+      {
+        "word": "the",
+        "startMs": 13200,
+        "endMs": 13380
+      },
+      {
+        "word": "rule.",
+        "startMs": 13380,
+        "endMs": 13740
+      }
+    ],
+    "captionTiming": "Word-level timestamps aligned on-device with macOS en-AU SpeechAnalyzer on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "c3-exam": {
+    "text": "A photo appears in an exhibition only if its artist gave consent. Ada and Leo each submitted one photo. Exactly one is on display. Which statement must be true?",
+    "src": "discovery/c3-exam-c1d887161163.m4a",
+    "duration": 13.2,
+    "sourceHash": "c1d887161163264b73068956438b30ab190da4dd79d1023870f80e5779ae8c54",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "captions": [
+      {
+        "text": "A photo appears in an exhibition only if its artist gave consent.",
+        "startMs": 180,
+        "endMs": 4830,
+        "timestampMs": 180,
+        "confidence": null
+      },
+      {
+        "text": "Ada and Leo each submitted one photo.",
+        "startMs": 5280,
+        "endMs": 8250,
+        "timestampMs": 5280,
+        "confidence": null
+      },
+      {
+        "text": "Exactly one is on display.",
+        "startMs": 8760,
+        "endMs": 10440,
+        "timestampMs": 8760,
+        "confidence": null
+      },
+      {
+        "text": "Which statement must be true?",
+        "startMs": 10440,
+        "endMs": 12690,
+        "timestampMs": 10440,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "A",
+        "startMs": 180,
+        "endMs": 480
+      },
+      {
+        "word": "photo",
+        "startMs": 480,
+        "endMs": 720
+      },
+      {
+        "word": "appears",
+        "startMs": 720,
+        "endMs": 1320
+      },
+      {
+        "word": "in",
+        "startMs": 1320,
+        "endMs": 1560
+      },
+      {
+        "word": "an",
+        "startMs": 1560,
+        "endMs": 1680
+      },
+      {
+        "word": "exhibition",
+        "startMs": 1680,
+        "endMs": 2280
+      },
+      {
+        "word": "only",
+        "startMs": 2280,
+        "endMs": 2760
+      },
+      {
+        "word": "if",
+        "startMs": 2760,
+        "endMs": 3120
+      },
+      {
+        "word": "its",
+        "startMs": 3120,
+        "endMs": 3300
+      },
+      {
+        "word": "artist",
+        "startMs": 3300,
+        "endMs": 3900
+      },
+      {
+        "word": "gave",
+        "startMs": 3900,
+        "endMs": 4080
+      },
+      {
+        "word": "consent.",
+        "startMs": 4080,
+        "endMs": 4740
+      },
+      {
+        "word": "Ada",
+        "startMs": 5280,
+        "endMs": 5820
+      },
+      {
+        "word": "and",
+        "startMs": 5820,
+        "endMs": 6000
+      },
+      {
+        "word": "Leo",
+        "startMs": 6000,
+        "endMs": 6420
+      },
+      {
+        "word": "each",
+        "startMs": 6420,
+        "endMs": 6720
+      },
+      {
+        "word": "submitted",
+        "startMs": 6720,
+        "endMs": 7200
+      },
+      {
+        "word": "one",
+        "startMs": 7200,
+        "endMs": 7740
+      },
+      {
+        "word": "photo.",
+        "startMs": 7740,
+        "endMs": 8160
+      },
+      {
+        "word": "Exactly",
+        "startMs": 8760,
+        "endMs": 9060
+      },
+      {
+        "word": "one",
+        "startMs": 9060,
+        "endMs": 9420
+      },
+      {
+        "word": "is",
+        "startMs": 9420,
+        "endMs": 9660
+      },
+      {
+        "word": "on",
+        "startMs": 9660,
+        "endMs": 9780
+      },
+      {
+        "word": "display.",
+        "startMs": 9780,
+        "endMs": 10440
+      },
+      {
+        "word": "Which",
+        "startMs": 10440,
+        "endMs": 11280
+      },
+      {
+        "word": "statement",
+        "startMs": 11280,
+        "endMs": 11820
+      },
+      {
+        "word": "must",
+        "startMs": 11820,
+        "endMs": 12060
+      },
+      {
+        "word": "be",
+        "startMs": 12060,
+        "endMs": 12240
+      },
+      {
+        "word": "true?",
+        "startMs": 12240,
+        "endMs": 12600
+      }
+    ],
+    "captionTiming": "Word-level timestamps aligned on-device with macOS en-AU SpeechAnalyzer on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "c3-exam-proof": {
+    "text": "Choice C. Follow the displayed photo back to the consent it needed. Only one photo is displayed, so choice A is out. Try the first artist's photo in the frame. Now try the other artist's photo. Either story works, so neither choice B nor choice D is certain.",
+    "src": "discovery/c3-exam-proof-31c207bd9ea8.m4a",
+    "duration": 18.7,
+    "sourceHash": "31c207bd9ea87e2f37ee2a6dc0a91fd8f0acd6c5cec69bb785e487434c74f2eb",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "captions": [
+      {
+        "text": "Choice C.",
+        "startMs": 180,
+        "endMs": 1020,
+        "timestampMs": 180,
+        "confidence": null
+      },
+      {
+        "text": "Follow the displayed photo back to the consent it needed.",
+        "startMs": 1020,
+        "endMs": 4830,
+        "timestampMs": 1020,
+        "confidence": null
+      },
+      {
+        "text": "Only one photo is displayed, so choice A is out.",
+        "startMs": 5100,
+        "endMs": 8550,
+        "timestampMs": 5100,
+        "confidence": null
+      },
+      {
+        "text": "Try the first artist's photo in the frame.",
+        "startMs": 9000,
+        "endMs": 11640,
+        "timestampMs": 9000,
+        "confidence": null
+      },
+      {
+        "text": "Now try the other artist's photo.",
+        "startMs": 11640,
+        "endMs": 13710,
+        "timestampMs": 11640,
+        "confidence": null
+      },
+      {
+        "text": "Either story works, so neither choice B nor choice D is certain.",
+        "startMs": 13980,
+        "endMs": 18210,
+        "timestampMs": 13980,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Choice",
+        "startMs": 180,
+        "endMs": 660
+      },
+      {
+        "word": "C.",
+        "startMs": 660,
+        "endMs": 1020
+      },
+      {
+        "word": "Follow",
+        "startMs": 1020,
+        "endMs": 1740
+      },
+      {
+        "word": "the",
+        "startMs": 1740,
+        "endMs": 2100
+      },
+      {
+        "word": "displayed",
+        "startMs": 2100,
+        "endMs": 2640
+      },
+      {
+        "word": "photo",
+        "startMs": 2640,
+        "endMs": 2820
+      },
+      {
+        "word": "back",
+        "startMs": 2820,
+        "endMs": 3240
+      },
+      {
+        "word": "to",
+        "startMs": 3240,
+        "endMs": 3420
+      },
+      {
+        "word": "the",
+        "startMs": 3420,
+        "endMs": 3540
+      },
+      {
+        "word": "consent",
+        "startMs": 3540,
+        "endMs": 4080
+      },
+      {
+        "word": "it",
+        "startMs": 4080,
+        "endMs": 4320
+      },
+      {
+        "word": "needed.",
+        "startMs": 4320,
+        "endMs": 4740
+      },
+      {
+        "word": "Only",
+        "startMs": 5100,
+        "endMs": 5400
+      },
+      {
+        "word": "one",
+        "startMs": 5400,
+        "endMs": 5760
+      },
+      {
+        "word": "photo",
+        "startMs": 5760,
+        "endMs": 6000
+      },
+      {
+        "word": "is",
+        "startMs": 6000,
+        "endMs": 6360
+      },
+      {
+        "word": "displayed,",
+        "startMs": 6360,
+        "endMs": 6960
+      },
+      {
+        "word": "so",
+        "startMs": 6960,
+        "endMs": 7080
+      },
+      {
+        "word": "choice",
+        "startMs": 7080,
+        "endMs": 7740
+      },
+      {
+        "word": "A",
+        "startMs": 7740,
+        "endMs": 7920
+      },
+      {
+        "word": "is",
+        "startMs": 7920,
+        "endMs": 8160
+      },
+      {
+        "word": "out.",
+        "startMs": 8160,
+        "endMs": 8460
+      },
+      {
+        "word": "Try",
+        "startMs": 9000,
+        "endMs": 9300
+      },
+      {
+        "word": "the",
+        "startMs": 9300,
+        "endMs": 9540
+      },
+      {
+        "word": "first",
+        "startMs": 9540,
+        "endMs": 9780
+      },
+      {
+        "word": "artist's",
+        "startMs": 9780,
+        "endMs": 10080
+      },
+      {
+        "word": "photo",
+        "startMs": 10080,
+        "endMs": 10440
+      },
+      {
+        "word": "in",
+        "startMs": 10440,
+        "endMs": 10680
+      },
+      {
+        "word": "the",
+        "startMs": 10680,
+        "endMs": 10740
+      },
+      {
+        "word": "frame.",
+        "startMs": 10740,
+        "endMs": 11580
+      },
+      {
+        "word": "Now",
+        "startMs": 11640,
+        "endMs": 11880
+      },
+      {
+        "word": "try",
+        "startMs": 11880,
+        "endMs": 12300
+      },
+      {
+        "word": "the",
+        "startMs": 12300,
+        "endMs": 12480
+      },
+      {
+        "word": "other",
+        "startMs": 12480,
+        "endMs": 12600
+      },
+      {
+        "word": "artist's",
+        "startMs": 12600,
+        "endMs": 13140
+      },
+      {
+        "word": "photo.",
+        "startMs": 13140,
+        "endMs": 13620
+      },
+      {
+        "word": "Either",
+        "startMs": 13980,
+        "endMs": 14400
+      },
+      {
+        "word": "story",
+        "startMs": 14400,
+        "endMs": 14640
+      },
+      {
+        "word": "works,",
+        "startMs": 14640,
+        "endMs": 15420
+      },
+      {
+        "word": "so",
+        "startMs": 15420,
+        "endMs": 15540
+      },
+      {
+        "word": "neither",
+        "startMs": 15540,
+        "endMs": 15960
+      },
+      {
+        "word": "choice",
+        "startMs": 15960,
+        "endMs": 16200
+      },
+      {
+        "word": "B",
+        "startMs": 16200,
+        "endMs": 16500
+      },
+      {
+        "word": "nor",
+        "startMs": 16500,
+        "endMs": 16920
+      },
+      {
+        "word": "choice",
+        "startMs": 16920,
+        "endMs": 17220
+      },
+      {
+        "word": "D",
+        "startMs": 17220,
+        "endMs": 17520
+      },
+      {
+        "word": "is",
+        "startMs": 17520,
+        "endMs": 17760
+      },
+      {
+        "word": "certain.",
+        "startMs": 17760,
+        "endMs": 18120
+      }
+    ],
+    "captionTiming": "Word-level timestamps aligned on-device with macOS en-AU SpeechAnalyzer on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "c3-transfer": {
+    "text": "A rover cannot send a signal without power. Mission Control received a signal from this rover. Which statement must be true?",
+    "src": "discovery/c3-transfer-cd0ab4e08597.m4a",
+    "duration": 9.8,
+    "sourceHash": "cd0ab4e0859759e7f0e868c4f28b60ce0a63aff0ae34f3b69d1615fe51d501e7",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "captions": [
+      {
+        "text": "A rover cannot send a signal without power.",
+        "startMs": 180,
+        "endMs": 3990,
+        "timestampMs": 180,
+        "confidence": null
+      },
+      {
+        "text": "Mission Control received a signal from this rover.",
+        "startMs": 4020,
+        "endMs": 7710,
+        "timestampMs": 4020,
+        "confidence": null
+      },
+      {
+        "text": "Which statement must be true?",
+        "startMs": 7800,
+        "endMs": 9570,
+        "timestampMs": 7800,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "A",
+        "startMs": 180,
+        "endMs": 480
+      },
+      {
+        "word": "rover",
+        "startMs": 480,
+        "endMs": 960
+      },
+      {
+        "word": "cannot",
+        "startMs": 960,
+        "endMs": 1320
+      },
+      {
+        "word": "send",
+        "startMs": 1320,
+        "endMs": 1740
+      },
+      {
+        "word": "a",
+        "startMs": 1740,
+        "endMs": 1980
+      },
+      {
+        "word": "signal",
+        "startMs": 1980,
+        "endMs": 2340
+      },
+      {
+        "word": "without",
+        "startMs": 2340,
+        "endMs": 2640
+      },
+      {
+        "word": "power.",
+        "startMs": 2640,
+        "endMs": 3900
+      },
+      {
+        "word": "Mission",
+        "startMs": 4020,
+        "endMs": 4560
+      },
+      {
+        "word": "Control",
+        "startMs": 4560,
+        "endMs": 4920
+      },
+      {
+        "word": "received",
+        "startMs": 4920,
+        "endMs": 5340
+      },
+      {
+        "word": "a",
+        "startMs": 5340,
+        "endMs": 5580
+      },
+      {
+        "word": "signal",
+        "startMs": 5580,
+        "endMs": 5880
+      },
+      {
+        "word": "from",
+        "startMs": 5880,
+        "endMs": 6120
+      },
+      {
+        "word": "this",
+        "startMs": 6120,
+        "endMs": 6360
+      },
+      {
+        "word": "rover.",
+        "startMs": 6360,
+        "endMs": 7620
+      },
+      {
+        "word": "Which",
+        "startMs": 7800,
+        "endMs": 7980
+      },
+      {
+        "word": "statement",
+        "startMs": 7980,
+        "endMs": 8520
+      },
+      {
+        "word": "must",
+        "startMs": 8520,
+        "endMs": 8760
+      },
+      {
+        "word": "be",
+        "startMs": 8760,
+        "endMs": 9000
+      },
+      {
+        "word": "true?",
+        "startMs": 9000,
+        "endMs": 9480
+      }
+    ],
+    "captionTiming": "Word-level timestamps aligned on-device with macOS en-AU SpeechAnalyzer on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "c3-transfer-proof": {
+    "text": "Choice B. The rover sent a signal, so it had power when it sent it. Choice A turns the rule backwards. A powered rover could stay silent. Choice C asks about its power now. The signal only tells us about the moment it was sent. Choice D guesses where that power came from.",
+    "src": "discovery/c3-transfer-proof-ac2d1163adb9.m4a",
+    "duration": 20.8,
+    "sourceHash": "ac2d1163adb9515e3d65096a5b36ede64d70d9eb784d3594c8be7315a6687202",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "captions": [
+      {
+        "text": "Choice B.",
+        "startMs": 120,
+        "endMs": 1290,
+        "timestampMs": 120,
+        "confidence": null
+      },
+      {
+        "text": "The rover sent a signal, so it had power when it sent it.",
+        "startMs": 1380,
+        "endMs": 5130,
+        "timestampMs": 1380,
+        "confidence": null
+      },
+      {
+        "text": "Choice A turns the rule backwards.",
+        "startMs": 5640,
+        "endMs": 8010,
+        "timestampMs": 5640,
+        "confidence": null
+      },
+      {
+        "text": "A powered rover could stay silent.",
+        "startMs": 8100,
+        "endMs": 10410,
+        "timestampMs": 8100,
+        "confidence": null
+      },
+      {
+        "text": "Choice C asks about its power now.",
+        "startMs": 10920,
+        "endMs": 13590,
+        "timestampMs": 10920,
+        "confidence": null
+      },
+      {
+        "text": "The signal only tells us about the moment it was sent.",
+        "startMs": 14160,
+        "endMs": 16650,
+        "timestampMs": 14160,
+        "confidence": null
+      },
+      {
+        "text": "Choice D guesses where that power came from.",
+        "startMs": 17340,
+        "endMs": 20070,
+        "timestampMs": 17340,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Choice",
+        "startMs": 120,
+        "endMs": 540
+      },
+      {
+        "word": "B.",
+        "startMs": 540,
+        "endMs": 1200
+      },
+      {
+        "word": "The",
+        "startMs": 1380,
+        "endMs": 1680
+      },
+      {
+        "word": "rover",
+        "startMs": 1680,
+        "endMs": 2040
+      },
+      {
+        "word": "sent",
+        "startMs": 2040,
+        "endMs": 2280
+      },
+      {
+        "word": "a",
+        "startMs": 2280,
+        "endMs": 2460
+      },
+      {
+        "word": "signal,",
+        "startMs": 2460,
+        "endMs": 2940
+      },
+      {
+        "word": "so",
+        "startMs": 2940,
+        "endMs": 3180
+      },
+      {
+        "word": "it",
+        "startMs": 3180,
+        "endMs": 3480
+      },
+      {
+        "word": "had",
+        "startMs": 3480,
+        "endMs": 3900
+      },
+      {
+        "word": "power",
+        "startMs": 3900,
+        "endMs": 4080
+      },
+      {
+        "word": "when",
+        "startMs": 4080,
+        "endMs": 4380
+      },
+      {
+        "word": "it",
+        "startMs": 4380,
+        "endMs": 4500
+      },
+      {
+        "word": "sent",
+        "startMs": 4500,
+        "endMs": 4680
+      },
+      {
+        "word": "it.",
+        "startMs": 4680,
+        "endMs": 5040
+      },
+      {
+        "word": "Choice",
+        "startMs": 5640,
+        "endMs": 6060
+      },
+      {
+        "word": "A",
+        "startMs": 6060,
+        "endMs": 6360
+      },
+      {
+        "word": "turns",
+        "startMs": 6360,
+        "endMs": 6960
+      },
+      {
+        "word": "the",
+        "startMs": 6960,
+        "endMs": 7080
+      },
+      {
+        "word": "rule",
+        "startMs": 7080,
+        "endMs": 7260
+      },
+      {
+        "word": "backwards.",
+        "startMs": 7260,
+        "endMs": 7920
+      },
+      {
+        "word": "A",
+        "startMs": 8100,
+        "endMs": 8400
+      },
+      {
+        "word": "powered",
+        "startMs": 8400,
+        "endMs": 8820
+      },
+      {
+        "word": "rover",
+        "startMs": 8820,
+        "endMs": 9240
+      },
+      {
+        "word": "could",
+        "startMs": 9240,
+        "endMs": 9540
+      },
+      {
+        "word": "stay",
+        "startMs": 9540,
+        "endMs": 9780
+      },
+      {
+        "word": "silent.",
+        "startMs": 9780,
+        "endMs": 10320
+      },
+      {
+        "word": "Choice",
+        "startMs": 10920,
+        "endMs": 11400
+      },
+      {
+        "word": "C",
+        "startMs": 11400,
+        "endMs": 11760
+      },
+      {
+        "word": "asks",
+        "startMs": 11760,
+        "endMs": 12420
+      },
+      {
+        "word": "about",
+        "startMs": 12420,
+        "endMs": 12540
+      },
+      {
+        "word": "its",
+        "startMs": 12540,
+        "endMs": 12720
+      },
+      {
+        "word": "power",
+        "startMs": 12720,
+        "endMs": 12960
+      },
+      {
+        "word": "now.",
+        "startMs": 12960,
+        "endMs": 13500
+      },
+      {
+        "word": "The",
+        "startMs": 14160,
+        "endMs": 14460
+      },
+      {
+        "word": "signal",
+        "startMs": 14460,
+        "endMs": 14820
+      },
+      {
+        "word": "only",
+        "startMs": 14820,
+        "endMs": 15060
+      },
+      {
+        "word": "tells",
+        "startMs": 15060,
+        "endMs": 15420
+      },
+      {
+        "word": "us",
+        "startMs": 15420,
+        "endMs": 15480
+      },
+      {
+        "word": "about",
+        "startMs": 15480,
+        "endMs": 15660
+      },
+      {
+        "word": "the",
+        "startMs": 15660,
+        "endMs": 15840
+      },
+      {
+        "word": "moment",
+        "startMs": 15840,
+        "endMs": 15960
+      },
+      {
+        "word": "it",
+        "startMs": 15960,
+        "endMs": 16200
+      },
+      {
+        "word": "was",
+        "startMs": 16200,
+        "endMs": 16320
+      },
+      {
+        "word": "sent.",
+        "startMs": 16320,
+        "endMs": 16560
+      },
+      {
+        "word": "Choice",
+        "startMs": 17340,
+        "endMs": 17760
+      },
+      {
+        "word": "D",
+        "startMs": 17760,
+        "endMs": 18060
+      },
+      {
+        "word": "guesses",
+        "startMs": 18060,
+        "endMs": 18780
+      },
+      {
+        "word": "where",
+        "startMs": 18780,
+        "endMs": 19260
+      },
+      {
+        "word": "that",
+        "startMs": 19260,
+        "endMs": 19380
+      },
+      {
+        "word": "power",
+        "startMs": 19380,
+        "endMs": 19500
+      },
+      {
+        "word": "came",
+        "startMs": 19500,
+        "endMs": 19740
+      },
+      {
+        "word": "from.",
+        "startMs": 19740,
+        "endMs": 19980
+      }
+    ],
+    "captionTiming": "Word-level timestamps aligned on-device with macOS en-AU SpeechAnalyzer on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "c3-recap": {
+    "text": "At the pool, entry needed a band. At the rover, sending needed power. Ask yourself: what does this result need? Draw the arrow that way.",
+    "src": "discovery/c3-recap-1eed6cc24d78.m4a",
+    "duration": 10,
+    "sourceHash": "1eed6cc24d7869e24f59db8870c5cf6d91eabf3e1315efbde47f6fa56a276e58",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "captions": [
+      {
+        "text": "At the pool, entry needed a band.",
+        "startMs": 0,
+        "endMs": 2400,
+        "timestampMs": 0,
+        "confidence": null
+      },
+      {
+        "text": "At the rover, sending needed power.",
+        "startMs": 2400,
+        "endMs": 5130,
+        "timestampMs": 2400,
+        "confidence": null
+      },
+      {
+        "text": "Ask yourself: what does this result need?",
+        "startMs": 5460,
+        "endMs": 8190,
+        "timestampMs": 5460,
+        "confidence": null
+      },
+      {
+        "text": "Draw the arrow that way.",
+        "startMs": 8340,
+        "endMs": 9690,
+        "timestampMs": 8340,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "At",
+        "startMs": 0,
+        "endMs": 300
+      },
+      {
+        "word": "the",
+        "startMs": 300,
+        "endMs": 480
+      },
+      {
+        "word": "pool,",
+        "startMs": 480,
+        "endMs": 1020
+      },
+      {
+        "word": "entry",
+        "startMs": 1020,
+        "endMs": 1440
+      },
+      {
+        "word": "needed",
+        "startMs": 1440,
+        "endMs": 1680
+      },
+      {
+        "word": "a",
+        "startMs": 1680,
+        "endMs": 1980
+      },
+      {
+        "word": "band.",
+        "startMs": 1980,
+        "endMs": 2400
+      },
+      {
+        "word": "At",
+        "startMs": 2400,
+        "endMs": 2880
+      },
+      {
+        "word": "the",
+        "startMs": 2880,
+        "endMs": 3060
+      },
+      {
+        "word": "rover,",
+        "startMs": 3060,
+        "endMs": 3900
+      },
+      {
+        "word": "sending",
+        "startMs": 3900,
+        "endMs": 4020
+      },
+      {
+        "word": "needed",
+        "startMs": 4020,
+        "endMs": 4380
+      },
+      {
+        "word": "power.",
+        "startMs": 4380,
+        "endMs": 5040
+      },
+      {
+        "word": "Ask",
+        "startMs": 5460,
+        "endMs": 5760
+      },
+      {
+        "word": "yourself:",
+        "startMs": 5760,
+        "endMs": 6360
+      },
+      {
+        "word": "what",
+        "startMs": 6360,
+        "endMs": 6720
+      },
+      {
+        "word": "does",
+        "startMs": 6720,
+        "endMs": 7020
+      },
+      {
+        "word": "this",
+        "startMs": 7020,
+        "endMs": 7200
+      },
+      {
+        "word": "result",
+        "startMs": 7200,
+        "endMs": 7380
+      },
+      {
+        "word": "need?",
+        "startMs": 7380,
+        "endMs": 8100
+      },
+      {
+        "word": "Draw",
+        "startMs": 8340,
+        "endMs": 8700
+      },
+      {
+        "word": "the",
+        "startMs": 8700,
+        "endMs": 8940
+      },
+      {
+        "word": "arrow",
+        "startMs": 8940,
+        "endMs": 9180
+      },
+      {
+        "word": "that",
+        "startMs": 9180,
+        "endMs": 9360
+      },
+      {
+        "word": "way.",
+        "startMs": 9360,
+        "endMs": 9600
+      }
+    ],
+    "captionTiming": "Word-level timestamps aligned on-device with macOS en-AU SpeechAnalyzer on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  }
+}

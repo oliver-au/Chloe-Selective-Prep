@@ -1,0 +1,12 @@
+{
+  "id": "s7-hook",
+  "duration": 4.3,
+  "sourceHash": "4e6cf020cd6e7df382713826e7d1f47a54680ca744ceb1bee1f5bc73a69dca7f",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Three squares are missing. Will any three-square piece fit?",
+  "words": 9,
+  "wpm": 125.6
+}

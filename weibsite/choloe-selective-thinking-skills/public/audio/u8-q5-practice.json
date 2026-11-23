@@ -1,0 +1,12 @@
+{
+  "id": "u8-q5-practice",
+  "duration": 11.1,
+  "sourceHash": "db93534cef98310700c86ef7fa046ba0bbaed7a93d90e771886a3125fae4ab41",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A walker returns eighty metres to collect a dropped bottle, then walks those eighty metres forward again. How much extra distance does this detour add?",
+  "words": 25,
+  "wpm": 135.1
+}

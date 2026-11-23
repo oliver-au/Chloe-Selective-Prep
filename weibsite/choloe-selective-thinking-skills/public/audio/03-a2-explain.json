@@ -1,0 +1,12 @@
+{
+  "id": "03-a2-explain",
+  "duration": 18.9,
+  "sourceHash": "019f04b64f4976e150edc66d3b4a762fcb1bdd8a53c7278ed516451cbf29cd1f",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "To weaken an argument, find something that makes its conclusion harder to believe from the evidence given. Maybe a second change could explain the result. Maybe the proposed fix misses the real problem. A fact can sound like bad news and still tell you nothing about this particular claim.",
+  "words": 49,
+  "wpm": 155.6
+}

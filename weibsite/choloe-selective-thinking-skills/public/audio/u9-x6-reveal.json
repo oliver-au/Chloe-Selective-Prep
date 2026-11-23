@@ -1,0 +1,12 @@
+{
+  "id": "u9-x6-reveal",
+  "duration": 15,
+  "sourceHash": "730a4c453619fb563d04f6f5e7c3dcac4408c94818df6e6fd312674bedb6fef5",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "We still cannot tell. The first type can eat berries. That bird could leave this particular berry alone. The second type never eats berries, so it could leave this berry alone too. Both stories fit exactly what we saw.",
+  "words": 39,
+  "wpm": 156
+}

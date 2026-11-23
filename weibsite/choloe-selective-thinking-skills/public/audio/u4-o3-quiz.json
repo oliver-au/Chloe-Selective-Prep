@@ -1,0 +1,12 @@
+{
+  "id": "u4-o3-quiz",
+  "duration": 10.9,
+  "sourceHash": "057e27f6487ef53d8d9e9c7361b396bdf10671d7fff2020be1952fa8d89f7bc0",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "There are five seats. Ava sits at one end, and Ben sits immediately beside Ava. Which position numbers could Ben occupy?",
+  "words": 21,
+  "wpm": 115.6
+}

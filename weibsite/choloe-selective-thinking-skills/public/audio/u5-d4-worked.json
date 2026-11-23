@@ -1,0 +1,12 @@
+{
+  "id": "u5-d4-worked",
+  "duration": 21.2,
+  "sourceHash": "92e7bdeceba8bc5d936072eb07d71e312397ac1f04ceab64718ed7d52aed3c4e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The rules say Ava must be before Ben, and Cara must not be last. Test the order Cara, Ava, Ben. Ava is before Ben, and Cara is first, not last. Both rules pass, so this order could work. We have proved possibility, not that it is the only legal order.",
+  "words": 50,
+  "wpm": 141.5
+}

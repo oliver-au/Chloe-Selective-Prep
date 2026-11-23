@@ -1,0 +1,12 @@
+{
+  "id": "q6-hook",
+  "duration": 7.4,
+  "sourceHash": "bd804c698bd6834715a0373eefdcecb8e8f236259728aa215c4dcf570d767d15",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Six teams each list five opponents. Does that mean thirty matches?",
+  "words": 11,
+  "wpm": 89.2
+}

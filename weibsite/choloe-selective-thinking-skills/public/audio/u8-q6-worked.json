@@ -1,0 +1,12 @@
+{
+  "id": "u8-q6-worked",
+  "duration": 21.2,
+  "sourceHash": "fd597bc7b38a09e88bc9c6511a09735157176916dfa3199776e6a637d72f9ad2",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Six teams each play every other team once. Each team has five opponents, giving thirty team-opponent entries. But every match appears twice: A against B and B against A are the same match. Divide by two. There are fifteen matches. This rule works because every unordered pair plays exactly once.",
+  "words": 50,
+  "wpm": 141.5
+}

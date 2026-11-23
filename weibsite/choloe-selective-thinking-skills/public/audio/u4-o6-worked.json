@@ -1,0 +1,12 @@
+{
+  "id": "u4-o6-worked",
+  "duration": 19,
+  "sourceHash": "2d3ce83cf3963a8e4ed5e17db2591927ffdf67b59077f293b70300041c09cf55",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Three lockers, numbered one to three from left to right, are blue, red, and green, with each colour used once. The first locker is blue. Ari owns the third locker. The red locker is immediately to the left of his. That puts red in the middle. The only colour left for the third locker is green.",
+  "words": 56,
+  "wpm": 176.8
+}

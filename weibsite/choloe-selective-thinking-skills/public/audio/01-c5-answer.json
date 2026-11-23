@@ -1,0 +1,12 @@
+{
+  "id": "01-c5-answer",
+  "duration": 17,
+  "sourceHash": "d8f4bc8440f4a95630a0a127d1cd6b7d5d7259902a604b4966b064a2695543ff",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "No. Picture a green lime with sour juice. That fruit tastes sour, and it is different from a lemon. Our example follows the rule about lemons and still breaks the claim about this fruit. One way to get a sour taste does not have to be the only way.",
+  "words": 49,
+  "wpm": 172.9
+}

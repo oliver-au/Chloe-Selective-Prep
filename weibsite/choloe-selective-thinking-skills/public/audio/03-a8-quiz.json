@@ -1,0 +1,12 @@
+{
+  "id": "03-a8-quiz",
+  "duration": 17.2,
+  "sourceHash": "04fd55a61f34e2b76ca4f838fb13c47dd68804cdf07615ba7a14d9e72fcebc97",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Reported bullying falls by thirty per cent after a policy starts. At the same time, minor incidents stop being recorded. How does that change affect the claim that the policy reduced actual bullying? Identify what was measured differently.",
+  "words": 38,
+  "wpm": 132.6
+}

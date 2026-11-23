@@ -1,0 +1,12 @@
+{
+  "id": "u8-q4-explain",
+  "duration": 17.9,
+  "sourceHash": "c77e6382ffce8ab02c27b4e7a03820423ae272966700f4285285ccd53c66898e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Build one kit in your head. How many pencils does it use? How many stickers? Work out how many whole kits each supply could fill on its own. The first supply to run short sets your limit. A bus question runs the other way. There, even one person left behind may mean another bus.",
+  "words": 54,
+  "wpm": 181
+}

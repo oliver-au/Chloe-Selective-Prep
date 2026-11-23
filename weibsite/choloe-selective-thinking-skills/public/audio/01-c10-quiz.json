@@ -1,0 +1,12 @@
+{
+  "id": "01-c10-quiz",
+  "duration": 21.1,
+  "sourceHash": "e1ff3c4adb21bc5bdb33a5d11d3a9c10a4d3a1f892b6f459787c51893c5665eb",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Consider two different trials. If a robot detects red, it beeps. Ava hears a beep in her trial and says the robot detected red. Ben hears no beep in his trial and says it did not detect red. Which speaker reasons correctly? Test both claims from the same rule.",
+  "words": 49,
+  "wpm": 139.3
+}

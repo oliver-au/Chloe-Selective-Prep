@@ -1,0 +1,12 @@
+{
+  "id": "u5-d7-quiz",
+  "duration": 18,
+  "sourceHash": "84dce7589a24cb81bbca504e8b5825d7009be0e8a66ed812e81277bada70cd2e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "There are just two possible codes left. One is twelve. The other is thirteen. You may ask one question. Does the code end in the digit two? Think about both possible replies. Will the reply always tell you the whole code?",
+  "words": 41,
+  "wpm": 136.7
+}

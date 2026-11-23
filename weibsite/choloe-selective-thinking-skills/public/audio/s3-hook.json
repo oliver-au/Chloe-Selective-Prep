@@ -1,0 +1,12 @@
+{
+  "id": "s3-hook",
+  "duration": 6.5,
+  "sourceHash": "8c402481c8c77254d719c4a89677f68f61194d59fd935996e96c9b161224ff62",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Two cubes stand in front of three. How tall will the stack look from the front?",
+  "words": 16,
+  "wpm": 147.7
+}

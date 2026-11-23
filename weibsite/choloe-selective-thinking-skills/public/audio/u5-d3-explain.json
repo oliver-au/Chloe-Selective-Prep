@@ -1,0 +1,12 @@
+{
+  "id": "u5-d3-explain",
+  "duration": 19.2,
+  "sourceHash": "d603c50e9ae38964555ed86f1dce873b2923d13d2d9a373d99021007d771499a",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Imagine a team list with two possible versions. In one, Leo joins. In the other, Maya joins. Give each version its own row. Add only the people its clues require. If a name is missing from a clue, leave a question mark there. You can promise a result only if it holds in every row.",
+  "words": 55,
+  "wpm": 171.9
+}

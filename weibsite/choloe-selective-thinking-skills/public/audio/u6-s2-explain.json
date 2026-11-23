@@ -1,0 +1,12 @@
+{
+  "id": "u6-s2-explain",
+  "duration": 20.1,
+  "sourceHash": "fa5cbcbd4ece3cb91a3bbd6323b690d4c5fb0040365217c4ceff5f0afc5975d9",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Imagine holding the page down with one fingertip while you turn it. Your fingertip marks the centre. The whole drawing turns around that point. A quarter-turn is ninety degrees, like a clock hand moving from twelve to three. A real turn keeps the shape the same way round. You never need to flip the page over.",
+  "words": 56,
+  "wpm": 167.2
+}

@@ -1,0 +1,12 @@
+{
+  "id": "02-m1-quiz",
+  "duration": 15.5,
+  "sourceHash": "b1cb94883952d0e2f18b0d915a53d6e6dab7de2d0b2fa3699aa29f21be903b29",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Ava stands before Ben, and Ben stands before Chen. Dani can stand anywhere. Must Chen finish the line? Try putting somebody behind Chen. Does your new line still follow both rules?",
+  "words": 31,
+  "wpm": 120
+}

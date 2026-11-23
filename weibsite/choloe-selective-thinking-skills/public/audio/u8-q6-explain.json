@@ -1,0 +1,12 @@
+{
+  "id": "u8-q6-explain",
+  "duration": 18.7,
+  "sourceHash": "fefaf038c8b2dc7ccf2d4e50135db413bffe833736678556a5b5a4f91e38a75e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Try a tiny example before using a formula. Two teams play one match. Each team writes down the other team, so those two entries mean just one match. With a fence, try drawing one gap. It needs a post at both ends. First decide exactly what you're counting.",
+  "words": 48,
+  "wpm": 154
+}

@@ -1,0 +1,12 @@
+{
+  "id": "q3-hook",
+  "duration": 7.3,
+  "sourceHash": "58e83a6cd237d6f5d996627239192e6fd12b1a56abfe5738865001928aadb476",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "For every two red counters, there are three blue. What fraction of all the counters are red?",
+  "words": 17,
+  "wpm": 139.7
+}

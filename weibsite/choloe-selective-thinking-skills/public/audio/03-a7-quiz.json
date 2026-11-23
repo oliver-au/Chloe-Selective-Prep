@@ -1,0 +1,12 @@
+{
+  "id": "03-a7-quiz",
+  "duration": 15,
+  "sourceHash": "a1780cf014c9ba09c96ca8baa6637eca0e731ad840139adc7c9f858a482455f6",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "This year's class scores higher after a new programme than last year's class did. Before crediting the programme, what starting condition should we compare? Explain why the two final scores may not be a fair test.",
+  "words": 36,
+  "wpm": 144
+}

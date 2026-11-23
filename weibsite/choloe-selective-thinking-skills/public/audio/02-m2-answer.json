@@ -1,0 +1,12 @@
+{
+  "id": "02-m2-answer",
+  "duration": 13,
+  "sourceHash": "ceb32128602d250504d91f53b73658f36b0122dd6f99ad972547cb5fdc1a8bdf",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Yes. Ava is before Ben, and Chloe is third rather than first. The complete order satisfies both rules, so it could work. We do not need to show that every arrangement has this order.",
+  "words": 34,
+  "wpm": 156.9
+}

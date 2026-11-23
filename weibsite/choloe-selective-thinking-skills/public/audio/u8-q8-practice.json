@@ -1,0 +1,12 @@
+{
+  "id": "u8-q8-practice",
+  "duration": 14.8,
+  "sourceHash": "36c5862ba191b925cee806649563006d9c25867049cfcd6a93f482499a5c765a",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The same passes accept visitors from their start and require them out by the end. There is room for everyone. At half past two in the afternoon, what is the greatest number of visitors who could be inside?",
+  "words": 38,
+  "wpm": 154.1
+}

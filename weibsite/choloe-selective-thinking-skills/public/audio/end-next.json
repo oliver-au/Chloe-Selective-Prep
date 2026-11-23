@@ -1,0 +1,12 @@
+{
+  "id": "end-next",
+  "duration": 21.7,
+  "sourceHash": "ade5d2c34ab6139747470668816dd285135542f8ee7ee1b219aead1f67bb2df2",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Chloe, pick one puzzle to try today. Pause the video when you reach the question. Draw the clues and choose an answer. Can you point to the part of your drawing that proves it? After the video, try the fresh practice question. Tomorrow, come back and see if you can use the same idea in a new story.",
+  "words": 58,
+  "wpm": 160.4
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u8-q10-explain",
+  "duration": 19.2,
+  "sourceHash": "810070729bda518563d80ad091a1f2c017d64f709c50363c8bc7dbdaa6b95d23",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Write page numbers eight, nine and ten. Eight uses one digit. So does nine. Ten uses two. Split your count when the number of digits changes. For another kind of number puzzle, two bells can repeat at different intervals. Start at a shared ring and look for the next time that fits both patterns.",
+  "words": 54,
+  "wpm": 168.8
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u5-d5-worked",
+  "duration": 21.2,
+  "sourceHash": "b19e22dd95f481bbe16f1350de0043d3fe296a18b61ff3b69cb91b5d9f8905e8",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Three children finish a race. Only one runner wins. Ava picks Ben as the winner. Ben picks Cara. Cara says that Ben lost. Exactly one child is wrong. Try Cara as the winner. Ava is wrong. Ben and Cara are both right. Try either of the other winners and two children are wrong. Only Cara fits the clue.",
+  "words": 58,
+  "wpm": 164.2
+}

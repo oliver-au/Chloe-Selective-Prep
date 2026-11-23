@@ -1,0 +1,12 @@
+{
+  "id": "u8-q7-reveal",
+  "duration": 16.1,
+  "sourceHash": "24fb2b2d8b8fb8ce6437e128da72a0826b64531f92127fd6a22e192953408c98",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "There are twenty students. Add twelve and nine, subtract the four counted twice, and add the three in neither group. Equivalently, the separate regions are eight, four, five, and three, which total twenty.",
+  "words": 33,
+  "wpm": 123
+}

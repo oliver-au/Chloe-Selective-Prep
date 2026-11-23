@@ -1,0 +1,12 @@
+{
+  "id": "03-a8-explain",
+  "duration": 19.4,
+  "sourceHash": "a3c5ae3113e964762abf90be11541c679bdaa8adb55ca5fc7eb21ec2c0abd550",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Recorded counts depend on both what exists and how easily it is detected or reported. More sightings do not always mean more actual cases. Ask whether both groups had the same chance of being noticed, measured, or recorded. A change in reporting rules can also create an apparent change.",
+  "words": 49,
+  "wpm": 151.5
+}

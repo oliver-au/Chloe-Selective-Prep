@@ -1,0 +1,12 @@
+{
+  "id": "c6-hook",
+  "duration": 5.2,
+  "sourceHash": "b4ac6c5c4a665715796e49c51cc4b7c931bc0b3807738739c57daceb13bcf396",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The gate is locked. Will a visitor have to sign the book?",
+  "words": 12,
+  "wpm": 138.5
+}

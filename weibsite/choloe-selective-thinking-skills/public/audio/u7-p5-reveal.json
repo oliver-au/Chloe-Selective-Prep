@@ -1,0 +1,12 @@
+{
+  "id": "u7-p5-reveal",
+  "duration": 14.9,
+  "sourceHash": "71130145c1abf5985d33c88565b60d95f5fe6244a5d6e2b816d4cb6f76b321e8",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Both return together after twelve moves. Twelve is the smallest positive multiple of both four and three. It completes three position cycles and four colour cycles, so both features reset at the same time.",
+  "words": 34,
+  "wpm": 136.9
+}

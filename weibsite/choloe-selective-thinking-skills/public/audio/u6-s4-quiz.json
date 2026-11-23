@@ -1,0 +1,12 @@
+{
+  "id": "u6-s4-quiz",
+  "duration": 12.9,
+  "sourceHash": "3be5f4783b4452105511352d00539442afad01bb6dc25ac33416eca7dec8c752",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A hole lies exactly on the vertical fold line but away from the horizontal fold line. After both folds open, how many distinct hole centres appear?",
+  "words": 26,
+  "wpm": 120.9
+}

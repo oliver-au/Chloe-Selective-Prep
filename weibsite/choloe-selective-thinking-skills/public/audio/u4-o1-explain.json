@@ -1,0 +1,12 @@
+{
+  "id": "u4-o1-explain",
+  "duration": 22.3,
+  "sourceHash": "aab75fc716d3ce155f252a7b864a42c40554cd95a619d5ae878956f83c91fc1d",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Picture a finish line. Ava crosses before Ben. Could someone squeeze between them? Try Ava, Sam, Ben. The clue still works. Now change just one word. If Ava finishes immediately before Ben, Sam no longer fits there. Draw an arrow for “before”. Save a joined pair for “immediately before”.",
+  "words": 49,
+  "wpm": 131.8
+}

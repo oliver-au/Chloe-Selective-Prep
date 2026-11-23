@@ -1,0 +1,12 @@
+{
+  "id": "u4-o6-quiz",
+  "duration": 11.5,
+  "sourceHash": "f6aca77bdbbdcdd49eb3526f4214e30c79db847188f126e2acb9db089f0f57be",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Four lockers are numbered one to four from left to right. The red locker is immediately left of Ava’s. Which position is impossible for Ava?",
+  "words": 25,
+  "wpm": 130.4
+}

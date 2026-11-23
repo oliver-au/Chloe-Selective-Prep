@@ -1,0 +1,12 @@
+{
+  "id": "02-m3-answer",
+  "duration": 18.3,
+  "sourceHash": "33d4a7e73c526092c80bd4b5d49e9d4a7cc68ea63f3083c00df262762b0a9443",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Forty-nine is the largest number that fits. A number has to be smaller than fifty to pass the upper limit. It also has to be bigger than forty. Now change the rule to say “at most fifty”. That new wording includes the endpoint. One small word can move the boundary.",
+  "words": 50,
+  "wpm": 163.9
+}

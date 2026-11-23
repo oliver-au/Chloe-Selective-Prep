@@ -1,0 +1,12 @@
+{
+  "id": "p4-hook",
+  "duration": 5.8,
+  "sourceHash": "23ceb4d8a1c96a0750ac34660fb4264b2b392298460cad1f1f10fe2a26617dda",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Can a broken display make zero and eight look the same?",
+  "words": 11,
+  "wpm": 113.8
+}

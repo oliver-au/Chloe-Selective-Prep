@@ -1,0 +1,12 @@
+{
+  "id": "u9-x5-worked",
+  "duration": 20.5,
+  "sourceHash": "6eff842c43c60ffb8496820ce4a0630fe2a2810304b3266d0d4ff4fe0681b48f",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Ava, Ben and Chloe each begin with four marbles. Ava gives two marbles to Ben. Now Ava has two, Ben has six and Chloe still has four. Next Ben gives three marbles to Chloe. Ava still has two, Ben has three and Chloe has seven. Each row adds to twelve. Check both sides of every gift.",
+  "words": 56,
+  "wpm": 163.9
+}

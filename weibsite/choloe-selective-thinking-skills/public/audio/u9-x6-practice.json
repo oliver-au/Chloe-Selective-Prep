@@ -1,0 +1,12 @@
+{
+  "id": "u9-x6-practice",
+  "duration": 16.6,
+  "sourceHash": "8561ad48b51275c5169ec511d329bfd8c64147dea829a5cb8b87cc2906321461",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The bird eats a seed but leaves a berry alone. Remember that the first type can eat berries, and the second type never does. Can we be sure our bird is the second type? Explain what the first type could have done.",
+  "words": 42,
+  "wpm": 151.8
+}

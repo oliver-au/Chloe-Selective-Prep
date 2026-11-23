@@ -1,0 +1,12 @@
+{
+  "id": "s6-hook",
+  "duration": 5.6,
+  "sourceHash": "e96ac63358bbc8af3fb1db88ff0850015b2628f75a2bb1c2e350a6286e50c838",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Can a die keep the same top and simply swap its front and right faces?",
+  "words": 15,
+  "wpm": 160.7
+}

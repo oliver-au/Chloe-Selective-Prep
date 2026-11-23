@@ -1,0 +1,12 @@
+{
+  "id": "c7-hook",
+  "duration": 3.7,
+  "sourceHash": "02f3e8172f8ad8de550327ca8c231d6c7d9e36021f84780da7cfbe91bb3401c4",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The coach is away. Can you still collect the equipment?",
+  "words": 10,
+  "wpm": 162.2
+}

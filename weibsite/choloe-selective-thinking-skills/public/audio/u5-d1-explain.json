@@ -1,0 +1,12 @@
+{
+  "id": "u5-d1-explain",
+  "duration": 16.6,
+  "sourceHash": "c39b6d1848994b691bb77603a1b6a49c473da23a4eabc8ed0da7152297064f3f",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Suppose three children each bring one different item. Give each child a row and each item a column. If Noah has the compass, tick that square. Noah cannot have a second item, so cross out the rest of his row. Nobody else can have the compass, so cross out the rest of its column.",
+  "words": 54,
+  "wpm": 195.2
+}

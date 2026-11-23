@@ -1,0 +1,12 @@
+{
+  "id": "02-m2-explain",
+  "duration": 17.6,
+  "sourceHash": "154b13a6287ff3e7ae6acc77aad69b547209f5fbe6a1e2bb0cab35167b76b28e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Could means that at least one legal case exists. Force the proposed answer to be true, fill in everything else, and check every rule. A partial arrangement is not enough. Once you have one complete legal case, you have proved possibility and can stop.",
+  "words": 44,
+  "wpm": 150
+}

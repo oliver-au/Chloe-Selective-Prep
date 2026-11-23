@@ -1,0 +1,12 @@
+{
+  "id": "u5-d4-explain",
+  "duration": 18.8,
+  "sourceHash": "7478bb8975884ea32bd10e3f28cc3687f1f0fe19f88eb1259112a0c294a9e7d3",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Instead of drawing every possible line-up, test a line-up the question gives you. Put your finger on the first clue. Does the line-up obey it? Move to the next clue. One broken rule lets you stop checking that choice. If every clue works, you have shown that this line-up could happen.",
+  "words": 51,
+  "wpm": 162.8
+}

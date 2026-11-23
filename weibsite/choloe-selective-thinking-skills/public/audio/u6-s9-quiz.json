@@ -1,0 +1,12 @@
+{
+  "id": "u6-s9-quiz",
+  "duration": 9,
+  "sourceHash": "5174734c5af31c5888107d321786ab07d7d144452889c44d8a4915d51d243ea1",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "You are facing west. Turn ninety degrees clockwise without moving from your place. Which compass direction do you face now?",
+  "words": 20,
+  "wpm": 133.3
+}

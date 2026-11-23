@@ -1,0 +1,12 @@
+{
+  "id": "u5-d7-explain",
+  "duration": 19.2,
+  "sourceHash": "6eaef5ea7ab27330da486b8354163d0bc66838ee394ca422e3f2e85d30bfb8dd",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Suppose a mystery code could be twelve or thirteen. Ask, “Does it start with one?” Yes fits both codes, so you are still stuck. A better question sorts the possibilities into useful groups. For each answer you could receive, ask yourself the same thing: would I know what I came to find?",
+  "words": 52,
+  "wpm": 162.5
+}

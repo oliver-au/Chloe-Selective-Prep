@@ -1,0 +1,12 @@
+{
+  "id": "03-a1-quiz",
+  "duration": 20.3,
+  "sourceHash": "0d33891253cb7a34fad2a7a0f7ae54aa3a39467e130317bacd6b564b600e9498",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A school says its new shelter keeps uniforms drier on rainy days. Which finding tests that claim better? One group says it likes the paint. Another compares uniforms after pupils wait the same time in the same rain, some under cover and some outside. Which would you use, and why?",
+  "words": 50,
+  "wpm": 147.8
+}

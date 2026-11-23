@@ -1,0 +1,12 @@
+{
+  "id": "u4-o1-worked",
+  "duration": 22,
+  "sourceHash": "9f6a8dcc8c55d64cc8275c145be306b916047a5451dbf33298267ca6e4c747b0",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Ava finishes before Ben, and Ben finishes before Chloe. Join the two clues through Ben: Ava, then Ben, then Chloe. Ava must finish before Chloe. However, another runner could finish between Ava and Ben. Our chain proves relative order; it does not prove that anyone finishes first, second, or third overall.",
+  "words": 51,
+  "wpm": 139.1
+}

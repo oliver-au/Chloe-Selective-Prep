@@ -1,0 +1,12 @@
+{
+  "id": "u8-q11-worked",
+  "duration": 22.2,
+  "sourceHash": "4ecf9bca4263863fbb83326b81bd5aeec32ea03bc2c4e2184ad3ed6b0a2fe5db",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "We need sixty-seven cards. The small pack holds fifty cards and costs ten dollars. The large pack holds a hundred cards and costs eighteen dollars. One small pack falls short. A pair of small packs costs twenty dollars. One large pack meets our target for eighteen dollars. It saves two dollars, and spare cards are allowed.",
+  "words": 56,
+  "wpm": 151.4
+}

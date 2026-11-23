@@ -1,0 +1,12 @@
+{
+  "id": "u6-s9-explain",
+  "duration": 16.2,
+  "sourceHash": "cc5ad0e73842970947e6959cb932053dfd09840499d958d561a48a7c2f084847",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Put a dot on a map to show where you stand. Draw a little arrow on the dot for the way you face. If you turn on the spot, turn just the arrow. The dot stays put. If you walk, move the dot too. Keeping the two marks separate helps when a route has several turns.",
+  "words": 56,
+  "wpm": 207.4
+}

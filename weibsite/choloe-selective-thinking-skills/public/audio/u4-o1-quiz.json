@@ -1,0 +1,12 @@
+{
+  "id": "u4-o1-quiz",
+  "duration": 11.4,
+  "sourceHash": "130a9fc683eb6530ea181f70cc0917d44b21e3f70479529a321880e8977f96b0",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Liam is ahead of Noah. Priya is between Liam and Noah. What order is forced? Do the clues require consecutive places?",
+  "words": 21,
+  "wpm": 110.5
+}

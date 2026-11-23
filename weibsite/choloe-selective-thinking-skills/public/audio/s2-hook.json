@@ -1,0 +1,12 @@
+{
+  "id": "s2-hook",
+  "duration": 5.9,
+  "sourceHash": "d0d1b14c139055ff39fc775369c2195108fc8e33c4238399040f99eff1841cc9",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A dot starts above and left of the centre. Where does a quarter-turn take it?",
+  "words": 15,
+  "wpm": 152.5
+}

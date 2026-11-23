@@ -1,0 +1,12 @@
+{
+  "id": "u5-d5-answer",
+  "duration": 16.6,
+  "sourceHash": "4d4a18b7a847f98b936189d0469b1235ea8c1226c482bba9348a650459089f9f",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The prize is blue. With a blue prize, the first speaker is wrong. The next two speakers are right. That gives us exactly two correct statements. Try a red prize or a green prize. Each would give only one correct statement.",
+  "words": 41,
+  "wpm": 148.2
+}

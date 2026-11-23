@@ -1,0 +1,12 @@
+{
+  "id": "u5-d3-quiz",
+  "duration": 11,
+  "sourceHash": "9ee11a336576ed5c578174e7f38d71284c17c83ba866fe22ded0b80ffd34122e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Exactly one switch is pressed: red or blue. Red makes a bell ring. Blue makes a lamp light. What must happen in either case?",
+  "words": 24,
+  "wpm": 130.9
+}

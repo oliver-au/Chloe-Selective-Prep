@@ -1,0 +1,12 @@
+{
+  "id": "u6-s2-worked",
+  "duration": 20.1,
+  "sourceHash": "ae69574558310d559287a8ed57293b1b6b6f4991edf77fc28684f3fb73a24a85",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Start with the marked L and turn it ninety degrees clockwise about the marked turning centre. The marker in the upper-left quadrant moves to the upper-right quadrant. The long arm and foot turn together. Check both the marker and the whole shape: moving the dot alone would not be a valid rotation.",
+  "words": 52,
+  "wpm": 155.2
+}

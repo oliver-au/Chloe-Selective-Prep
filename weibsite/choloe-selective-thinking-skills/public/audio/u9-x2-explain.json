@@ -1,0 +1,12 @@
+{
+  "id": "u9-x2-explain",
+  "duration": 16.6,
+  "sourceHash": "fd727528ab48ff684b450f8b4a522e4a5c66e0b8b3aebc6d9b485074c50044ef",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A toggle is a flip. If a light is on, one flip turns it off. A second flip brings it back. Write down which lights start on. As you press a switch, change only the lights it controls. Count each light's flips to see which ones end where they started.",
+  "words": 50,
+  "wpm": 180.7
+}

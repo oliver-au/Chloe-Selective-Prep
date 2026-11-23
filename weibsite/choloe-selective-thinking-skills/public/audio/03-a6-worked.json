@@ -1,0 +1,12 @@
+{
+  "id": "03-a6-worked",
+  "duration": 17.8,
+  "sourceHash": "79440304aa93dccea570302c90d88c5a3d7a98ba502672900c3463e18869975e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A survey of chess club members finds that most enjoy strategy games. Concluding that most students in the school enjoy them goes beyond the sample. Chess club members are selected from a group already likely to enjoy this kind of activity. Other students may have different preferences.",
+  "words": 47,
+  "wpm": 158.4
+}

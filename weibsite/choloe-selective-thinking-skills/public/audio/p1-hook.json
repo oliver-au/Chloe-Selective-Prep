@@ -1,0 +1,12 @@
+{
+  "id": "p1-hook",
+  "duration": 4.1,
+  "sourceHash": "80c3670726140b20fde71b4d54cffdf113d35abd93b6eb471b11f5d43cb2fcf7",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Could MOON have two different symbols in the middle?",
+  "words": 9,
+  "wpm": 131.7
+}

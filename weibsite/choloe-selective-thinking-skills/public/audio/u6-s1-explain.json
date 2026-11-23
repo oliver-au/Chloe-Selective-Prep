@@ -1,0 +1,12 @@
+{
+  "id": "u6-s1-explain",
+  "duration": 18.9,
+  "sourceHash": "9823eb1031daa2bcfaaeaec9d9a43a16230ff89f87ea531a5af14fbc6fae6083",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Trace the path from a dot straight to a vertical mirror line. Keep going the same distance on the other side. Your pencil moves across the page, never up or down. Now try turning the whole page upside down. The dot would change height. One little mark can tell those two moves apart.",
+  "words": 53,
+  "wpm": 168.3
+}

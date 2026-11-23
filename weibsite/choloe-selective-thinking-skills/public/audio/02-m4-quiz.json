@@ -1,0 +1,12 @@
+{
+  "id": "02-m4-quiz",
+  "duration": 15.1,
+  "sourceHash": "7ae13ffe39cadd489f224391a04252295d6a41395c19d1187d5e2c4368986c8d",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Some square cards are striped. No square card is green. What must be true about at least one striped card? Track the cards whose existence is guaranteed by some.",
+  "words": 29,
+  "wpm": 115.2
+}

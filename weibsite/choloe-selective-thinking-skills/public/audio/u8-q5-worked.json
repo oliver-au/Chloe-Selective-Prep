@@ -1,0 +1,12 @@
+{
+  "id": "u8-q5-worked",
+  "duration": 27.6,
+  "sourceHash": "3e6cebdf62023707cc4c29a99bfed56b24626b233e78121715a71c5f18203e80",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The machine subtracts five, doubles the result, then adds eight. Its final answer is thirty-four. Take away the last eight to get twenty-six. Split twenty-six into two equal groups of thirteen. Put back the five that was taken away. We started at eighteen. Check it forwards. Subtracting five gives thirteen. Double thirteen to get twenty-six. Adding eight brings us back to thirty-four.",
+  "words": 62,
+  "wpm": 134.8
+}

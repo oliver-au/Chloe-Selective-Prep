@@ -1,0 +1,12 @@
+{
+  "id": "03-a4-quiz",
+  "duration": 17,
+  "sourceHash": "cc01772e7285b4612c6bdf6002ba18296866bf0de447d276d475b3608841d1cc",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A school predicts that offering online parent interviews will increase attendance by making interviews easier to access. What assumption about at least some parents who currently miss interviews does this explanation need? Negate your answer to test it.",
+  "words": 38,
+  "wpm": 134.1
+}

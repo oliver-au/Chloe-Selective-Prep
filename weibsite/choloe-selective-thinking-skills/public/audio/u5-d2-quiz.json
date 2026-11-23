@@ -1,0 +1,12 @@
+{
+  "id": "u5-d2-quiz",
+  "duration": 10.7,
+  "sourceHash": "3f1129ff3234d6b9357eeafc6fca8868633fe3b39c0c8b809d48b2b868f99475",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A notice says: bring a red pen or a blue pen, or both. Is bringing both pens allowed? What possibility does the notice exclude?",
+  "words": 24,
+  "wpm": 134.6
+}

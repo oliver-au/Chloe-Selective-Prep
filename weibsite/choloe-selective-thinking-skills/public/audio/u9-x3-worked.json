@@ -1,0 +1,12 @@
+{
+  "id": "u9-x3-worked",
+  "duration": 21.1,
+  "sourceHash": "d4953e5b67ed9f02637cdb0fbbd4bcea66c9e4687842f0344b1c0e134c0a8b56",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Eight people each bring one or two dogs. Count two legs per person and four per dog. There are sixty legs. The eight people account for sixteen. That leaves forty-four dog legs: eleven dogs. Give each person one dog first. Three dogs are left, so three people have a second dog. The other five people each have just one.",
+  "words": 59,
+  "wpm": 167.8
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u9-x7-worked",
+  "duration": 18.6,
+  "sourceHash": "61f75c1581fee898352d36f397da0865eff43ca6eab3b9cfb29cfa8c552d04a9",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A cleaner claims it never fails to remove a stain when used as directed. The crucial test is a case where it was used correctly but the stain remained. That one case disproves the claim. A stain remaining when no cleaner was used is not a failure of this rule, because its condition was never met.",
+  "words": 56,
+  "wpm": 180.6
+}

@@ -1,0 +1,12 @@
+{
+  "id": "01-c4-worked",
+  "duration": 16.9,
+  "sourceHash": "30896b3d2bf4de737b3caa283ef6d944be49e557dbb17d14f247f28f1f1216a0",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "If a valid code card is scanned, the scanner beeps. The scanner did not beep. Therefore a valid code card was not scanned. That is the whole conclusion. It does not tell us whether an invalid card was scanned or no card was scanned at all.",
+  "words": 46,
+  "wpm": 163.3
+}

@@ -1,0 +1,12 @@
+{
+  "id": "q2-hook",
+  "duration": 7,
+  "sourceHash": "472250e7a30ecdf648b3eae5062def9a71629394b4cb6048ea8cd3a897f31125",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "You cycle equal distances at ten and twenty kilometres per hour. Is your average fifteen?",
+  "words": 15,
+  "wpm": 128.6
+}

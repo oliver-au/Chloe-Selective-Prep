@@ -1,0 +1,12 @@
+{
+  "id": "03-a6-quiz",
+  "duration": 14.7,
+  "sourceHash": "b78e4092306ccd68d82d9e7eabb29a7664523795a5f216cd424f7b81baae0105",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Six hundred parents answer a voluntary online poll about a school rule. Does the large response count guarantee a representative sample? Name a bias that can remain even with many responses.",
+  "words": 31,
+  "wpm": 126.5
+}

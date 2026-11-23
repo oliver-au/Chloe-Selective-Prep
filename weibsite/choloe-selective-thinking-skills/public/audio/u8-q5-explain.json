@@ -1,0 +1,12 @@
+{
+  "id": "u8-q5-explain",
+  "duration": 19.1,
+  "sourceHash": "223e25263eea9ba1c2d54c9019fa93b525f28f20687edbedbbb8906c96eaf55b",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Draw the number machine as a row of arrows. Going forwards, the last arrow leads to the answer. Coming back, that's the arrow you undo first. Undo adding by subtracting. Undo doubling by halving. On a walking route, retracing an arrow brings you back, but walking it still adds distance.",
+  "words": 50,
+  "wpm": 157.1
+}

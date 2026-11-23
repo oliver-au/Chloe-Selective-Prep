@@ -1,0 +1,12 @@
+{
+  "id": "u5-d4-quiz",
+  "duration": 13.1,
+  "sourceHash": "7420bf8bba3ce3716a77df507b3f9c1ce6c7f68504f70ddcb7db81d75577c79b",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Ava must finish before Ben. Cara cannot finish last. Try this order. Ben comes first. Cara is in the middle. Ava comes last. Which clue does this order break?",
+  "words": 29,
+  "wpm": 132.8
+}

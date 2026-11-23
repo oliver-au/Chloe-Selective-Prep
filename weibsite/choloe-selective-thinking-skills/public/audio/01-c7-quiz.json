@@ -1,0 +1,12 @@
+{
+  "id": "01-c7-quiz",
+  "duration": 11.8,
+  "sourceHash": "c313f2a096599f4cee05d2b79c2e6d2d957fc3f0eb82d3cd9bb79569e2da0a89",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The outdoor concert proceeds unless it rains. It does not rain. What follows? First say the rule using if not, then apply it to the fact.",
+  "words": 26,
+  "wpm": 132.2
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u9-x7-explain",
+  "duration": 17.7,
+  "sourceHash": "871880b3f7ebb9121b8c713b40721bcbe9a737b8e468a7388b240feae30f50ea",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "An if-then rule makes a promise. If the first part happens, the second part must follow. To catch a broken promise, look for the first part happening and the second part failing. That one case is called a counterexample. Think about which hidden fact could reveal it.",
+  "words": 47,
+  "wpm": 159.3
+}

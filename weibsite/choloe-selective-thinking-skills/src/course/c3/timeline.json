@@ -1,0 +1,66 @@
+{
+  "fps": 30,
+  "frames": 5244,
+  "scenes": [
+    {
+      "id": "c3-hook",
+      "start": 0,
+      "duration": 165
+    },
+    {
+      "id": "c3-predict",
+      "start": 165,
+      "duration": 468
+    },
+    {
+      "id": "c3-cross",
+      "start": 633,
+      "duration": 219
+    },
+    {
+      "id": "c3-stay",
+      "start": 852,
+      "duration": 393
+    },
+    {
+      "id": "c3-forward",
+      "start": 1245,
+      "duration": 351
+    },
+    {
+      "id": "c3-language",
+      "start": 1596,
+      "duration": 468
+    },
+    {
+      "id": "c3-room",
+      "start": 2064,
+      "duration": 456
+    },
+    {
+      "id": "c3-exam",
+      "start": 2520,
+      "duration": 645
+    },
+    {
+      "id": "c3-exam-proof",
+      "start": 3165,
+      "duration": 588
+    },
+    {
+      "id": "c3-transfer",
+      "start": 3753,
+      "duration": 513
+    },
+    {
+      "id": "c3-transfer-proof",
+      "start": 4266,
+      "duration": 651
+    },
+    {
+      "id": "c3-recap",
+      "start": 4917,
+      "duration": 327
+    }
+  ]
+}

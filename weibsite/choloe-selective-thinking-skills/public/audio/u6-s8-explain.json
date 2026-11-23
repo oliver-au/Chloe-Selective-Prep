@@ -1,0 +1,12 @@
+{
+  "id": "u6-s8-explain",
+  "duration": 19.2,
+  "sourceHash": "ff446b32bb5357b700e4d5f7a49616559f7713dcd047b6cff275102e607f5e78",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Think of three arrow cards laid on a table. Slide two cards past each other without twisting them. Their places change, but their arrows still point the same way. Now imagine a clue telling you to turn the card in the first place. Check which card is there now before you turn it.",
+  "words": 53,
+  "wpm": 165.6
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u9-x1-worked",
+  "duration": 20.2,
+  "sourceHash": "2221f162e7ecd08eac19c5eff5f62ced21dd456b726317753a142972626cdc26",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A bag contains four red, four blue, and four green marbles. Draw without replacement. To avoid a matching pair, you could first draw one of each colour. That gives three without a match. A fourth must repeat one of the three colours. Four draws guarantee a match, while three do not.",
+  "words": 51,
+  "wpm": 151.5
+}

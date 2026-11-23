@@ -1,0 +1,12 @@
+{
+  "id": "u8-q9-explain",
+  "duration": 20,
+  "sourceHash": "6a61acf642b38a7a004104a27378a39b3390d269027b7b2dbadc817ed186e56f",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Imagine two prizes. One rewards the highest final score. The other rewards the biggest improvement. The winners could be different people. For improvement, subtract the starting score from the final score. For a race over the same distance, smaller times are faster. Read what earns this particular prize before you rank anyone.",
+  "words": 52,
+  "wpm": 156
+}

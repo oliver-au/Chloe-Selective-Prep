@@ -1,0 +1,12 @@
+{
+  "id": "u6-s6-explain",
+  "duration": 19.9,
+  "sourceHash": "2f225ab5d7cde5b03eb9ae8047c04e815711f3277883c9db90f85c5eeec2b771",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Picture a die with one dot on top. Keep that face up and slide the die around without tipping it. Its four side faces visit the front in a fixed order. You cannot swap only two side faces and leave the others still. The opposite pairs help you fill in the hidden faces before you test a turn.",
+  "words": 58,
+  "wpm": 174.9
+}

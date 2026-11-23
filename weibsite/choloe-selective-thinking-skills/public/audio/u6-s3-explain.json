@@ -1,0 +1,12 @@
+{
+  "id": "u6-s3-explain",
+  "duration": 20.4,
+  "sourceHash": "262111a40e226d0646dc2fc2b84fc389dc41c393ade00cba28ce2eab894115ed",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Imagine looking straight at two towers on the same line. One is two cubes tall. Another is three cubes tall and stands behind it. The back tower is on the floor too. Its top sticks up by one cube. From above, ask a different question. Which floor squares have a stack on them?",
+  "words": 53,
+  "wpm": 155.9
+}

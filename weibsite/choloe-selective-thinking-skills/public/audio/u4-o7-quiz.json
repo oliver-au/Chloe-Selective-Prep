@@ -1,0 +1,12 @@
+{
+  "id": "u4-o7-quiz",
+  "duration": 17.8,
+  "sourceHash": "eda7f0c2fa51a77ec7df5117848854accc10e018934b19757bc32d71df9a0c84",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Two orders still fit. In the first, Ava leads, followed by Ben, then Cara. In the second, Ava leads, followed by Cara, then Ben. Here is a new clue. Ben finishes before Cara. Does that clue settle the whole order?",
+  "words": 40,
+  "wpm": 134.8
+}

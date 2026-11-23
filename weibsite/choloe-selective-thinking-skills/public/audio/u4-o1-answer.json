@@ -1,0 +1,12 @@
+{
+  "id": "u4-o1-answer",
+  "duration": 12.8,
+  "sourceHash": "d6d5f343362db6dcaf7f62cd69f39860b3899ad676f49a341836929f42e3feb5",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The forced order is Liam, Priya, Noah. Their places do not have to be consecutive. Someone else may stand between them without breaking either clue. We have proved order, not adjacency.",
+  "words": 31,
+  "wpm": 145.3
+}

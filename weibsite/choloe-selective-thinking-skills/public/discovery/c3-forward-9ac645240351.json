@@ -1,0 +1,12 @@
+{
+  "id": "c3-forward",
+  "duration": 10.8,
+  "sourceHash": "9ac64524035138546529427c46d7ccf6c7fc5925464201307ba769fa1cad403d",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Now suppose Nina did enter, following the rule. What must she have been wearing at the gate? A wristband. Start with what happened, then point to what it needed.",
+  "words": 29,
+  "wpm": 161.1
+}

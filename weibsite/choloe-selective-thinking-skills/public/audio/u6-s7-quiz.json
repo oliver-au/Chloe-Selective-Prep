@@ -1,0 +1,12 @@
+{
+  "id": "u6-s7-quiz",
+  "duration": 10.3,
+  "sourceHash": "92e875eec4c152d7683e1f59f951f59624de29879cb36d45bf975b323ba6b635",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Could a straight three-square strip fill the displayed three-cell gap without overlap or gaps, even if you rotate the strip?",
+  "words": 20,
+  "wpm": 116.5
+}

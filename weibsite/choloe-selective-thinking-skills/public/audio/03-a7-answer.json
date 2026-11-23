@@ -1,0 +1,12 @@
+{
+  "id": "03-a7-answer",
+  "duration": 15,
+  "sourceHash": "cc0ba93652669286af7c3d41e5db4d1683d4fdd3f75788de48258b015a940af0",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Compare the classes' starting ability or earlier scores. This year's class might already have been stronger. Without a fair starting comparison, the difference in final scores may reflect different students rather than the programme's effect.",
+  "words": 35,
+  "wpm": 140
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u7-p4-reveal",
+  "duration": 15.4,
+  "sourceHash": "caa241d749668af90371f37d1cd121ce7751c290c93d33ad3e9babaa3ca82f3f",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "They look the same. Zero already has no middle segment, and the defect removes its upper-left segment. Eight loses both. The remaining five segments match, so this faulty shape alone cannot identify the original digit.",
+  "words": 35,
+  "wpm": 136.4
+}

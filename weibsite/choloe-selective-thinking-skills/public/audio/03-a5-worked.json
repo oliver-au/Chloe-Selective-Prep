@@ -1,0 +1,12 @@
+{
+  "id": "03-a5-worked",
+  "duration": 22.2,
+  "sourceHash": "75f3c6b06cbaff675a35cf293f395bad43a9563a7d86306fbaaf88b9a247487d",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Children who read more often also know more words. Does reading teach them words? It could. Now turn the arrow around. A child who already knows many words may find reading easier and choose more books. The two ideas could even work together. The survey alone cannot tell us which direction the arrow goes.",
+  "words": 54,
+  "wpm": 145.9
+}

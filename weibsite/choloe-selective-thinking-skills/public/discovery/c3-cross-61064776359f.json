@@ -1,0 +1,12 @@
+{
+  "id": "c3-cross",
+  "duration": 6.4,
+  "sourceHash": "61064776359fba0792cc2fe458fa261ddfcb03c24d7019a539ee936a9147e4df",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Let's follow her. In one possible story, Nina wears her band and walks through the gate.",
+  "words": 16,
+  "wpm": 150
+}

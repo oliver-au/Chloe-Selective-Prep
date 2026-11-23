@@ -1,0 +1,12 @@
+{
+  "id": "01-c5-explain",
+  "duration": 17.1,
+  "sourceHash": "862ab1dac96afd0942fb27e457b4fa1f72c9195e2d525dc2a851157515fd2f19",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A desk lamp comes on whenever you press its button. You walk in and find the lamp on. Did anyone press the button? A timer might have switched it on. And if nobody pressed the button, the timer could still light the lamp. One way to make something happen need not be the only way.",
+  "words": 55,
+  "wpm": 193
+}

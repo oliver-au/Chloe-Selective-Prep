@@ -1,0 +1,12 @@
+{
+  "id": "01-c1-worked",
+  "duration": 16.8,
+  "sourceHash": "747d73e9128cd68fa07151ba79a73bc1e456734d8d51218dbb77287b3b85bbbd",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Here comes the blue card. The rule says the gate opens whenever that card is scanned. We have the scan, so we can follow the arrow. The gate must open. Cover the first part and imagine you saw only an open gate. Could you tell which card opened it?",
+  "words": 49,
+  "wpm": 175
+}

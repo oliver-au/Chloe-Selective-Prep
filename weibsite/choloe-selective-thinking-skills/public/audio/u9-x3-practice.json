@@ -1,0 +1,12 @@
+{
+  "id": "u9-x3-practice",
+  "duration": 13.8,
+  "sourceHash": "74fa184636750da0de7260a7af576fc44510256e933a9779848a2a51dad48524",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "There are ten tokens, worth either two or five points each. Their total value is thirty-two points. How many five-point tokens are there? Use the smaller-type baseline.",
+  "words": 27,
+  "wpm": 117.4
+}

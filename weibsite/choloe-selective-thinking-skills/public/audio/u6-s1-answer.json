@@ -1,0 +1,12 @@
+{
+  "id": "u6-s1-answer",
+  "duration": 13.8,
+  "sourceHash": "04efe09ac941424718fc03a3328f1b8686e6dd0a921af42b8be4cb364e774800",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The dot stays high and moves to the corresponding point on the other side. A half-turn would move it low. Tracking the marker distinguishes reflection from rotation without relying on the overall impression.",
+  "words": 33,
+  "wpm": 143.5
+}

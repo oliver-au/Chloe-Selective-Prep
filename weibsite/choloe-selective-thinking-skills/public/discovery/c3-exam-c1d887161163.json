@@ -1,0 +1,12 @@
+{
+  "id": "c3-exam",
+  "duration": 13.2,
+  "sourceHash": "c1d887161163264b73068956438b30ab190da4dd79d1023870f80e5779ae8c54",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A photo appears in an exhibition only if its artist gave consent. Ada and Leo each submitted one photo. Exactly one is on display. Which statement must be true?",
+  "words": 29,
+  "wpm": 131.8
+}

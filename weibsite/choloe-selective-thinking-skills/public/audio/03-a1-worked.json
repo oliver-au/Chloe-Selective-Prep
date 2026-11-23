@@ -1,0 +1,12 @@
+{
+  "id": "03-a1-worked",
+  "duration": 20.9,
+  "sourceHash": "50579c978935cba44ee6b132f222977f11c3a45f93c00e70b07b833239f52bef",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Suppose two classes start at about the same spelling level. One does a short vocabulary review each day. The other carries on as usual. Both take the same spelling test. If the review class gains more marks, that tackles the claim directly. A class saying it likes the worksheets would tell us much less.",
+  "words": 54,
+  "wpm": 155
+}

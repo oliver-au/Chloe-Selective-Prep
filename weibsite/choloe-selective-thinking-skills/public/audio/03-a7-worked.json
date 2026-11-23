@@ -1,0 +1,12 @@
+{
+  "id": "03-a7-worked",
+  "duration": 20.2,
+  "sourceHash": "1470638d48b7bbaf08c4e30f727d4f155ee77a47e9ba69e94bd8424fdbeffe67",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The first road had forty crashes. The second road had twenty. The bigger total looks worse. Suppose the first road had four thousand trips and the second had one thousand. For every hundred trips, the first road had one crash and the second had two. Without the trip counts, the original totals cannot settle which road is riskier.",
+  "words": 58,
+  "wpm": 172.3
+}

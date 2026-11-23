@@ -1,0 +1,12 @@
+{
+  "id": "u5-d3-answer",
+  "duration": 14.6,
+  "sourceHash": "38aa73ee5f8cf99e4afa38c440aea5b495114fb1a670a746043302cfd7aae918",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "At least one event must happen: the bell rings or the lamp lights. Each legal switch choice guarantees one of them. We cannot conclude exactly one event unless further rules exclude the other event.",
+  "words": 34,
+  "wpm": 139.7
+}

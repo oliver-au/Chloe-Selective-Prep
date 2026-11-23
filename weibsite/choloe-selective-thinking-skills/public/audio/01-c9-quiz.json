@@ -1,0 +1,12 @@
+{
+  "id": "01-c9-quiz",
+  "duration": 12.4,
+  "sourceHash": "f5f3b10fa53a94edf5c36c58ada20b8b3be5472d9d95cc26aa3e0cbf863a2f4b",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Students who read daily tend to score well. Leo reads daily. Must he score well? Explain which word limits how strong your conclusion can be.",
+  "words": 25,
+  "wpm": 121
+}

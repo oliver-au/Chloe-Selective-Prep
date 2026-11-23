@@ -1,0 +1,12 @@
+{
+  "id": "u7-p1-reveal",
+  "duration": 16.2,
+  "sourceHash": "a20df107310d1909d5c167ed92e8005c539b237a5c8fe86be8a6117f15d97105",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Square, circle, circle, square. Look at the word noon. The two outside spaces both hold the letter N, so each takes a square. The two inside spaces both hold the letter O, so each takes a circle.",
+  "words": 37,
+  "wpm": 137
+}

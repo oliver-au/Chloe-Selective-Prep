@@ -1,0 +1,12 @@
+{
+  "id": "u5-d2-worked",
+  "duration": 20.4,
+  "sourceHash": "43d78101840dd4b22220e2363b06b8df50db8aa01c5c63034cda9f8b0a24a969",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Exactly one of Leo and Maya is selected. There are two legal cases: Leo yes and Maya no, or Leo no and Maya yes. Both selected breaks exactly one. Neither selected also breaks it. A small case table records the rule more reliably than a vague feeling that someone should be picked.",
+  "words": 52,
+  "wpm": 152.9
+}

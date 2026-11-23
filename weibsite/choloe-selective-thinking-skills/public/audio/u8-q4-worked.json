@@ -1,0 +1,12 @@
+{
+  "id": "u8-q4-worked",
+  "duration": 19.6,
+  "sourceHash": "20efcc9bd0b1d82903beac784c1659490e0f57e7ad58c82f9659d486b7166f8e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Each gift kit needs two pencils and three stickers. We have eighteen pencils and twenty-one stickers. Pencils can support nine kits, while stickers support seven. The maximum is seven complete kits, because an eighth would need twenty-four stickers. Extra pencils cannot replace the missing stickers.",
+  "words": 45,
+  "wpm": 137.8
+}

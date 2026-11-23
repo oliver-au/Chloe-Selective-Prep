@@ -1,0 +1,12 @@
+{
+  "id": "01-c4-explain",
+  "duration": 16,
+  "sourceHash": "5d12cdbf0429f9892148e0ccf1c7039aef43f73e4da1d95d593b95796610ce06",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Start with a rule that always holds. If the first thing happens, the second must happen too. Now suppose the second thing is missing. Could the first have happened? It would have left the very sign you are missing. That backwards check is called the contrapositive.",
+  "words": 46,
+  "wpm": 172.5
+}

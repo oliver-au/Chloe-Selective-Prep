@@ -1,0 +1,12 @@
+{
+  "id": "start-format",
+  "duration": 23.5,
+  "sourceHash": "e16db7f1bb9ef6a7aaf81fac4401345c04aae761f8a13eefdf091117cda69766",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Your selective high school test is in twenty twenty seven, for Year Seven entry in twenty twenty eight. The New South Wales Department of Education lists forty multiple choice questions in forty minutes for the Thinking Skills section. That's about one minute per question on average. While you're learning, pause and take the time you need. Later, try an official practice test on a computer.",
+  "words": 65,
+  "wpm": 166
+}

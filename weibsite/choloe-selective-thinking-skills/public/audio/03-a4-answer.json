@@ -1,0 +1,12 @@
+{
+  "id": "03-a4-answer",
+  "duration": 18.3,
+  "sourceHash": "52bdbbaddb89c272ad2e91cc9515d35d431118ab00de5724d246bad4df23ff88",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "At least some parents who currently miss interviews must find the online option easier to use. Imagine none of them do. Then easier access cannot explain extra attendance among those parents. Another change might help, but the school would need a different explanation.",
+  "words": 43,
+  "wpm": 141
+}

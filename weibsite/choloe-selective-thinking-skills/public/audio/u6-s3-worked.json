@@ -1,0 +1,12 @@
+{
+  "id": "u6-s3-worked",
+  "duration": 22,
+  "sourceHash": "ed70969f023005ffa8e9c406fd4af20a7c847f6ddcb023e9c6eb7c7004bd4cbe",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The front row has heights one, two, one. The back row has heights two, three, two. Looking from the front, compare the two numbers in each column. Their maxima are two, three, two, so that is the front silhouette. The middle column is three high, not five; the stacks overlap in our view.",
+  "words": 53,
+  "wpm": 144.5
+}

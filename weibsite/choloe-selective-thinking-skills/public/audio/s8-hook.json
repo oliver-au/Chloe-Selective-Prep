@@ -1,0 +1,12 @@
+{
+  "id": "s8-hook",
+  "duration": 5.5,
+  "sourceHash": "bb8bc1c1dbe3533565f55140dba03740b5c7349b3e40bee8c3a04ae045771dd7",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Two arrow cards swap places. Which one gets the next turn?",
+  "words": 11,
+  "wpm": 120
+}

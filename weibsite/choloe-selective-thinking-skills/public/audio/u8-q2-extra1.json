@@ -1,0 +1,12 @@
+{
+  "id": "u8-q2-extra1",
+  "duration": 24.8,
+  "sourceHash": "910bc0ad2c464f0cc64e6538760d2d85727f1aad41721b69751332eb2fe7045b",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A runner and walker move in the same direction along one straight route at constant speeds. The walker starts three hundred metres ahead of the runner. The runner travels eighty-five metres per minute and the walker sixty. The gap closes by twenty-five metres each minute, so catching up takes twelve minutes. Travelling towards each other along that route would instead use the sum.",
+  "words": 63,
+  "wpm": 152.4
+}

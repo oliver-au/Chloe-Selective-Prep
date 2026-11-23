@@ -1,0 +1,12 @@
+{
+  "id": "u5-d8-explain",
+  "duration": 15.8,
+  "sourceHash": "3de0a4cac4481fa395fbc506e305930acb6dfe29ac261d949061524f50dcbaf4",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Draw a dot for each place and a line for each path. Put your pencil on the starting dot. Can you slide it to the finish without jumping a gap? A new path helps if it joins the groups you need. If a path is one-way, you must follow its arrow.",
+  "words": 51,
+  "wpm": 193.7
+}

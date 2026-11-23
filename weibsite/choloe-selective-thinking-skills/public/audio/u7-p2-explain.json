@@ -1,0 +1,12 @@
+{
+  "id": "u7-p2-explain",
+  "duration": 17.2,
+  "sourceHash": "322d68e8653c0fd5c0ab056bbdfe76eb1a46752e790c5ba7ac12a944a53757e0",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Draw a box for each letter. A clue can fix a letter in a box, rule out a box, or rule out a letter altogether. Cross out only what the clue allows. If your guess has two copies of a letter, check the counting rule. One rejected copy may still leave the other copy in play.",
+  "words": 56,
+  "wpm": 195.3
+}

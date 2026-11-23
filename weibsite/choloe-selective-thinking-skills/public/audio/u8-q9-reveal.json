@@ -1,0 +1,12 @@
+{
+  "id": "u8-q9-reveal",
+  "duration": 14.8,
+  "sourceHash": "37b96847f8229cc332d608640d884358cef5761c895ad6da36f44a601ba19ea7",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Twenty-four point seven seconds is second fastest. Only the runner who took twenty-four point six seconds beat that time. Twenty-four point eight and twenty-four point nine both took longer. Put a finger on the second time in the ordered row to check.",
+  "words": 42,
+  "wpm": 170.3
+}

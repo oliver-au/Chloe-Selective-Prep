@@ -1,0 +1,12 @@
+{
+  "id": "u6-s8-answer",
+  "duration": 18.3,
+  "sourceHash": "a9e4a92319c35d340e6b4757fcd77870cd06b10309e2ef7d0022e0f7df27b129",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "After the swap, look at the first and last cards. Turn each of those arrows a quarter turn clockwise. The first card now points right. The middle card still points left. The last card points down. Read the three cards from left to right.",
+  "words": 44,
+  "wpm": 144.3
+}

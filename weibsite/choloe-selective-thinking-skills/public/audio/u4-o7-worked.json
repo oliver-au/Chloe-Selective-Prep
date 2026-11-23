@@ -1,0 +1,12 @@
+{
+  "id": "u4-o7-worked",
+  "duration": 24,
+  "sourceHash": "630748857bc8f89db9e41330535dfceccad33e86f87f91a3811c6dc2110ab0da",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "There are exactly three people. Ava is before Ben, and Cara is not first. The possible orders are Ava, Ben, Cara and Ava, Cara, Ben. Adding Ava is first changes nothing because both orders already satisfy it. Adding Cara is before Ben leaves only Ava, Cara, Ben, so that clue is sufficient.",
+  "words": 52,
+  "wpm": 130
+}

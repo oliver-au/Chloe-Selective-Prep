@@ -1,0 +1,12 @@
+{
+  "id": "u8-q7-practice",
+  "duration": 12.4,
+  "sourceHash": "9c3e780d3e27736cfc97ce36276124574ed7033137bda387b402aca7926c09dd",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Twelve students learn piano, nine learn guitar, and four learn both. Three learn neither. How many students are in the population? Place the overlap first.",
+  "words": 25,
+  "wpm": 121
+}

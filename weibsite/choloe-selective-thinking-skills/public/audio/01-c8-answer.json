@@ -1,0 +1,12 @@
+{
+  "id": "01-c8-answer",
+  "duration": 13.6,
+  "sourceHash": "d9c9c4632bf7dc3560e4624f1a2770aed91c640770019358d5cdfc13dab9daa8",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Sam could have earned the badge by completing the challenge. That one example is enough to show why training is uncertain. Notice the difference from our team: there we were told the complete list and could cross one route out.",
+  "words": 40,
+  "wpm": 176.5
+}

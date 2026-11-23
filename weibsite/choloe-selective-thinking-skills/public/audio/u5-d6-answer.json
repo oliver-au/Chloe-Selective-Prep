@@ -1,0 +1,12 @@
+{
+  "id": "u5-d6-answer",
+  "duration": 12.7,
+  "sourceHash": "2b70ad3a06ecdda12536a763581ae34233af22c95c50d2e87f4750d4790545bc",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "No swimmer can be under eight because every swimmer is a club member. However, the statements do not guarantee that swimmers exist. The inclusion rule remains true even if the swimmer set is empty.",
+  "words": 34,
+  "wpm": 160.6
+}

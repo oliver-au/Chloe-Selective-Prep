@@ -1,0 +1,12 @@
+{
+  "id": "c3-hook",
+  "duration": 4.6,
+  "sourceHash": "8f7ac897c44fc55ec26155a70ec0faf61135d2ea0c58d50feba6bc36af4d6152",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Nina wears a pool wristband. Does that prove she went through the gate?",
+  "words": 13,
+  "wpm": 169.6
+}

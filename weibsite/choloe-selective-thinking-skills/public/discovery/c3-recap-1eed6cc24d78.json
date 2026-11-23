@@ -1,0 +1,12 @@
+{
+  "id": "c3-recap",
+  "duration": 10,
+  "sourceHash": "1eed6cc24d7869e24f59db8870c5cf6d91eabf3e1315efbde47f6fa56a276e58",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "At the pool, entry needed a band. At the rover, sending needed power. Ask yourself: what does this result need? Draw the arrow that way.",
+  "words": 25,
+  "wpm": 150
+}

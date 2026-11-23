@@ -1,0 +1,12 @@
+{
+  "id": "c3-transfer",
+  "duration": 9.8,
+  "sourceHash": "cd0ab4e0859759e7f0e868c4f28b60ce0a63aff0ae34f3b69d1615fe51d501e7",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A rover cannot send a signal without power. Mission Control received a signal from this rover. Which statement must be true?",
+  "words": 21,
+  "wpm": 128.6
+}

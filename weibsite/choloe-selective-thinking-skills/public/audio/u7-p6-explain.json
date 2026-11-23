@@ -1,0 +1,12 @@
+{
+  "id": "u7-p6-explain",
+  "duration": 17.4,
+  "sourceHash": "4e6b41c032eae5fe025ca2015e0649220f013be293c3bb6873156859cee7b9ca",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Imagine turning an entire number card halfway around on the table. The last digit arrives at the front. Each digit turns too. In our puzzle font, zero, one and eight keep their shapes. Six and nine swap. Write the digits backwards first. Then use that key on every digit.",
+  "words": 49,
+  "wpm": 169
+}

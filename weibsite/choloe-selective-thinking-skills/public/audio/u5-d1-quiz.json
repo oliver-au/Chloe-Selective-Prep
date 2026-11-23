@@ -1,0 +1,12 @@
+{
+  "id": "u5-d1-quiz",
+  "duration": 20.8,
+  "sourceHash": "d8883acf99323569a9a4dadd83225e133138a3a18ddf4fad1a44b81314049609",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "There are three pets and three owners. Each pet has a different owner. The three pets are a cat, a dog and a fish. One clue tells us that the fish belongs to Cy. Another clue rules out a cat for Ana. Out of Ana, Bo and Cy, who owns the dog?",
+  "words": 52,
+  "wpm": 150
+}

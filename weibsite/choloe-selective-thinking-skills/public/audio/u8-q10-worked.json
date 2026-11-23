@@ -1,0 +1,12 @@
+{
+  "id": "u8-q10-worked",
+  "duration": 26.8,
+  "sourceHash": "e29941f87f33f4f1dc5d45da1ef064d8c0e348a28b391419603268f8cb52ae6a",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The book starts at page one. All its page numbers use four hundred and twenty-nine digits. The first nine pages use nine digits. The ninety pages from ten through ninety-nine use another hundred and eighty. There are two hundred and forty digits left. Each new page now needs three digits. That gives eighty more pages. Count eighty pages beyond page ninety-nine and you reach page one hundred and seventy-nine.",
+  "words": 69,
+  "wpm": 154.5
+}

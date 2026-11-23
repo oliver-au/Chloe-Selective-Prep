@@ -1,0 +1,12 @@
+{
+  "id": "03-a3-explain",
+  "duration": 21,
+  "sourceHash": "9ad088e68546a5c8be3b4d1f6bdd5f114fc8290ae47c09e2004161a250b38ef2",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A flaw question asks what is wrong with the reasoning step, rather than asking for a new opposing fact. Common errors include treating correlation as cause, using a biased sample, reversing a requirement, or treating missing evidence as proof that nothing happened. Explain the structural mistake in ordinary words.",
+  "words": 49,
+  "wpm": 140
+}

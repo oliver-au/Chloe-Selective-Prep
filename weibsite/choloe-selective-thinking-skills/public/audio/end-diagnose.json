@@ -1,0 +1,12 @@
+{
+  "id": "end-diagnose",
+  "duration": 23.4,
+  "sourceHash": "08c918ed425c1a494dcce9e8879d391d5f92f8e537be0bb526536d034dc4b2e4",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "If an answer goes wrong, ask where the thinking changed direction. Did Chloe turn an arrow backwards, read before as immediately before, or count a person twice? Write down the mistaken step and one way to check it next time. Then try a fresh example. Ask her to explain her choice, even when she gets the letter right.",
+  "words": 58,
+  "wpm": 148.7
+}

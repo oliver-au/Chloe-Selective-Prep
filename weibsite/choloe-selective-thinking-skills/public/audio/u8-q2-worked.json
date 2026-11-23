@@ -1,0 +1,12 @@
+{
+  "id": "u8-q2-worked",
+  "duration": 21.6,
+  "sourceHash": "c1dfa8496479a374d774162b2a8e96c1d8c416c30edd4a46893e57f0b538d8b5",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Both taps together fill the tub in twelve minutes. Tap A takes twenty minutes alone. Imagine letting the water run into spare tubs for sixty minutes. Together the taps would fill five tubs. Tap A would fill three. That leaves two tubs for tap B in an hour. At its steady rate, tap B fills one tub in thirty minutes.",
+  "words": 60,
+  "wpm": 166.7
+}

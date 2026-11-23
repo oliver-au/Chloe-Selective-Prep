@@ -1,0 +1,12 @@
+{
+  "id": "c3-room",
+  "duration": 14.3,
+  "sourceHash": "d7695d45fc51bf4e82765a5cd78c2dfb51aa376ff4c86d546d2f2c7c88adc30a",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Now try a rule for Room B. You may use Room B only if a teacher approves. There's no approval. That rules out permitted use. It tells us about permission. It doesn't tell us whether someone broke the rule.",
+  "words": 39,
+  "wpm": 163.6
+}

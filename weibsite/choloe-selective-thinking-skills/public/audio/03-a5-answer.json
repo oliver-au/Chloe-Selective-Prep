@@ -1,0 +1,12 @@
+{
+  "id": "03-a5-answer",
+  "duration": 17.7,
+  "sourceHash": "53744c56bb18ee393764d2b5839308edefbe7a7f01f1d1e859a1ebef295d52f6",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Use the nearby shaded and unshaded spots, measured at the same time. Now a cooler day at one school cannot explain the difference. Try using the same surface in both spots too. Otherwise, measuring grass in one and hot concrete in the other could give a different answer for another reason.",
+  "words": 51,
+  "wpm": 172.9
+}

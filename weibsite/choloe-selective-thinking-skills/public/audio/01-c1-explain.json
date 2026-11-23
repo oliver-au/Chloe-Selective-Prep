@@ -1,0 +1,12 @@
+{
+  "id": "01-c1-explain",
+  "duration": 16.9,
+  "sourceHash": "d154f855d59385c6856745e695807fcafad415dd8ce994019ccdaa688ec8f2f1",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "An arrow is a promise. Start at the tail, where the rule says what has to happen. At the tip is the result you can count on. If the starting fact is true, the rule promises the result. A pattern that holds only some of the time cannot make that promise.",
+  "words": 51,
+  "wpm": 181.1
+}

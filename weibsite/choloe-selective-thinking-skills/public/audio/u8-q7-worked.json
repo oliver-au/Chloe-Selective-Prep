@@ -1,0 +1,12 @@
+{
+  "id": "u8-q7-worked",
+  "duration": 24.7,
+  "sourceHash": "62f62dd571f0cbb45ae7351f64ba687acd9c247f21de6ac2d242986a1df4244e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Eighteen students play tennis. Fifteen play soccer. Seven play both sports, and five play no sport on either list. Put seven in the overlap. Tennis has eleven others. Soccer has eight others. Count each region just once. Eleven plus seven makes eighteen. Eight more makes twenty-six. Five outside the circles bring the class total to thirty-one.",
+  "words": 56,
+  "wpm": 136
+}

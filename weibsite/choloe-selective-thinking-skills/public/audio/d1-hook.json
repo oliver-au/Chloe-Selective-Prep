@@ -1,0 +1,12 @@
+{
+  "id": "d1-hook",
+  "duration": 3.8,
+  "sourceHash": "1a98171f34f826b80b68063ca78ba4d07517b17299d2c05081386b6f5e2d983b",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Noah has the compass. What else can you cross out?",
+  "words": 10,
+  "wpm": 157.9
+}

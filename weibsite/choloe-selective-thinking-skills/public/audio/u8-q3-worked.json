@@ -1,0 +1,12 @@
+{
+  "id": "u8-q3-worked",
+  "duration": 20,
+  "sourceHash": "37a25b3d9f5dc61361374d2f690eccdfa3446ad834d74d0ceb394be8853ef13c",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Red counters and blue counters are in the ratio two to three. There are eight red counters. Two parts equal eight, so one part equals four. Blue has three parts, making twelve blue counters. Altogether there are twenty counters. Red is two fifths of this total, not two thirds.",
+  "words": 49,
+  "wpm": 147
+}

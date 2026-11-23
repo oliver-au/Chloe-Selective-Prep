@@ -1,0 +1,12 @@
+{
+  "id": "01-c6-worked",
+  "duration": 19.1,
+  "sourceHash": "f8c3688a7780bca95b0a9baaa61276d5b64c3fc6b4958c2a868972025b465f95",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "If the gate is locked, visitors use the side entrance. If visitors use the side entrance, they sign the book. The gate is locked. Follow the complete chain: locked gate, side entrance, signed book. Signing is guaranteed because each step has its own stated rule.",
+  "words": 45,
+  "wpm": 141.4
+}

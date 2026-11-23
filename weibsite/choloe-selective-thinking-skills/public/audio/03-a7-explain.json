@@ -1,0 +1,12 @@
+{
+  "id": "03-a7-explain",
+  "duration": 19.6,
+  "sourceHash": "6fa2dd959c15c39034860341bca09c29859e956f90ea1a3c3ebc5d45f540f82e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Before you compare two results, ask: are we using the same measuring stick? If one road carries more traffic, check crashes per trip. For two classes, check where their scores started. Also check the time, how the counts were made, and anything else that could change the result. Pick the check that matters for this question.",
+  "words": 56,
+  "wpm": 171.4
+}

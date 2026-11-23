@@ -1,0 +1,12 @@
+{
+  "id": "x7-hook",
+  "duration": 7.1,
+  "sourceHash": "04c9ede692eb75aa24a836df844bf4568548bdae827d476ff7105c0a7889ea8f",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A card rule says every vowel has an even number on the back. Could a seven break the rule?",
+  "words": 19,
+  "wpm": 160.6
+}

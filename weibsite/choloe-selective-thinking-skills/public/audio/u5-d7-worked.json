@@ -1,0 +1,12 @@
+{
+  "id": "u5-d7-worked",
+  "duration": 24.1,
+  "sourceHash": "e89ed8bb9f4faf4ed46de3273529a5d82bbcb4deb2802897fbb970a348bcab35",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Four codes remain: twelve, thirteen, twenty-four and thirty-four. Try asking, “Is the code below twenty?” Yes leaves twelve and thirteen. No leaves twenty-four and thirty-four. Neither answer pins down the code. Could another yes-or-no question guarantee to do it? Four codes cannot each get their own answer when there are only two answers to give.",
+  "words": 55,
+  "wpm": 136.9
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c3-stay",
+  "duration": 12.2,
+  "sourceHash": "446174e8e95c7d7f5539a6dbc560ef95670f3a89d0eb0910368545cd64180a24",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Rewind. Same girl, same wristband. This time she stays outside to wait for a friend. Both stories obey the rule. A band alone cannot tell us which happened.",
+  "words": 28,
+  "wpm": 137.7
+}

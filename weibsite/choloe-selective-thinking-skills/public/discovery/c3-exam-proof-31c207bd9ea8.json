@@ -1,0 +1,12 @@
+{
+  "id": "c3-exam-proof",
+  "duration": 18.7,
+  "sourceHash": "31c207bd9ea87e2f37ee2a6dc0a91fd8f0acd6c5cec69bb785e487434c74f2eb",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Choice C. Follow the displayed photo back to the consent it needed. Only one photo is displayed, so choice A is out. Try the first artist's photo in the frame. Now try the other artist's photo. Either story works, so neither choice B nor choice D is certain.",
+  "words": 48,
+  "wpm": 154
+}

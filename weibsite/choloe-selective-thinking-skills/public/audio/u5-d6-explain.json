@@ -1,0 +1,12 @@
+{
+  "id": "u5-d6-explain",
+  "duration": 18.7,
+  "sourceHash": "d28aac6f1b11d6e65ea971dd8fee04e094fcf154bbcc98e929890fcf9a82cbb9",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Picture a club that has not signed up a single swimmer. Its rule can still say, “All swimmers must be members.” A rule tells us where a swimmer would belong. To put an actual person in the picture, look for a clue such as “some members swim”. Some means at least one.",
+  "words": 52,
+  "wpm": 166.8
+}

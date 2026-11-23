@@ -1,0 +1,12 @@
+{
+  "id": "u8-q8-reveal",
+  "duration": 12.6,
+  "sourceHash": "0ce3c95f6d5f0fb0c37525f3aff661592184758a29175f2f4d9f5d28e82fb80f",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The maximum is four. The first two windows have ended by two thirty. Only the one-to-four window still covers the target time. All four visitors in that group can legally be present together.",
+  "words": 33,
+  "wpm": 157.1
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u4-o2-answer",
+  "duration": 13.1,
+  "sourceHash": "2f75ebaaf3772440321f8cef8f1facc36bafc9eade7c48e8a3244ee6c4455db8",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The books are red, blue, green. Red already occupies the place immediately before blue, so green must use the other neighbouring place. The two adjacency clues now fit one block.",
+  "words": 30,
+  "wpm": 137.4
+}

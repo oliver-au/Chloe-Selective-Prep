@@ -1,0 +1,12 @@
+{
+  "id": "u7-p5-worked",
+  "duration": 20.5,
+  "sourceHash": "cc2cc6802edbaa0121babef69b3d159c0dfb7a2f5ca13388d272282a8e6c7e2e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Start at the top-left corner with one dot. Call that move zero. Each move goes clockwise to the next corner and adds one dot. After two moves, the arrow is at bottom right with three dots. After four, it returns to top left. Count the dots now. There are five. The corner repeated, but the whole picture did not.",
+  "words": 59,
+  "wpm": 172.7
+}

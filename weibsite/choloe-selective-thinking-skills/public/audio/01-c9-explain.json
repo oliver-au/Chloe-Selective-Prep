@@ -1,0 +1,12 @@
+{
+  "id": "01-c9-explain",
+  "duration": 17.8,
+  "sourceHash": "a4f8dc1ad953107eac7913c6bd067fcec1ffa6463650a7db05073c365a554d2d",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Usually, often, tends to, may, and likely express less than certainty. They allow exceptions. Circle these words before you judge a conclusion. A statement about what commonly happens cannot, by itself, prove what must happen in one particular case.",
+  "words": 39,
+  "wpm": 131.5
+}

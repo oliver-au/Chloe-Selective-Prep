@@ -1,0 +1,12 @@
+{
+  "id": "u4-o6-explain",
+  "duration": 18.5,
+  "sourceHash": "a59b2880f884c5f96fba3e53cea6bc0afb5c69fd43ae39d94232e36bf23755b3",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Think of a row of lockers. We can know a locker’s owner before we know its colour. Write the locker numbers across the page. Put names in one row and colours in another. A name and a colour in the same column belong to the same locker. Leave the other boxes open until a clue fills them.",
+  "words": 57,
+  "wpm": 184.9
+}

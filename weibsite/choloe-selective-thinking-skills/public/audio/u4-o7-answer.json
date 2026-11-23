@@ -1,0 +1,12 @@
+{
+  "id": "u4-o7-answer",
+  "duration": 13.6,
+  "sourceHash": "e7cf8677adc90e5e716a233b5bacbda99217c8c5bb146e752357a3544477d57d",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Yes. Ben before Cara keeps Ava, Ben, Cara and rejects Ava, Cara, Ben. Exactly one legal order remains, so the new clue is sufficient for determining the complete arrangement.",
+  "words": 29,
+  "wpm": 127.9
+}

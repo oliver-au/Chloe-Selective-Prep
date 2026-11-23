@@ -1,0 +1,12 @@
+{
+  "id": "01-c9-worked",
+  "duration": 18,
+  "sourceHash": "c57354e5845f5f4722480eb7cb7ba765d05469a9044c089d210e9d35a442e124",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Players who miss training are usually dropped. Katya missed training but was not dropped. One student claims she must have a medical exemption. That does not follow. The usual pattern allows exceptions, and the rule never identifies the reason for Katya's exception.",
+  "words": 42,
+  "wpm": 140
+}

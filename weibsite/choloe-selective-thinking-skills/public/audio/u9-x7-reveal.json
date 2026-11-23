@@ -1,0 +1,12 @@
+{
+  "id": "u9-x7-reveal",
+  "duration": 19.5,
+  "sourceHash": "e4e568495d7d6dee42c1564bcae8bc8d1dddb26ec70daa04bc439057d0a38223",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Turn the card showing the letter A. An odd number on its back would break the rule. Also turn the card showing seven. A vowel on its back would break the rule. The card showing the letter B cannot hide a vowel on its letter side. The card showing four already has an even number. Those last two cards can stay as they are.",
+  "words": 64,
+  "wpm": 196.9
+}

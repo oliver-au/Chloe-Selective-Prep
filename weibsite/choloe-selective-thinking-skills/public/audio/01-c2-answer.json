@@ -1,0 +1,12 @@
+{
+  "id": "01-c2-answer",
+  "duration": 17.7,
+  "sourceHash": "05c4d342eaf5c22abb6e3e821e9512271c74832dabc8fe4ba54d88905c4d452b",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "We can prove Zoe ran the qualifying time. Imagine two runners who both ran that time but there is just one place left. One might miss out. The rule still holds. Getting the time clears a hurdle, but the rule never promises a place.",
+  "words": 44,
+  "wpm": 149.2
+}

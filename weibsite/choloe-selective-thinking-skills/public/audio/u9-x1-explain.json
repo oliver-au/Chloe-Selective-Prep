@@ -1,0 +1,12 @@
+{
+  "id": "u9-x1-explain",
+  "duration": 15.1,
+  "sourceHash": "b01203e4d23ea1d1d055e3b2b5f5f4cc9c010373a3e682b40e8d0b64aeb4070b",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Imagine luck is working against you. How long could you keep drawing without getting what you need? Show one way it could happen. Then show why you can't keep going for one more draw. That last step turns a good chance into a guarantee.",
+  "words": 44,
+  "wpm": 174.8
+}

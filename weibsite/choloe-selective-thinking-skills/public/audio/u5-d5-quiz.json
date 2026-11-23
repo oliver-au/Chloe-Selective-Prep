@@ -1,0 +1,12 @@
+{
+  "id": "u5-d5-quiz",
+  "duration": 16.8,
+  "sourceHash": "d320d48091530aab118004801946990636bdfd9b096ff9ec14f774faf7bd6a36",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The prize has one colour: red, blue or green. The first statement says red. The second says blue. The third says it is not red. Exactly two statements are true. Which colour fits?",
+  "words": 33,
+  "wpm": 117.9
+}

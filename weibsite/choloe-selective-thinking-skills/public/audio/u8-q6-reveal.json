@@ -1,0 +1,12 @@
+{
+  "id": "u8-q6-reveal",
+  "duration": 13.1,
+  "sourceHash": "a11b34d633a7e0acd6ce475d6890362bcef13c51966f498717b304ff5d1a2cba",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "There are six pieces. The uncut strip begins as one piece, and each separate cut adds one more. Five cuts therefore produce one plus five pieces. The initial piece is easy to overlook.",
+  "words": 33,
+  "wpm": 151.1
+}

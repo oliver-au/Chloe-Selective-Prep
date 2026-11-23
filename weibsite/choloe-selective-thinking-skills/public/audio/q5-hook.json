@@ -1,0 +1,12 @@
+{
+  "id": "q5-hook",
+  "duration": 6,
+  "sourceHash": "d1c1856716388c2929b347fb2579fff1a7db5bc20d1347d6e398bec4ac3065f6",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "You walk back for your bottle and return to the same spot. What changes on your distance tracker?",
+  "words": 18,
+  "wpm": 180
+}

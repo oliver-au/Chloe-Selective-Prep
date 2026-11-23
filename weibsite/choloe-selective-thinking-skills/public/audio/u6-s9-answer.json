@@ -1,0 +1,12 @@
+{
+  "id": "u6-s9-answer",
+  "duration": 15.8,
+  "sourceHash": "f77c05acf795af10696966786bad4edc13a6bd86af159c4f8010fbd5b72f55dd",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "You face north. Follow the compass clockwise from west: the next quarter-turn reaches north. Your position has not changed; only your facing direction has changed. Do not confuse turning with moving west or north.",
+  "words": 34,
+  "wpm": 129.1
+}

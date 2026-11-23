@@ -1,0 +1,12 @@
+{
+  "id": "u9-x5-reveal",
+  "duration": 17.4,
+  "sourceHash": "4f806ac97344e1f48d7b73d240a8820c3f9f1c6ba681a19592d18c291ada68be",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Ava now has six marbles. Ben still has three. Chloe has three left. Six for Ava and three for Ben make nine. Add Chloe’s three and we are back to twelve. Also check who received the gift. Swapping two names could leave the total correct but the answer wrong.",
+  "words": 49,
+  "wpm": 169
+}

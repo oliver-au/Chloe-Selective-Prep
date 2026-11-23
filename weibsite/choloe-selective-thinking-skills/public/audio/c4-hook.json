@@ -1,0 +1,12 @@
+{
+  "id": "c4-hook",
+  "duration": 5.2,
+  "sourceHash": "7d46efdaf97ab4844f815d6f9088039e73c81c3cf5076218bafb445d634cc9f6",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "You hear no beep. Can you rule out a valid scan?",
+  "words": 11,
+  "wpm": 126.9
+}

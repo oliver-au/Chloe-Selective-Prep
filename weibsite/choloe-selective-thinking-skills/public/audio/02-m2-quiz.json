@@ -1,0 +1,12 @@
+{
+  "id": "02-m2-quiz",
+  "duration": 14.7,
+  "sourceHash": "d9d4d2ba782e7fd64f0f90b3d1252ea6c0229c7190e0f928116cea63f1a994ec",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Four children stand in a line. Ava must be before Ben, and Chloe is not first. Could the order Dani, Ava, Chloe, Ben work? Check each rule separately.",
+  "words": 28,
+  "wpm": 114.3
+}

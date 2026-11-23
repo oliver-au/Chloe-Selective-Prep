@@ -1,0 +1,12 @@
+{
+  "id": "01-c10-explain",
+  "duration": 15.9,
+  "sourceHash": "089e7118f9ed550eefc0630efb47af2004efb1b77de8e80915f479adaf540d30",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "When a question gives two speakers, evaluate them separately. First translate the rule. Then record each person's claim, whether it follows, and why. One speaker being wrong does not make the other correct. Only after both checks should you choose a combined answer.",
+  "words": 43,
+  "wpm": 162.3
+}

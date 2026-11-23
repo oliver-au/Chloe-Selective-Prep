@@ -1,0 +1,12 @@
+{
+  "id": "q1-hook",
+  "duration": 6.9,
+  "sourceHash": "07efd85223713b80ceb2a8281db5abea87bc7cc474963ce96202ce61bac97b4a",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "You visit on Monday and every four days after that. When is visit three?",
+  "words": 14,
+  "wpm": 121.7
+}

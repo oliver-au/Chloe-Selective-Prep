@@ -1,0 +1,12 @@
+{
+  "id": "03-a3-answer",
+  "duration": 19.9,
+  "sourceHash": "a389ae55a7ed2fb5d346df892fac078200fd498010b1a8093734be9b8c906442",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Think of one pupil who dislikes the rule but keeps quiet. Would the school receive a complaint from that pupil? No. Now every fact in the question can stay true while the claim “nobody disliked it” is false. The missing step is assuming everyone who dislikes a rule will speak up.",
+  "words": 51,
+  "wpm": 153.8
+}

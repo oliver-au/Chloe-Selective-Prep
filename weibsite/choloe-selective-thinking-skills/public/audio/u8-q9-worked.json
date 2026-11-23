@@ -1,0 +1,12 @@
+{
+  "id": "u8-q9-worked",
+  "duration": 22.5,
+  "sourceHash": "9f34568c7a789ff60f5869fd63b481b583c7da64bdc3a23b8caf1f655d75184c",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "We rank improvement in points, with higher scores better. Three scores change from fifty-two to sixty-eight, seventy-one to eighty-two, and sixty-three to seventy-seven. Their gains are sixteen, eleven, and fourteen. The first student improves most, although the second finishes with the highest score. Use the stated measure, not the largest visible number.",
+  "words": 52,
+  "wpm": 138.7
+}

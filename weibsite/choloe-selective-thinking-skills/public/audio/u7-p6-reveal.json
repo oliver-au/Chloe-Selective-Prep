@@ -1,0 +1,12 @@
+{
+  "id": "u7-p6-reveal",
+  "duration": 20.9,
+  "sourceHash": "1b129da85e921fc2fed1f545de5eecc103f0432f4959abad2a0293e5243f99b1",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "It reads the same. Read the original message backwards first. Nine comes first, then one, then six. Now turn each digit. Nine becomes six. One stays one. Six becomes nine. The finished message starts with six, has one in the middle, and ends with nine. That matches the original.",
+  "words": 49,
+  "wpm": 140.7
+}

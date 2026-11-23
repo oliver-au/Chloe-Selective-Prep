@@ -1,0 +1,12 @@
+{
+  "id": "u5-d1-answer",
+  "duration": 14.8,
+  "sourceHash": "8f0433eea5da755971ac59c48935b03c7281be96cbb19e987b8b94588aec1254",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The dog belongs to Ana. The fish already has an owner. The clues say that the cat belongs to someone else. That leaves only the dog for Ana. Now the dog and the fish are taken. The cat must belong to Bo.",
+  "words": 42,
+  "wpm": 170.3
+}

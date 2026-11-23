@@ -1,0 +1,12 @@
+{
+  "id": "u8-q8-explain",
+  "duration": 19,
+  "sourceHash": "e41c843a2b1fb0c428385955a8d2565783e8708fa8cf1c2de4236185c132f21e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Put each visiting window on a timeline. When are these visitors allowed in? At what time must they leave? Mark the clock time the question asks about. Which lines cover that mark? Those visitors could be inside. Now check how many people the room can hold.",
+  "words": 46,
+  "wpm": 145.3
+}

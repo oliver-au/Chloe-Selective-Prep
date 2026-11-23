@@ -1,0 +1,12 @@
+{
+  "id": "u6-s3-quiz",
+  "duration": 12.6,
+  "sourceHash": "242bb10671afdbc6e608231681544bc23da492706dc4d475cce5d89534bd7d3e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The same height map has two rows of three occupied squares. From directly above, how many squares appear? Should stacked cubes be counted separately?",
+  "words": 24,
+  "wpm": 114.3
+}

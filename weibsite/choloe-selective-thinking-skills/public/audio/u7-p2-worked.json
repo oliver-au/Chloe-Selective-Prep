@@ -1,0 +1,12 @@
+{
+  "id": "u7-p2-worked",
+  "duration": 22.5,
+  "sourceHash": "5d257692c7e09dcf95259f1fd7d72ca45eed61b7ee4d2bfab6ee6c9f4d3bc1fc",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Consider a three-letter code using C, R, and A exactly once each. C is first. R is present but is not second. Draw three boxes. Put C in box one. R cannot use box one or two, so it goes in box three. A fills the remaining box. The code is C A R.",
+  "words": 54,
+  "wpm": 144
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u4-o6-answer",
+  "duration": 10.9,
+  "sourceHash": "7ab4882c1157641bd6d02a086fdb082d0aa51c3cca0cf34609042c0b61e58a00",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Ava cannot own locker one. There would be no locker to its left for the red locker. We can prove this position impossible without knowing any of the other colours or owners.",
+  "words": 32,
+  "wpm": 176.1
+}

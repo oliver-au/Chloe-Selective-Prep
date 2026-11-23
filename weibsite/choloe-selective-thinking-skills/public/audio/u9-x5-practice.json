@@ -1,0 +1,12 @@
+{
+  "id": "u9-x5-practice",
+  "duration": 13.8,
+  "sourceHash": "dba0dd5f2a94bad078bc8ab27d35a0e927aad22d185847211031ece3b8640c2c",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Ava has two marbles, Ben has three, and Chloe has seven. Chloe gives four to Ava. What does each person have now? How could you check your new row?",
+  "words": 29,
+  "wpm": 126.1
+}

@@ -1,0 +1,12 @@
+{
+  "id": "03-a1-explain",
+  "duration": 17.4,
+  "sourceHash": "46cd4189721df478b57e6c7a9a054b56988b5cd20624885f054c0be9be50de65",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "To strengthen an argument, find evidence that makes its conclusion more convincing by targeting the gap. A statement can share the topic without supporting the reasoning. Compare options by how directly they remove the main doubt, rather than whether they sound positive.",
+  "words": 42,
+  "wpm": 144.8
+}

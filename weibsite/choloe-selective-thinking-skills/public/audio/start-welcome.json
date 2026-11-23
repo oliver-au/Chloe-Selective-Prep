@@ -1,0 +1,12 @@
+{
+  "id": "start-welcome",
+  "duration": 21,
+  "sourceHash": "f8214c0d253c2cc4bd3684ff42b356cb6cf1933f770cf5cb3b71706786dd1a06",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Hi Chloe. You're in Year Five now, getting ready for the New South Wales selective high school test in twenty twenty seven. Keep a pencil and some paper nearby. Each lesson gives you a puzzle. Pause, try your own idea, then watch how the clues fit together. Afterwards, try a fresh question. Come back tomorrow and see if you can explain the idea again.",
+  "words": 64,
+  "wpm": 182.9
+}

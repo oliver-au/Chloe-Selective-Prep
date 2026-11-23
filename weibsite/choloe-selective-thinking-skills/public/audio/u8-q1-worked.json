@@ -1,0 +1,12 @@
+{
+  "id": "u8-q1-worked",
+  "duration": 17.2,
+  "sourceHash": "4adc09cd24cb37e37ab5b71146473eda97a649dd0af4f224ef00e9d5848cedb0",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A meeting is on Tuesday and is delayed by three days. Move one day to Wednesday, a second to Thursday, and a third to Friday. For ten days later, remove one full seven-day week first. Ten has the same weekday shift as three, so that meeting would also fall on Friday.",
+  "words": 51,
+  "wpm": 177.9
+}

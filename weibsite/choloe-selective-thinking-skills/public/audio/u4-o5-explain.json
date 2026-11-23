@@ -1,0 +1,12 @@
+{
+  "id": "u4-o5-explain",
+  "duration": 17.8,
+  "sourceHash": "10ffc91bc79ee1aee493c27d2f9e9dcff20fc9d36efca61a03b2307a6897888d",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Imagine putting activity cards on a timetable. A card that says “Tuesday morning” has one home. Put it there. A card that says “afternoon only” could fit any free afternoon. Cross out mornings, then look again. A clue that looked weak may now leave just one place.",
+  "words": 47,
+  "wpm": 158.4
+}

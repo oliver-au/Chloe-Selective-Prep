@@ -1,0 +1,12 @@
+{
+  "id": "01-c7-answer",
+  "duration": 12.5,
+  "sourceHash": "735d04c821ef5072eeef357bb654427741369546d955df26b49616984934f323",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "If it does not rain, the concert proceeds. We have no rain, so it proceeds under the stated rule. We cannot use that sentence alone to decide what must happen if rain does occur.",
+  "words": 34,
+  "wpm": 163.2
+}

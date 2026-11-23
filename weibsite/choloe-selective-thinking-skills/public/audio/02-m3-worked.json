@@ -1,0 +1,12 @@
+{
+  "id": "02-m3-worked",
+  "duration": 20.8,
+  "sourceHash": "ed934e92dfaee3c8b6cbead1de1071c018a88e8fea0418f4371678a0e9d34308",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Five spaces, exactly three cars. Try filling every space. By the time the fourth car arrives, you have already broken the rule. No arrangement of five cars can rescue the idea. But could the first space contain a car? Yes. Use spaces one, two and three and leave the other two empty.",
+  "words": 52,
+  "wpm": 150
+}

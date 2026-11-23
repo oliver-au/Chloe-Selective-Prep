@@ -1,0 +1,12 @@
+{
+  "id": "u8-q11-explain",
+  "duration": 16.2,
+  "sourceHash": "9fd57cd84a90ca6c293b4f8ecb3947db1837ffc3c3cc949920eec4afbad2e72c",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Put the number you need at the top of your page. For each purchase, write down two things: how many items you get and what you pay. Cross out anything that buys too few. A cheap price per card is only useful if the whole purchase covers what you need.",
+  "words": 50,
+  "wpm": 185.2
+}

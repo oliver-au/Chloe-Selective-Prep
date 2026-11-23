@@ -1,0 +1,12 @@
+{
+  "id": "u7-p6-practice",
+  "duration": 12.9,
+  "sourceHash": "69ee742e9f554e84aa74f86d30ff14ff8a64c03716b42bd96c988aa831392788",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Using the same stylised digit mapping, turn six, one, nine upside down. Does the message change? Write the reversed order before converting the digits.",
+  "words": 24,
+  "wpm": 111.6
+}

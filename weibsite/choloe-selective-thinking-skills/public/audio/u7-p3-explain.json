@@ -1,0 +1,12 @@
+{
+  "id": "u7-p3-explain",
+  "duration": 17.9,
+  "sourceHash": "1a7cf8b1c18cca70dd510591cd36c5e9de655e5f3b3afd0b97e126dc9a07dcdb",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Lay out one group of beads and number it from one. When that group ends, the same colours start again. Skip whole groups to get near your bead. The number left over tells you how far to walk into the next group. What if there's nothing left over? You're on the last bead of a complete group.",
+  "words": 57,
+  "wpm": 191.1
+}

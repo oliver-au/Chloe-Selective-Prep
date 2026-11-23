@@ -1,0 +1,12 @@
+{
+  "id": "u6-s7-answer",
+  "duration": 14.3,
+  "sourceHash": "9bdcae04f5aacac4e7f3f24c62b923eefbc038dac625613cae9dd1e3204a2186",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "No. Its area is correct, but its boundary is wrong. The empty cells form a bent L, while the strip stays straight under rotation. Area eliminates some options; shape eliminates this one.",
+  "words": 32,
+  "wpm": 134.3
+}

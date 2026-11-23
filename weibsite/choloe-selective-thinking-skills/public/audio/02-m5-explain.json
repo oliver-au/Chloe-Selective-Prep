@@ -1,0 +1,12 @@
+{
+  "id": "02-m5-explain",
+  "duration": 17.2,
+  "sourceHash": "76bbe239905d6511d5ca13c02125eb6c61f456c170c612461f414f606a2a3737",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "To prove that an answer is undetermined, build two legal cases that give different answers to the exact question. Simply saying there is not enough information is weaker. The two cases show precisely what can change while every stated relationship remains true.",
+  "words": 42,
+  "wpm": 146.5
+}

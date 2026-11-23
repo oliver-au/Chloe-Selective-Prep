@@ -1,0 +1,12 @@
+{
+  "id": "u6-s1-quiz",
+  "duration": 11.5,
+  "sourceHash": "f378391056d812e2fd8153fa5c8c5f49284d08fd1c6b81684048044d655a78fc",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A vertical mirror reflects the marked L. Should the high dot stay high or move low? Is a half-turn an equivalent transformation?",
+  "words": 22,
+  "wpm": 114.8
+}

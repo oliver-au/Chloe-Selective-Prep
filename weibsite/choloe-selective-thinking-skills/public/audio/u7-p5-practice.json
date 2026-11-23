@@ -1,0 +1,12 @@
+{
+  "id": "u7-p5-practice",
+  "duration": 16.2,
+  "sourceHash": "6095cf7813f8a47d9992da27cf0c42497e500c7f5138d4480b940f6ed5ec7e7c",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A marker first returns to its starting position after four moves, and its colour first returns after three. Both cycles repeat. After how many moves do both starting states first return together?",
+  "words": 32,
+  "wpm": 118.5
+}

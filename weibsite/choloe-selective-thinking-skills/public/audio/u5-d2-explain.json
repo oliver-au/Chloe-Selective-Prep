@@ -1,0 +1,12 @@
+{
+  "id": "u5-d2-explain",
+  "duration": 20.8,
+  "sourceHash": "325ff449e0a152e24387ab165160aeaac9ef11a17b913ee816939cbb62420d25",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Imagine picking people for a team. Your choices are Leo and Maya. If you must pick at least one person, you can take either person on their own. You can also take both. Now try a different rule. You must pick exactly one person. Which choice breaks that rule? Picking the pair would give you two people.",
+  "words": 57,
+  "wpm": 164.4
+}

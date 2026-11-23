@@ -1,0 +1,12 @@
+{
+  "id": "start-toolkit",
+  "duration": 22.5,
+  "sourceHash": "7c63126504a00fe92e16c776b622583967869f6d589f2fef2a0377eacf80974c",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Let your drawing remember the clues for you. For a rule, draw an arrow. For a race, draw spaces for the runners. To match people to pets, use a grid. Two overlapping circles can show who joined both clubs. When a shape turns, follow a mark near one corner. Choose the picture that helps you answer this question.",
+  "words": 58,
+  "wpm": 154.7
+}

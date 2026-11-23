@@ -1,0 +1,12 @@
+{
+  "id": "u4-o2-explain",
+  "duration": 18.1,
+  "sourceHash": "60a691d7138d1637b33359664c9c2912d5a8cac00983a2934468bbb45bb3f309",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Imagine clipping two name cards together. Mia must stand immediately before Noah. Read from the front of the line: Mia, then Noah, with no gap. You can move that pair along the line. You cannot turn it round. If the clue only said “next to”, either order would work.",
+  "words": 49,
+  "wpm": 162.4
+}

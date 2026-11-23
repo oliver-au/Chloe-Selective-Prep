@@ -1,0 +1,12 @@
+{
+  "id": "p6-hook",
+  "duration": 7.4,
+  "sourceHash": "788290194e73c5e36ccd16a1e6dfcc1c79e81a1a75f05f3e80e22fe316f75b18",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Turn the entire message one, six, eight upside down. Which digit moves to the front?",
+  "words": 15,
+  "wpm": 121.6
+}

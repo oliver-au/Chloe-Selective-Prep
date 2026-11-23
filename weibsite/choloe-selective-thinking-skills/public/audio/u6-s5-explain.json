@@ -1,0 +1,12 @@
+{
+  "id": "u6-s5-explain",
+  "duration": 20.2,
+  "sourceHash": "fb0deae3c08e2ee3a70d5c959d198b7d5d992a28ec81dcb0dfd1c7123a3cdf8e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Think of making a box from a flat net. Two squares far apart on the page might touch as the box closes. One thing is certain: opposite faces can never touch. Pair up the opposites. To make a cube corner, choose one face from each pair. Two opposite faces in your choice rule that corner out.",
+  "words": 56,
+  "wpm": 166.3
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u6-s4-worked",
+  "duration": 21.2,
+  "sourceHash": "54b0e3d0f9856f15964ed8cadef908cfa38b95078f71b3dded581483ef55bc28",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Number the columns one to four. Name the rows A to D from the top. Fold the right half left, then the top half down. Punch through all the layers at the centre of square D one. Open the top fold first. You get D one and A one. Open the side fold. Their partners appear in D four and A four.",
+  "words": 62,
+  "wpm": 175.5
+}

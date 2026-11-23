@@ -1,0 +1,12 @@
+{
+  "id": "03-a0-quiz",
+  "duration": 14.4,
+  "sourceHash": "5b548368d28aa11aa669b42d9da0c15570e1579cd74df19e17b7156289f00baa",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A survey of chess club members finds seventy per cent prefer strategy games. A student concludes that most students in the school prefer strategy games. Identify the evidence, the conclusion, and the gap.",
+  "words": 33,
+  "wpm": 137.5
+}

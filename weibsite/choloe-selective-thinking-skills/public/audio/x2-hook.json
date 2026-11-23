@@ -1,0 +1,12 @@
+{
+  "id": "x2-hook",
+  "duration": 7.6,
+  "sourceHash": "aa5b58c9f636aca27a738533d7a1dfcc026aadf58ee24e2f1a7969b62f855c69",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Two switches both control the green light. What happens to green if you press each switch once?",
+  "words": 17,
+  "wpm": 134.2
+}

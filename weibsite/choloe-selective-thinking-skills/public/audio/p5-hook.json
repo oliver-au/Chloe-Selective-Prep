@@ -1,0 +1,12 @@
+{
+  "id": "p5-hook",
+  "duration": 5.6,
+  "sourceHash": "eec1fdddded151c166edfa33dfcb9bdcba1c2d4dbfd3d5e1afd6bd5e8628494c",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "An arrow goes around four corners. Will it look the same when it gets back?",
+  "words": 15,
+  "wpm": 160.7
+}

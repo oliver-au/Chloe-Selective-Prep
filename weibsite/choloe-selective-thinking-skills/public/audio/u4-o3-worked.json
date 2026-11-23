@@ -1,0 +1,12 @@
+{
+  "id": "u4-o3-worked",
+  "duration": 21.3,
+  "sourceHash": "1291edeba4e163a2dd46ea8d0dd3a92007a67608fa77d2ec017e003c27b2bf08",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Five boxes stand in a row, with positions numbered one to five from left to right. Black is at the far right, so it occupies position five. White is two positions to its left, so subtract two: white is in position three. Position four lies between them. The remaining boxes need not be arranged.",
+  "words": 54,
+  "wpm": 152.1
+}

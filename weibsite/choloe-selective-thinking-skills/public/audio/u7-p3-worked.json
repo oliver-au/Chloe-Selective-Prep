@@ -1,0 +1,12 @@
+{
+  "id": "u7-p3-worked",
+  "duration": 17.7,
+  "sourceHash": "a174b22dca645b8853eca9bc8649d1083d13ad532ca6fc18fbc7490ff9325818",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The colours go red, blue, green, yellow. Which colour is at position twenty-six? Six complete groups of four take us to position twenty-four. Move one more place for red. Move a second place for blue. That puts blue at position twenty-six.",
+  "words": 41,
+  "wpm": 139
+}

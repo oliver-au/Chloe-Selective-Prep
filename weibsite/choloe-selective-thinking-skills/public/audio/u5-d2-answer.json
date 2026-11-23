@@ -1,0 +1,12 @@
+{
+  "id": "u5-d2-answer",
+  "duration": 12.3,
+  "sourceHash": "b7042ecc423ce200745507f48e3a4fd3d4d1328628afa994676c7ef8ea0ea1a4",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Both pens are allowed. The notice requires at least one of the two colours, so it excludes bringing neither. Red only, blue only, and both all satisfy the stated rule.",
+  "words": 30,
+  "wpm": 146.3
+}

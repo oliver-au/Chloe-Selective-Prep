@@ -1,0 +1,12 @@
+{
+  "id": "u7-p1-worked",
+  "duration": 20.4,
+  "sourceHash": "77f35ff4b080a55bc74f3013daa1d66f41111fe414f8cef0205e3a9c8c2ab2dd",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Here is our key. The letter M means triangle. The letter O means circle. The letter N means square. Write the word moon and fill its four spaces. A triangle goes first. Next come two circles, one for each middle letter. The last space takes a square.",
+  "words": 47,
+  "wpm": 138.2
+}

@@ -1,0 +1,12 @@
+{
+  "id": "d7-hook",
+  "duration": 5.7,
+  "sourceHash": "97af82cf5741770941d46d70eee7c1e53eb6752452b216735b0398db9f5b5a0b",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Four codes remain. Can one yes-or-no answer identify the whole code?",
+  "words": 11,
+  "wpm": 115.8
+}

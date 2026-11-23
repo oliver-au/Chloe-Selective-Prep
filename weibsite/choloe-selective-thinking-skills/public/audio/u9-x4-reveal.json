@@ -1,0 +1,12 @@
+{
+  "id": "u9-x4-reveal",
+  "duration": 14.4,
+  "sourceHash": "ffc299d8064734965ef2c574a67929e7e0df3b5ac0e90db432f52a795f68ee23",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Swimmers occupy two fifths of the second pie, or forty per cent. Two fifths of three hundred and sixty degrees is one hundred and forty-four degrees. The correct denominator is twenty because runners are excluded from this particular chart.",
+  "words": 39,
+  "wpm": 162.5
+}

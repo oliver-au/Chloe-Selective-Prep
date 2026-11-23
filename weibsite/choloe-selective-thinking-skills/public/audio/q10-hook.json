@@ -1,0 +1,12 @@
+{
+  "id": "q10-hook",
+  "duration": 6.7,
+  "sourceHash": "7cc2df237ccee81bd246da8261a1b3ad8cae86836b38bbb92fe783157a593186",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "If a book uses four hundred and twenty-nine digits to number its pages, could you just divide by three?",
+  "words": 19,
+  "wpm": 170.1
+}

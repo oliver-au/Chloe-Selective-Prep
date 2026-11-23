@@ -1,0 +1,12 @@
+{
+  "id": "01-c6-quiz",
+  "duration": 18.2,
+  "sourceHash": "82910a44f82050bb7c03679337846ed68eb3da233ac1b9293ff6af775a2488f8",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The same two rules hold for every visitor. A locked gate sends them to the side entrance. Using the side entrance means signing the book. One visitor left without signing. Could the gate have been locked when that visitor arrived? Work back, one link at a time.",
+  "words": 47,
+  "wpm": 154.9
+}

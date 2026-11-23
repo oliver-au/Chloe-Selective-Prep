@@ -1,0 +1,12 @@
+{
+  "id": "03-a8-worked",
+  "duration": 21,
+  "sourceHash": "34363fc314cfbed8c04d3adac4428f783b0d0e0def46bfcce0fcb3a0568d7257",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Observers recorded one hundred and thirteen sightings of red frogs and fifteen sightings of green frogs. Imagine a green frog sitting against green leaves. A visitor might walk straight past. If red frogs stand out more, the tally could favour red even when equal numbers live there. We have counted sightings, not every frog.",
+  "words": 54,
+  "wpm": 154.3
+}

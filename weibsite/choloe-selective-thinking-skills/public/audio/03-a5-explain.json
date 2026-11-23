@@ -1,0 +1,12 @@
+{
+  "id": "03-a5-explain",
+  "duration": 20.2,
+  "sourceHash": "4585ef3a6ad583905ee220fdc372fce9eefac6bcb64c4a3a9a41e4f1c0517694",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Two things occurring together do not automatically establish cause. Check four possibilities: the proposed direction, the reverse direction, a third factor affecting both, and weak or chance evidence. A cause claim needs more support than a correlation or a simple before-and-after observation.",
+  "words": 42,
+  "wpm": 124.8
+}

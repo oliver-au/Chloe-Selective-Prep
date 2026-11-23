@@ -1,0 +1,12 @@
+{
+  "id": "x6-hook",
+  "duration": 5.6,
+  "sourceHash": "94cd05ece27599d42c2863b16be95b339c2cacca39ca7011b3d64bdd87aa6445",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A bird ignores a berry. Is that enough to tell which species it is?",
+  "words": 14,
+  "wpm": 150
+}

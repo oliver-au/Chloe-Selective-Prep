@@ -1,0 +1,12 @@
+{
+  "id": "u6-s2-answer",
+  "duration": 13.9,
+  "sourceHash": "8cce256727a448990e177b2e190eedd09d21ecec11eab190c1ec59223c6c9f0d",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The dot ends up below and to the right of the centre. A half-turn puts it directly opposite its starting point, the same distance from the centre. You can do that with the page flat on the table. The L turns with the dot.",
+  "words": 44,
+  "wpm": 189.9
+}

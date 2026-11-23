@@ -1,0 +1,12 @@
+{
+  "id": "u6-s9-worked",
+  "duration": 20.6,
+  "sourceHash": "0a0c752878f31f0efc998fa69f169c351686ba074588ebd7a1b4c1bff6c48264",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The park is east of the library. The museum is north of the park. Start at the library, move east to the park, then north to the museum. The museum is both east and north of the library, so it is northeast. The clues do not tell us an exact distance or require the two legs to be equal.",
+  "words": 59,
+  "wpm": 171.8
+}

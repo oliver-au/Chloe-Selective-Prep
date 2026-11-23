@@ -1,0 +1,12 @@
+{
+  "id": "u6-s5-worked",
+  "duration": 21,
+  "sourceHash": "9b34c58d10e48869d8c1d2264e99e9e676bffac56aa65bea5bd335e485ddbf26",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Start with the middle square, marked with the letter C. Follow the strip to the right. The far end folds over to face the middle square. That gives one opposite pair. The top and bottom squares give another pair. The squares immediately left and right of the middle give the third pair. Trace each pair on the net.",
+  "words": 58,
+  "wpm": 165.7
+}

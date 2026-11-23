@@ -1,0 +1,12 @@
+{
+  "id": "c8-hook",
+  "duration": 5.5,
+  "sourceHash": "d714ae9164dd4c66811468170d267b874a210dc965e9262f5cff1cc12a7380f2",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Thirteen points. A place in the final. How did the team qualify?",
+  "words": 12,
+  "wpm": 130.9
+}

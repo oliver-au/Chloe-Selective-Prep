@@ -1,0 +1,12 @@
+{
+  "id": "start-signal",
+  "duration": 22.8,
+  "sourceHash": "c745a2fff69d25c22fad08b5d7a0b27bf3bed91eb443fd930f76cc5ffd54d384",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "One small word can change the job. If the question asks what must happen, your answer has to work every time the rules are followed. Could happen? Show one way that works. Cannot happen? Show which rule it would break. In a race, before allows a gap. Immediately before means there's nobody between the two runners.",
+  "words": 56,
+  "wpm": 147.4
+}

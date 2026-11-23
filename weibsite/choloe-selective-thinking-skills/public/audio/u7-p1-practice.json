@@ -1,0 +1,12 @@
+{
+  "id": "u7-p1-practice",
+  "duration": 12.4,
+  "sourceHash": "3bfb2b6ab01ba29fcfb7c3ecf839f3e7222d205ba4571cb243be5e06e16f585e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Use the same code. What is the code for NOON? Write all four symbols, and check which positions must match. Pause here if you need longer.",
+  "words": 26,
+  "wpm": 125.8
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u9-x1-reveal",
+  "duration": 11.4,
+  "sourceHash": "d71d64de001603091b2d9e6630f4fad92904127ca2efae92aee074005df561ea",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Five socks guarantee a matching colour. Four socks could all have different colours. The fifth must repeat one of the four available colours, so a matching pair is then unavoidable.",
+  "words": 30,
+  "wpm": 157.9
+}

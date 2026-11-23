@@ -1,0 +1,12 @@
+{
+  "id": "u6-s2-quiz",
+  "duration": 13.1,
+  "sourceHash": "450fa67ab90966138d6090adc0d82c0009c0f4913cbfb20807b9b9c145a9748c",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Start with the original L. Give it a half-turn around the marked centre. Where does the high dot on the left end up? Could you make this turn just by turning your page flat on the table?",
+  "words": 37,
+  "wpm": 169.5
+}

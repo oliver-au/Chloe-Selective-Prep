@@ -1,0 +1,12 @@
+{
+  "id": "u6-s8-worked",
+  "duration": 19.9,
+  "sourceHash": "e4df36c336c614c29092727a05e32340230e31591259c6f95a865d83ce9b7b97",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Look at the three arrow cards. Swap the first two cards. The card with the letter B is now first. The card with the letter A is in the middle. Now give each outside card a clockwise quarter turn. The first arrow ends up pointing down. The middle arrow stays up. The last arrow points left. Always use the current positions.",
+  "words": 61,
+  "wpm": 183.9
+}

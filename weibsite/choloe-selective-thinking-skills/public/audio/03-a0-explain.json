@@ -1,0 +1,12 @@
+{
+  "id": "03-a0-explain",
+  "duration": 17.8,
+  "sourceHash": "6b366768e08d764d091719b150e6cdacd7785a6c70b56a039933a5bb0dfeba8c",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "An argument asks you to accept a conclusion because of some evidence. Find what the author wants to prove, then what information supports it. Finally name the gap: what must connect that evidence to the conclusion? This structure guides strengthen, weaken, flaw, and assumption questions.",
+  "words": 45,
+  "wpm": 151.7
+}

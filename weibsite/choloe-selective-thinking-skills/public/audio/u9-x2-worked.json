@@ -1,0 +1,12 @@
+{
+  "id": "u9-x2-worked",
+  "duration": 17.1,
+  "sourceHash": "7feff40c9c7f293123949eeaf98e3c7f4205cd039b31c4c2876ee6130bb34f7e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Three lights start off. Switch one toggles red and green. Switch two toggles green and blue. After switch one, red and green are on. After switch two, green turns off and blue turns on, while red stays on. The final state is red on, green off, blue on.",
+  "words": 48,
+  "wpm": 168.4
+}

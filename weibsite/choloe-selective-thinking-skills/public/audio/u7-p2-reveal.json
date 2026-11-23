@@ -1,0 +1,12 @@
+{
+  "id": "u7-p2-reveal",
+  "duration": 15.1,
+  "sourceHash": "521cf4aaedff2b1aefef2611aeea2345a5c90c1fb0d7822d9c956f072c3c1563",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The code spells the word bat. The last box already holds the letter T. The letter A cannot go first, so it must take the middle box. That leaves just the letter B for the first box. Check your three boxes against the clues.",
+  "words": 44,
+  "wpm": 174.8
+}

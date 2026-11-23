@@ -1,0 +1,12 @@
+{
+  "id": "u6-s5-answer",
+  "duration": 17.4,
+  "sourceHash": "e0f6df62b85ea3e00b87d53948569bbf92a7faca1cd90100c5bf165a4b38147f",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Look at the top and bottom flaps on the flat net. Those flaps end up on opposite sides. They cannot touch along an edge. Now look at the folded cube. At the visible corner, the top flap touches the right flap and the closing flap. Read the three labels around that corner.",
+  "words": 52,
+  "wpm": 179.3
+}

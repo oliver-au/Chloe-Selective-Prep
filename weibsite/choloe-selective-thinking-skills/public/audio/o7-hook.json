@@ -1,0 +1,12 @@
+{
+  "id": "o7-hook",
+  "duration": 4.8,
+  "sourceHash": "8f9e4bcbf266109a7e5752f839246a420e41bd61c385fca9f8b48dec7a8874f4",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Two line-ups still fit. Which extra clue settles the order?",
+  "words": 10,
+  "wpm": 125
+}

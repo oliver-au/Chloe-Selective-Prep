@@ -1,0 +1,12 @@
+{
+  "id": "u5-d5-explain",
+  "duration": 18.3,
+  "sourceHash": "1d9f15009ae9dc3432a68100402e891a96633226508238f807859684a2e74393",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "In a race puzzle, three people can sound equally sure. You can solve it without picking someone to trust. Pretend one runner won. Read each statement as if that were so. Give true statements a tick and false ones a cross. If you need exactly one false statement, count the crosses.",
+  "words": 51,
+  "wpm": 167.2
+}

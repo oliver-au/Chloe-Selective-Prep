@@ -1,0 +1,12 @@
+{
+  "id": "u8-q7-explain",
+  "duration": 18.3,
+  "sourceHash": "f70eafeffff9eb203a80cfc4856ec2268d8f72ba521a632ca4631272bad670a5",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Draw two circles that overlap. A student who belongs to both clubs goes in the middle. That student already appears on both club lists. Start in the middle, then fill the parts for just one club. Anyone in neither club goes outside both circles, but still belongs to the whole class.",
+  "words": 51,
+  "wpm": 167.2
+}

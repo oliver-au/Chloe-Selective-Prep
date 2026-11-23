@@ -1,0 +1,12 @@
+{
+  "id": "end-mastery",
+  "duration": 23,
+  "sourceHash": "355b7145e3365d6282ad796a950221ea039de429d578a0e0eec312f3a5235789",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "First, let Chloe try a short example with some help. Next, try an unfamiliar question and ask for a drawing and a reason. When that feels comfortable, mix different types and add time limits gradually. Return a week later with a new question. Her explanation will show you which ideas stuck and which need another look.",
+  "words": 56,
+  "wpm": 146.1
+}

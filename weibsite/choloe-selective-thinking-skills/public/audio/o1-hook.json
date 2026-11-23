@@ -1,0 +1,12 @@
+{
+  "id": "o1-hook",
+  "duration": 5.2,
+  "sourceHash": "dd8a44eda0ac17c422c1da6818f480eeea5048c700ba0ccf747467cc9ee2ec9e",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Ava finished before Ben. Could another runner finish between them?",
+  "words": 10,
+  "wpm": 115.4
+}

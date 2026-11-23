@@ -1,0 +1,12 @@
+{
+  "id": "03-a0-worked",
+  "duration": 20,
+  "sourceHash": "3ef65b876b86c05607084dfbf6adace32eb8466bba158d3665083dc76857edb8",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A teacher compares a mathematics club with other pupils. The club members scored higher. The teacher decides that joining the club caused the higher scores. Now ask who joined in the first place. Perhaps those pupils already had higher scores before they joined. The result alone cannot tell us which story fits.",
+  "words": 52,
+  "wpm": 156
+}

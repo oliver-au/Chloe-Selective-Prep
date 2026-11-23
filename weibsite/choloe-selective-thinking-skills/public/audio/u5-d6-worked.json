@@ -1,0 +1,12 @@
+{
+  "id": "u5-d6-worked",
+  "duration": 18.8,
+  "sourceHash": "edb195b60bf51dd43df1c8f0ef7e9b7fb5f6c6ccb63f05af2ef491e7ffe15e7a",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "We know some musicians are dancers. Pick one person who does both. Mark that person with a dot. Now use the second clue. Every dancer stays outside the group marked with the letter X. Our dot is a dancer, so the dot stays outside. We've found at least one musician outside that group.",
+  "words": 53,
+  "wpm": 169.1
+}

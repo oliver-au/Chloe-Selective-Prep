@@ -1,0 +1,12 @@
+{
+  "id": "c3-language",
+  "duration": 14.7,
+  "sourceHash": "bfe46a617c2a8da8b0be147e5971a36f11d7cdf25ea4b2d684b05cc5a9f14d3d",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Listen to three ways of saying the pool rule. Only students wearing bands may enter. A student may enter only if wearing a band. A student cannot enter under the rule without wearing a band. Each time, entry needs a band.",
+  "words": 41,
+  "wpm": 167.3
+}

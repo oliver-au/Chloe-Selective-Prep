@@ -1,0 +1,12 @@
+{
+  "id": "u5-d1-worked",
+  "duration": 18.7,
+  "sourceHash": "a2c2a7bb1e45ea7fd9333a2a5c5657a17243db192df4072de1206dedcd34b692",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Kai, Mila, and Noah bring a camera, compass, and torch, one different item each. The compass belongs to neither Kai nor Mila, so Noah has it. Kai does not have the camera. With the compass already used, Kai must have the torch. That leaves the camera for Mila.",
+  "words": 48,
+  "wpm": 154
+}

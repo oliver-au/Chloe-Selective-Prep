@@ -1,0 +1,12 @@
+{
+  "id": "01-c1-answer",
+  "duration": 14.1,
+  "sourceHash": "9f1f7c2b6dd2166dce03f33b8dcaffba7e64aec422d2ed22d2e5fdbc61fdefe2",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Chloe catches the late bus. The rule starts with attending robotics, and that is exactly what Chloe did today. You can follow the arrow forwards. Seeing Chloe on the late bus another day would leave open how she got there.",
+  "words": 40,
+  "wpm": 170.2
+}

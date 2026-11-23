@@ -1,0 +1,12 @@
+{
+  "id": "m2-hook",
+  "duration": 5.8,
+  "sourceHash": "0f0d0a71f204f95b9f49d28e9e401e31ba79186955b6c2d47a97995c6e8ab978",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A café opens four weekdays. Can Wednesday be its day off?",
+  "words": 11,
+  "wpm": 113.8
+}

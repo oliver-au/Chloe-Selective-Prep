@@ -1,0 +1,12 @@
+{
+  "id": "start-msdp",
+  "duration": 20,
+  "sourceHash": "aae78f68f475933535d87350999723e64cd772d9c8b23f81a440166b151e355b",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Try four moves. First, name the kind of puzzle. Next, sketch the clues. You might draw a line for a race or a grid for matching names. Now decide what the clues tell you. Finally, prove it. Point to the clue that makes your answer work. If you're stuck, try one of the choices against your sketch.",
+  "words": 57,
+  "wpm": 171
+}

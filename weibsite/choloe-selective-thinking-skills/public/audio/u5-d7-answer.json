@@ -1,0 +1,12 @@
+{
+  "id": "u5-d7-answer",
+  "duration": 15,
+  "sourceHash": "c90e02364f0a1cac88eaab7ee5fafad0a008de3ac7fa2f17d50e0dc5a9f3e6f7",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Yes. A yes answer identifies twelve, and a no answer identifies thirteen. Each answer leaves one candidate. The question is decisive because it separates all the remaining possibilities for the complete code.",
+  "words": 32,
+  "wpm": 128
+}

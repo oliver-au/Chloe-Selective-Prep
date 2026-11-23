@@ -1,0 +1,12 @@
+{
+  "id": "u6-s3-answer",
+  "duration": 14.5,
+  "sourceHash": "5f5e3aefd67c6986f7aa8a6645ac92ef36dbf025c5714adcd5741ce8d6dd230a",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Six squares appear in the top view. All six ground positions are occupied, so each contributes one square. Their different heights do not change this footprint. Stacked cubes share the same ground position.",
+  "words": 33,
+  "wpm": 136.6
+}

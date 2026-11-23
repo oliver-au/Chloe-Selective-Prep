@@ -1,0 +1,12 @@
+{
+  "id": "c1-hook",
+  "duration": 4.2,
+  "sourceHash": "9b3bb0e86fa23d6c5a5dc348ad0d47024d0854461791a49fadbc35de6c57d371",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A blue card touches the scanner. What must the gate do?",
+  "words": 11,
+  "wpm": 157.1
+}

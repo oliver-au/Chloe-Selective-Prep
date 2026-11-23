@@ -1,0 +1,12 @@
+{
+  "id": "u7-p4-worked",
+  "duration": 20.9,
+  "sourceHash": "dac1f5b4b0b6cd4f05705ec1d3e4e635d299162a514a0818f00ab826aac5986a",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Use a standard seven-segment display. The upper-left and middle segments are permanently broken; all others work. An eight therefore loses exactly those two segments. When a nine is requested, remove the same two. Its top, upper-right, lower-right, and bottom segments remain. Apply the given defect consistently to every digit.",
+  "words": 49,
+  "wpm": 140.7
+}

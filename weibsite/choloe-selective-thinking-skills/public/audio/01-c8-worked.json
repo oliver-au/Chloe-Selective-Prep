@@ -1,0 +1,12 @@
+{
+  "id": "01-c8-worked",
+  "duration": 16.4,
+  "sourceHash": "52643d2a6780872fd7bbdb5256faa54d748126e04006dcc3efb3d8c2125c89b7",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Here are the only two ways to reach the final. A team earns at least fifteen points, or it wins the Fair Play award. This team is in the final with thirteen points. Cross off the points route. That leaves one way in. The team must have won Fair Play.",
+  "words": 50,
+  "wpm": 182.9
+}

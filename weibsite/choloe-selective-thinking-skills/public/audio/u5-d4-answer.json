@@ -1,0 +1,12 @@
+{
+  "id": "u5-d4-answer",
+  "duration": 12.1,
+  "sourceHash": "819e2901350039ff50d9ed39048bd79497ea550e9fbf3fc44f3baba26a39f279",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The order fails because Ava is after Ben. Cara is not last, but passing that rule cannot rescue the option. Every rule must hold, and one contradiction is enough to reject it.",
+  "words": 32,
+  "wpm": 158.7
+}

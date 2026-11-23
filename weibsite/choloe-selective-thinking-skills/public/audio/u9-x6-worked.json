@@ -1,0 +1,12 @@
+{
+  "id": "u9-x6-worked",
+  "duration": 20.3,
+  "sourceHash": "b4cdd55d61501b8bf95480c5cdca0227e3149e9895486191660342c5c7f58cfd",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Our two possible birds are called type A and type B. Both eat seeds. The first type can also eat berries. The second type never eats a berry. Seeing our bird eat seeds leaves either type possible. Seeing it eat a berry identifies the first type. If all we see is the bird ignoring the fruit, either type is possible.",
+  "words": 60,
+  "wpm": 177.3
+}

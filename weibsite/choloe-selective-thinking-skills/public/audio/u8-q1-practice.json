@@ -1,0 +1,12 @@
+{
+  "id": "u8-q1-practice",
+  "duration": 12.9,
+  "sourceHash": "b769473a85120f555cc03b28029bb3a9bced27bb7066bab924806f3ec59287d8",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Chloe visits on Monday, then every four days. Counting Monday as visit one, how many days after Monday is visit three? Draw the three visit marks.",
+  "words": 26,
+  "wpm": 120.9
+}

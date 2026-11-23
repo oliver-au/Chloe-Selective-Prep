@@ -1,0 +1,12 @@
+{
+  "id": "u7-p5-explain",
+  "duration": 19.1,
+  "sourceHash": "d9aea0045fc92d46a57244fa86dcf1e5cbd21be1c04b613b7a9ff8997d19436c",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "A marker can move around a board and change its appearance at the same time. Make a separate row for each feature. One row might record its corner. Another might record its dots. After the same number of moves, read the rows together. A corner can repeat even while the dot count keeps climbing.",
+  "words": 54,
+  "wpm": 169.6
+}

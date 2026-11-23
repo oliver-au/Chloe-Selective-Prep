@@ -1,0 +1,12 @@
+{
+  "id": "u4-o3-explain",
+  "duration": 17.5,
+  "sourceHash": "6df7253fe12f90dd144ad1c74f2887eb96ed2a702984af2b92ad39a91e3e7eb4",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Imagine three chairs in a row. Start at the first chair and walk to the third. It takes two moves to get there. Look back. Only the middle chair is between your start and finish. For places apart, count the moves. For places between, count only the chairs inside the gap.",
+  "words": 51,
+  "wpm": 174.9
+}

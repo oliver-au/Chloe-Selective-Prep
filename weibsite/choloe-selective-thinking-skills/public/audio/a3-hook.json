@@ -1,0 +1,12 @@
+{
+  "id": "a3-hook",
+  "duration": 5.3,
+  "sourceHash": "e336a7fe66c9714bac2dc991e95002dc7cc21e8de44e2f5ffd47192ad8a716a3",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Every prize winner went to the workshop. Noah went too. Has he won?",
+  "words": 13,
+  "wpm": 147.2
+}

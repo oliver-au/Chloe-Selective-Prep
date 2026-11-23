@@ -1,0 +1,12 @@
+{
+  "id": "u4-o4-worked",
+  "duration": 24.6,
+  "sourceHash": "82fbd3b0f6ace89e4f99430ee32b2e856a699fd3dad2478c4559112b5dbbfb28",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Draw four seats around a table. Use north, east, south, and west as diagram labels, and anchor Ava at north. Chloe is opposite Ava, so Chloe is south. Ben is one seat clockwise from Ava, so Ben is east. Dina takes west. These clues describe relative seats, so rotating the whole drawing keeps the same circular arrangement.",
+  "words": 57,
+  "wpm": 139
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u9-x3-explain",
+  "duration": 18.1,
+  "sourceHash": "96af95c1d5071636e05426871104947b97d37296d6a33dfb018c472ccd7d7671",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "What if everyone chose the smaller amount? That gives you a starting total. Compare it with the real total. Each time you swap one smaller item for a larger one, the total rises by the same amount. Count how many swaps make up the difference. Then check which kind the question asks for.",
+  "words": 53,
+  "wpm": 175.7
+}

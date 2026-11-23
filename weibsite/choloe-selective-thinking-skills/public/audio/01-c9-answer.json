@@ -1,0 +1,12 @@
+{
+  "id": "01-c9-answer",
+  "duration": 13.1,
+  "sourceHash": "712bf493616b4b2cd4afb72cd37cbf923b5089925444f52da70df1472a73d6b4",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Leo might score well. Circle the words “tend to”. They describe a pattern across students, and Leo can be an exception. Daily reading and a lower score can both be true without breaking this statement.",
+  "words": 35,
+  "wpm": 160.3
+}

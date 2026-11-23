@@ -1,0 +1,12 @@
+{
+  "id": "u7-p1-explain",
+  "duration": 17.1,
+  "sourceHash": "fb657ae8a38fa7735805cb2000b6a05587a853f0fbf48fc4effc5420e5156390",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Think of each symbol as a letter's name tag. Make a small key as soon as you learn a pair. In this code, each letter has its own symbol. If two letters match, their symbols match. If the letters differ, their symbols differ too. Now check the positions one at a time.",
+  "words": 52,
+  "wpm": 182.5
+}

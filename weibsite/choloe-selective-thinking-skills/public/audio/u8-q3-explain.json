@@ -1,0 +1,12 @@
+{
+  "id": "u8-q3-explain",
+  "duration": 18,
+  "sourceHash": "f70e7746ac356a197af1df017c87e257619a0b70060e284ceabcc9dd672e09c1",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Think of a ratio as a row of equal scoops. Two red scoops for every three blue scoops makes five scoops altogether. Each scoop holds the same number of counters. Find that number first. Then ask what you're comparing: red with blue, or red with all five scoops?",
+  "words": 48,
+  "wpm": 160
+}

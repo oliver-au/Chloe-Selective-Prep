@@ -1,0 +1,12 @@
+{
+  "id": "u8-q2-reveal",
+  "duration": 22,
+  "sourceHash": "3ab32f2306a2710227df26a2dd891e26b5d36a46910cc4578847b0ae80fa3feb",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "At ten kilometres per hour, the first ten kilometres take one hour. At twenty kilometres per hour, the next ten take half an hour. In all, that is twenty kilometres in one and a half hours. Divide and you get thirteen and one third kilometres per hour. The slower speed lasts longer, so it pulls the average below fifteen.",
+  "words": 59,
+  "wpm": 160.9
+}

@@ -1,0 +1,12 @@
+{
+  "id": "u8-q11-reveal",
+  "duration": 20.3,
+  "sourceHash": "670025a2acc1244c223f196569ab96361bbcbab4f558ff33c3adc69ce212acd2",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Buy one small pack and one large pack. Together they contain sixteen badges and cost thirteen dollars. Two small packs leave you a badge short. Buying three small packs costs fifteen dollars. A pair of large packs costs sixteen dollars. Mixing the sizes is the cheapest way to get enough badges.",
+  "words": 51,
+  "wpm": 150.7
+}

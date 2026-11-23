@@ -1,0 +1,12 @@
+{
+  "id": "a4-hook",
+  "duration": 6.6,
+  "sourceHash": "af820eb9c7baa271195482379f90b1042a376ac266182e849c0619cd6e245374",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "The council adds bike storage. What has to be true for that to get people riding?",
+  "words": 16,
+  "wpm": 145.5
+}

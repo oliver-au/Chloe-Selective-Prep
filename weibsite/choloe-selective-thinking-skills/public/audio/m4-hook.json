@@ -1,0 +1,12 @@
+{
+  "id": "m4-hook",
+  "duration": 5.7,
+  "sourceHash": "e4c530189423de7c2206c25d544bb78ddf3da9c0b98ff3f5f4e957a36d746e74",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "“Not all the choir came.” How many singers can you be sure missed out?",
+  "words": 14,
+  "wpm": 147.4
+}

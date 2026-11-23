@@ -1,0 +1,12 @@
+{
+  "id": "u9-x7-practice",
+  "duration": 20.6,
+  "sourceHash": "259052f3c9b15470d375780f9b134486263835dd606b48c5092dd26c672e05f8",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "Each of these four cards has a letter on one side and a number on the other. Their visible sides are A, B, four and seven. The rule says every vowel has an even number on its other side. What is the smallest set of cards you must turn to test these four?",
+  "words": 53,
+  "wpm": 154.4
+}

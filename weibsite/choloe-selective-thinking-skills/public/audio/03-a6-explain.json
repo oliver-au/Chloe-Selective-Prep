@@ -1,0 +1,12 @@
+{
+  "id": "03-a6-explain",
+  "duration": 17.6,
+  "sourceHash": "48799f6b16252766fa126d670c21e69889e6d2d3707cd5d11d00bce1bbff53c0",
+  "voice": "Chloe Sydney Logic Tutor AU",
+  "voiceId": "voice_p3rkxzz22c59",
+  "model": "gemini-3.8-flash-tts",
+  "languageCode": "en-AU",
+  "text": "For a survey, ask four questions: who was surveyed, how many, how they were chosen, and who is missing. Compare the sample with the population named in the conclusion. A large number of responses does not automatically remove selection bias or make a sample representative.",
+  "words": 45,
+  "wpm": 153.4
+}
