@@ -1,0 +1,2436 @@
+{
+  "q14-hook": {
+    "text": "Face D starts on the ground. Roll the tube to put face J on top. How few other faces must land flat?",
+    "src": "discovery/q14-hook-7829ac4104d6.m4a",
+    "duration": 9.1,
+    "sourceHash": "7829ac4104d671e03a086a34818792123cd203526504e777a46788ee2b220c14",
+    "mediaSha256": "226097032d7d3c390891081b0ef9ca4bd94f6a6823476be0bb5a71826a57d1f9",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 145.1,
+    "captions": [
+      {
+        "text": "Face D starts on the ground.",
+        "startMs": 300,
+        "endMs": 2090,
+        "timestampMs": 300,
+        "confidence": null
+      },
+      {
+        "text": "Roll the tube to put face J on top.",
+        "startMs": 2600,
+        "endMs": 5490,
+        "timestampMs": 2600,
+        "confidence": null
+      },
+      {
+        "text": "How few other faces must land flat?",
+        "startMs": 6100,
+        "endMs": 8790,
+        "timestampMs": 6100,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Face",
+        "startMs": 300,
+        "endMs": 700
+      },
+      {
+        "word": "D",
+        "startMs": 700,
+        "endMs": 1100
+      },
+      {
+        "word": "starts",
+        "startMs": 1100,
+        "endMs": 1400
+      },
+      {
+        "word": "on",
+        "startMs": 1400,
+        "endMs": 1500
+      },
+      {
+        "word": "the",
+        "startMs": 1500,
+        "endMs": 1600
+      },
+      {
+        "word": "ground.",
+        "startMs": 1600,
+        "endMs": 2000
+      },
+      {
+        "word": "Roll",
+        "startMs": 2600,
+        "endMs": 3000
+      },
+      {
+        "word": "the",
+        "startMs": 3000,
+        "endMs": 3100
+      },
+      {
+        "word": "tube",
+        "startMs": 3100,
+        "endMs": 3800
+      },
+      {
+        "word": "to",
+        "startMs": 3800,
+        "endMs": 3900
+      },
+      {
+        "word": "put",
+        "startMs": 3900,
+        "endMs": 4100
+      },
+      {
+        "word": "face",
+        "startMs": 4100,
+        "endMs": 4400
+      },
+      {
+        "word": "J",
+        "startMs": 4400,
+        "endMs": 4800
+      },
+      {
+        "word": "on",
+        "startMs": 4800,
+        "endMs": 5000
+      },
+      {
+        "word": "top.",
+        "startMs": 5000,
+        "endMs": 5400
+      },
+      {
+        "word": "How",
+        "startMs": 6100,
+        "endMs": 6300
+      },
+      {
+        "word": "few",
+        "startMs": 6300,
+        "endMs": 6800
+      },
+      {
+        "word": "other",
+        "startMs": 6800,
+        "endMs": 7100
+      },
+      {
+        "word": "faces",
+        "startMs": 7100,
+        "endMs": 7600
+      },
+      {
+        "word": "must",
+        "startMs": 7600,
+        "endMs": 8100
+      },
+      {
+        "word": "land",
+        "startMs": 8100,
+        "endMs": 8400
+      },
+      {
+        "word": "flat?",
+        "startMs": 8400,
+        "endMs": 8700
+      }
+    ],
+    "asrText": "Face D starts on the ground. Roll the tube to put face J on top. How few other faces must land flat?",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q14-predict": {
+    "text": "I count three steps along the strip to face J. Three looks tempting. Which number would you choose?",
+    "src": "discovery/q14-predict-518ca3fe5d75.m4a",
+    "duration": 6.9,
+    "sourceHash": "518ca3fe5d75ba8c95ff599c241066545f32667be1a319a7bc445fb268d160a2",
+    "mediaSha256": "ab11118f46c1db7783bc049528badf01bea23ff96d213a254201cbed36d15f03",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 156.5,
+    "captions": [
+      {
+        "text": "I count three steps along the strip to face J.",
+        "startMs": 300,
+        "endMs": 3590,
+        "timestampMs": 300,
+        "confidence": null
+      },
+      {
+        "text": "Three looks tempting.",
+        "startMs": 4100,
+        "endMs": 5190,
+        "timestampMs": 4100,
+        "confidence": null
+      },
+      {
+        "text": "Which number would you choose?",
+        "startMs": 5600,
+        "endMs": 6690,
+        "timestampMs": 5600,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "I",
+        "startMs": 300,
+        "endMs": 400
+      },
+      {
+        "word": "count",
+        "startMs": 400,
+        "endMs": 800
+      },
+      {
+        "word": "three",
+        "startMs": 800,
+        "endMs": 1200
+      },
+      {
+        "word": "steps",
+        "startMs": 1200,
+        "endMs": 1600
+      },
+      {
+        "word": "along",
+        "startMs": 1600,
+        "endMs": 1800
+      },
+      {
+        "word": "the",
+        "startMs": 1800,
+        "endMs": 1900
+      },
+      {
+        "word": "strip",
+        "startMs": 1900,
+        "endMs": 2300
+      },
+      {
+        "word": "to",
+        "startMs": 2300,
+        "endMs": 2400
+      },
+      {
+        "word": "face",
+        "startMs": 2400,
+        "endMs": 2900
+      },
+      {
+        "word": "J.",
+        "startMs": 2900,
+        "endMs": 3500
+      },
+      {
+        "word": "Three",
+        "startMs": 4100,
+        "endMs": 4400
+      },
+      {
+        "word": "looks",
+        "startMs": 4400,
+        "endMs": 4600
+      },
+      {
+        "word": "tempting.",
+        "startMs": 4600,
+        "endMs": 5100
+      },
+      {
+        "word": "Which",
+        "startMs": 5600,
+        "endMs": 5800
+      },
+      {
+        "word": "number",
+        "startMs": 5800,
+        "endMs": 6000
+      },
+      {
+        "word": "would",
+        "startMs": 6000,
+        "endMs": 6200
+      },
+      {
+        "word": "you",
+        "startMs": 6200,
+        "endMs": 6300
+      },
+      {
+        "word": "choose?",
+        "startMs": 6300,
+        "endMs": 6600
+      }
+    ],
+    "asrText": "I count three steps along the strip to face J. Three looks tempting. Which number would you choose?",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q14-fold": {
+    "text": "Let's fold the net into a regular ten-sided tube. Every turn is equal, and face I meets face B. Face D rests flat on the ground. Face F sits flat on top.",
+    "src": "discovery/q14-fold-92e648c8b0d9.m4a",
+    "duration": 13.2,
+    "sourceHash": "92e648c8b0d9de47af4a10d7fd1cf0e59f29698c2be6108f60505391def18ce6",
+    "mediaSha256": "f0b5e6b6bb5ffc5c3b10f012cc49ac6c066d2a301c61aca14b7e2d05f19f2774",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 145.5,
+    "captions": [
+      {
+        "text": "Let's fold the net into a regular ten-sided tube.",
+        "startMs": 200,
+        "endMs": 3790,
+        "timestampMs": 200,
+        "confidence": null
+      },
+      {
+        "text": "Every turn is equal, and face I meets face B.",
+        "startMs": 4100,
+        "endMs": 7790,
+        "timestampMs": 4100,
+        "confidence": null
+      },
+      {
+        "text": "Face D rests flat on the ground.",
+        "startMs": 8500,
+        "endMs": 10690,
+        "timestampMs": 8500,
+        "confidence": null
+      },
+      {
+        "text": "Face F sits flat on top.",
+        "startMs": 10900,
+        "endMs": 12790,
+        "timestampMs": 10900,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Let's",
+        "startMs": 200,
+        "endMs": 500
+      },
+      {
+        "word": "fold",
+        "startMs": 500,
+        "endMs": 900
+      },
+      {
+        "word": "the",
+        "startMs": 900,
+        "endMs": 1000
+      },
+      {
+        "word": "net",
+        "startMs": 1000,
+        "endMs": 1300
+      },
+      {
+        "word": "into",
+        "startMs": 1300,
+        "endMs": 1600
+      },
+      {
+        "word": "a",
+        "startMs": 1600,
+        "endMs": 1700
+      },
+      {
+        "word": "regular",
+        "startMs": 1700,
+        "endMs": 2300
+      },
+      {
+        "word": "ten-sided",
+        "startMs": 2300,
+        "endMs": 3100
+      },
+      {
+        "word": "tube.",
+        "startMs": 3100,
+        "endMs": 3700
+      },
+      {
+        "word": "Every",
+        "startMs": 4100,
+        "endMs": 4300
+      },
+      {
+        "word": "turn",
+        "startMs": 4300,
+        "endMs": 4600
+      },
+      {
+        "word": "is",
+        "startMs": 4600,
+        "endMs": 4800
+      },
+      {
+        "word": "equal,",
+        "startMs": 4800,
+        "endMs": 5300
+      },
+      {
+        "word": "and",
+        "startMs": 5500,
+        "endMs": 5800
+      },
+      {
+        "word": "face",
+        "startMs": 5800,
+        "endMs": 6200
+      },
+      {
+        "word": "I",
+        "startMs": 6300,
+        "endMs": 6600
+      },
+      {
+        "word": "meets",
+        "startMs": 6700,
+        "endMs": 7100
+      },
+      {
+        "word": "face",
+        "startMs": 7100,
+        "endMs": 7400
+      },
+      {
+        "word": "B.",
+        "startMs": 7400,
+        "endMs": 7700
+      },
+      {
+        "word": "Face",
+        "startMs": 8500,
+        "endMs": 8800
+      },
+      {
+        "word": "D",
+        "startMs": 8800,
+        "endMs": 9200
+      },
+      {
+        "word": "rests",
+        "startMs": 9300,
+        "endMs": 9700
+      },
+      {
+        "word": "flat",
+        "startMs": 9700,
+        "endMs": 10000
+      },
+      {
+        "word": "on",
+        "startMs": 10000,
+        "endMs": 10100
+      },
+      {
+        "word": "the",
+        "startMs": 10100,
+        "endMs": 10200
+      },
+      {
+        "word": "ground.",
+        "startMs": 10200,
+        "endMs": 10600
+      },
+      {
+        "word": "Face",
+        "startMs": 10900,
+        "endMs": 11200
+      },
+      {
+        "word": "F",
+        "startMs": 11300,
+        "endMs": 11700
+      },
+      {
+        "word": "sits",
+        "startMs": 11800,
+        "endMs": 12000
+      },
+      {
+        "word": "flat",
+        "startMs": 12000,
+        "endMs": 12200
+      },
+      {
+        "word": "on",
+        "startMs": 12200,
+        "endMs": 12300
+      },
+      {
+        "word": "top.",
+        "startMs": 12300,
+        "endMs": 12700
+      }
+    ],
+    "asrText": "Let's fold the net into a regular ten-sided tube. Every turn is equal and face I meets face B. Face D rests flat on the ground. Face F sits flat on top.",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q14-trap": {
+    "text": "Watch three rolls across face E, face H, and face J. Stop! Face J landed on the ground. Face G is on top. We wanted face J up there. That is the upside-down trap.",
+    "src": "discovery/q14-trap-cc780f30aebc.m4a",
+    "duration": 14.4,
+    "sourceHash": "cc780f30aebca3ddf2d40a12daa284e88efcb7807089ecae6cefee37dfb6fe35",
+    "mediaSha256": "7ff7e4ca9756840b9b511cbf5da1ea41de2b1ffc95020735325f28c213dd8a09",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 141.7,
+    "captions": [
+      {
+        "text": "Watch three rolls across face E, face H, and face J. Stop!",
+        "startMs": 300,
+        "endMs": 5790,
+        "timestampMs": 300,
+        "confidence": null
+      },
+      {
+        "text": "Face J landed on the ground.",
+        "startMs": 6300,
+        "endMs": 8290,
+        "timestampMs": 6300,
+        "confidence": null
+      },
+      {
+        "text": "Face G is on top.",
+        "startMs": 8300,
+        "endMs": 9890,
+        "timestampMs": 8300,
+        "confidence": null
+      },
+      {
+        "text": "We wanted face J up there.",
+        "startMs": 9900,
+        "endMs": 11690,
+        "timestampMs": 9900,
+        "confidence": null
+      },
+      {
+        "text": "That is the upside-down trap.",
+        "startMs": 12100,
+        "endMs": 13990,
+        "timestampMs": 12100,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Watch",
+        "startMs": 300,
+        "endMs": 600
+      },
+      {
+        "word": "three",
+        "startMs": 600,
+        "endMs": 900
+      },
+      {
+        "word": "rolls",
+        "startMs": 900,
+        "endMs": 1400
+      },
+      {
+        "word": "across",
+        "startMs": 1800,
+        "endMs": 2100
+      },
+      {
+        "word": "face",
+        "startMs": 2100,
+        "endMs": 2400
+      },
+      {
+        "word": "E,",
+        "startMs": 2400,
+        "endMs": 2900
+      },
+      {
+        "word": "face",
+        "startMs": 3100,
+        "endMs": 3500
+      },
+      {
+        "word": "H,",
+        "startMs": 3500,
+        "endMs": 4000
+      },
+      {
+        "word": "and",
+        "startMs": 4000,
+        "endMs": 4200
+      },
+      {
+        "word": "face",
+        "startMs": 4200,
+        "endMs": 4600
+      },
+      {
+        "word": "J.",
+        "startMs": 4600,
+        "endMs": 5100
+      },
+      {
+        "word": "Stop!",
+        "startMs": 5300,
+        "endMs": 5700
+      },
+      {
+        "word": "Face",
+        "startMs": 6300,
+        "endMs": 6700
+      },
+      {
+        "word": "J",
+        "startMs": 6700,
+        "endMs": 7100
+      },
+      {
+        "word": "landed",
+        "startMs": 7100,
+        "endMs": 7400
+      },
+      {
+        "word": "on",
+        "startMs": 7400,
+        "endMs": 7500
+      },
+      {
+        "word": "the",
+        "startMs": 7500,
+        "endMs": 7540
+      },
+      {
+        "word": "ground.",
+        "startMs": 7500,
+        "endMs": 8200
+      },
+      {
+        "word": "Face",
+        "startMs": 8300,
+        "endMs": 8600
+      },
+      {
+        "word": "G",
+        "startMs": 8600,
+        "endMs": 9000
+      },
+      {
+        "word": "is",
+        "startMs": 9000,
+        "endMs": 9100
+      },
+      {
+        "word": "on",
+        "startMs": 9100,
+        "endMs": 9300
+      },
+      {
+        "word": "top.",
+        "startMs": 9300,
+        "endMs": 9800
+      },
+      {
+        "word": "We",
+        "startMs": 9900,
+        "endMs": 10100
+      },
+      {
+        "word": "wanted",
+        "startMs": 10100,
+        "endMs": 10400
+      },
+      {
+        "word": "face",
+        "startMs": 10400,
+        "endMs": 10800
+      },
+      {
+        "word": "J",
+        "startMs": 10800,
+        "endMs": 11200
+      },
+      {
+        "word": "up",
+        "startMs": 11200,
+        "endMs": 11300
+      },
+      {
+        "word": "there.",
+        "startMs": 11300,
+        "endMs": 11600
+      },
+      {
+        "word": "That",
+        "startMs": 12100,
+        "endMs": 12500
+      },
+      {
+        "word": "is",
+        "startMs": 12500,
+        "endMs": 12700
+      },
+      {
+        "word": "the",
+        "startMs": 12700,
+        "endMs": 12800
+      },
+      {
+        "word": "upside-down",
+        "startMs": 12800,
+        "endMs": 13300
+      },
+      {
+        "word": "trap.",
+        "startMs": 13500,
+        "endMs": 13900
+      }
+    ],
+    "asrText": "Watch three rolls across face E, face H and face J. Stop. Face J landed on the ground. Face G is on top. We wanted face J up there. That is the upside down trap.",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q14-opposite": {
+    "text": "To put face J on top, its opposite face must land flat on the ground. On a regular ten-sided tube, opposite is halfway round: five steps. Count from face J: one, two, three, four, five. That's face G. Face G belongs on the ground.",
+    "src": "discovery/q14-opposite-1370449335f1.m4a",
+    "duration": 20,
+    "sourceHash": "1370449335f1b59e4dad9d4ed5553babffe744da43891aa2b655c7dfb17e2e04",
+    "mediaSha256": "a589c81ddd4f342f083ad69fd0f059b20c7bf383fa60271e71cd986b4455f378",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 132,
+    "captions": [
+      {
+        "text": "To put face J on top,",
+        "startMs": 400,
+        "endMs": 2190,
+        "timestampMs": 400,
+        "confidence": null
+      },
+      {
+        "text": "its opposite face must land flat on the ground.",
+        "startMs": 2200,
+        "endMs": 4690,
+        "timestampMs": 2200,
+        "confidence": null
+      },
+      {
+        "text": "On a regular ten-sided tube, opposite is halfway round: five steps.",
+        "startMs": 5200,
+        "endMs": 9790,
+        "timestampMs": 5200,
+        "confidence": null
+      },
+      {
+        "text": "Count from face J: one, two, three, four, five.",
+        "startMs": 10300,
+        "endMs": 16290,
+        "timestampMs": 10300,
+        "confidence": null
+      },
+      {
+        "text": "That's face G.",
+        "startMs": 16800,
+        "endMs": 17790,
+        "timestampMs": 16800,
+        "confidence": null
+      },
+      {
+        "text": "Face G belongs on the ground.",
+        "startMs": 18100,
+        "endMs": 19690,
+        "timestampMs": 18100,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "To",
+        "startMs": 400,
+        "endMs": 500
+      },
+      {
+        "word": "put",
+        "startMs": 500,
+        "endMs": 700
+      },
+      {
+        "word": "face",
+        "startMs": 700,
+        "endMs": 1000
+      },
+      {
+        "word": "J",
+        "startMs": 1000,
+        "endMs": 1400
+      },
+      {
+        "word": "on",
+        "startMs": 1400,
+        "endMs": 1600
+      },
+      {
+        "word": "top,",
+        "startMs": 1600,
+        "endMs": 2100
+      },
+      {
+        "word": "its",
+        "startMs": 2200,
+        "endMs": 2400
+      },
+      {
+        "word": "opposite",
+        "startMs": 2400,
+        "endMs": 2800
+      },
+      {
+        "word": "face",
+        "startMs": 2800,
+        "endMs": 3200
+      },
+      {
+        "word": "must",
+        "startMs": 3200,
+        "endMs": 3400
+      },
+      {
+        "word": "land",
+        "startMs": 3400,
+        "endMs": 3700
+      },
+      {
+        "word": "flat",
+        "startMs": 3700,
+        "endMs": 4100
+      },
+      {
+        "word": "on",
+        "startMs": 4100,
+        "endMs": 4200
+      },
+      {
+        "word": "the",
+        "startMs": 4200,
+        "endMs": 4300
+      },
+      {
+        "word": "ground.",
+        "startMs": 4300,
+        "endMs": 4600
+      },
+      {
+        "word": "On",
+        "startMs": 5200,
+        "endMs": 5400
+      },
+      {
+        "word": "a",
+        "startMs": 5400,
+        "endMs": 5440
+      },
+      {
+        "word": "regular",
+        "startMs": 5400,
+        "endMs": 6000
+      },
+      {
+        "word": "ten-sided",
+        "startMs": 6000,
+        "endMs": 6600
+      },
+      {
+        "word": "tube,",
+        "startMs": 6600,
+        "endMs": 7000
+      },
+      {
+        "word": "opposite",
+        "startMs": 7100,
+        "endMs": 7500
+      },
+      {
+        "word": "is",
+        "startMs": 7500,
+        "endMs": 7700
+      },
+      {
+        "word": "halfway",
+        "startMs": 7700,
+        "endMs": 8300
+      },
+      {
+        "word": "round:",
+        "startMs": 8300,
+        "endMs": 8700
+      },
+      {
+        "word": "five",
+        "startMs": 9000,
+        "endMs": 9300
+      },
+      {
+        "word": "steps.",
+        "startMs": 9300,
+        "endMs": 9700
+      },
+      {
+        "word": "Count",
+        "startMs": 10300,
+        "endMs": 10500
+      },
+      {
+        "word": "from",
+        "startMs": 10500,
+        "endMs": 10600
+      },
+      {
+        "word": "face",
+        "startMs": 10600,
+        "endMs": 10900
+      },
+      {
+        "word": "J:",
+        "startMs": 10900,
+        "endMs": 11100
+      },
+      {
+        "word": "one,",
+        "startMs": 11700,
+        "endMs": 12000
+      },
+      {
+        "word": "two,",
+        "startMs": 12800,
+        "endMs": 13100
+      },
+      {
+        "word": "three,",
+        "startMs": 13800,
+        "endMs": 14200
+      },
+      {
+        "word": "four,",
+        "startMs": 14800,
+        "endMs": 15100
+      },
+      {
+        "word": "five.",
+        "startMs": 15900,
+        "endMs": 16200
+      },
+      {
+        "word": "That's",
+        "startMs": 16800,
+        "endMs": 17000
+      },
+      {
+        "word": "face",
+        "startMs": 17000,
+        "endMs": 17300
+      },
+      {
+        "word": "G.",
+        "startMs": 17300,
+        "endMs": 17700
+      },
+      {
+        "word": "Face",
+        "startMs": 18100,
+        "endMs": 18400
+      },
+      {
+        "word": "G",
+        "startMs": 18400,
+        "endMs": 18800
+      },
+      {
+        "word": "belongs",
+        "startMs": 18800,
+        "endMs": 19100
+      },
+      {
+        "word": "on",
+        "startMs": 19100,
+        "endMs": 19200
+      },
+      {
+        "word": "the",
+        "startMs": 19200,
+        "endMs": 19300
+      },
+      {
+        "word": "ground.",
+        "startMs": 19300,
+        "endMs": 19600
+      }
+    ],
+    "asrText": "To put face J on top, its opposite face must land flat on the ground. On a regular ten-sided tube, opposite is halfway round, five steps. Count from face J. One, two, three, four, five. That's face G. Face G belongs on the ground.",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q14-roll": {
+    "text": "Reset to face D, count zero. The other way takes eight rolls. Let's roll the short way towards face G. First, face A lands flat. Second, face G lands flat. Look straight up: face J is flat on top!",
+    "src": "discovery/q14-roll-3501138d47bc.m4a",
+    "duration": 17.5,
+    "sourceHash": "3501138d47bc62056b8ff1cc8f892eb5f587a2e74bff2c4fd711a793d602f837",
+    "mediaSha256": "38f71a9f4e5a209fc88efca3488c2cd19f2180ef10b6f4645f16e1522301dacd",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 133.7,
+    "captions": [
+      {
+        "text": "Reset to face D, count zero.",
+        "startMs": 300,
+        "endMs": 2990,
+        "timestampMs": 300,
+        "confidence": null
+      },
+      {
+        "text": "The other way takes eight rolls.",
+        "startMs": 3500,
+        "endMs": 5690,
+        "timestampMs": 3500,
+        "confidence": null
+      },
+      {
+        "text": "Let's roll the short way towards face G.",
+        "startMs": 5800,
+        "endMs": 8290,
+        "timestampMs": 5800,
+        "confidence": null
+      },
+      {
+        "text": "First, face A lands flat.",
+        "startMs": 8900,
+        "endMs": 10890,
+        "timestampMs": 8900,
+        "confidence": null
+      },
+      {
+        "text": "Second, face G lands flat.",
+        "startMs": 11400,
+        "endMs": 13590,
+        "timestampMs": 11400,
+        "confidence": null
+      },
+      {
+        "text": "Look straight up: face J is flat on top!",
+        "startMs": 14100,
+        "endMs": 17090,
+        "timestampMs": 14100,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Reset",
+        "startMs": 300,
+        "endMs": 700
+      },
+      {
+        "word": "to",
+        "startMs": 700,
+        "endMs": 800
+      },
+      {
+        "word": "face",
+        "startMs": 800,
+        "endMs": 1200
+      },
+      {
+        "word": "D,",
+        "startMs": 1200,
+        "endMs": 1600
+      },
+      {
+        "word": "count",
+        "startMs": 2000,
+        "endMs": 2400
+      },
+      {
+        "word": "zero.",
+        "startMs": 2400,
+        "endMs": 2900
+      },
+      {
+        "word": "The",
+        "startMs": 3500,
+        "endMs": 3600
+      },
+      {
+        "word": "other",
+        "startMs": 3600,
+        "endMs": 3800
+      },
+      {
+        "word": "way",
+        "startMs": 3800,
+        "endMs": 4000
+      },
+      {
+        "word": "takes",
+        "startMs": 4000,
+        "endMs": 4400
+      },
+      {
+        "word": "eight",
+        "startMs": 4500,
+        "endMs": 4800
+      },
+      {
+        "word": "rolls.",
+        "startMs": 4800,
+        "endMs": 5600
+      },
+      {
+        "word": "Let's",
+        "startMs": 5800,
+        "endMs": 6100
+      },
+      {
+        "word": "roll",
+        "startMs": 6100,
+        "endMs": 6300
+      },
+      {
+        "word": "the",
+        "startMs": 6300,
+        "endMs": 6400
+      },
+      {
+        "word": "short",
+        "startMs": 6400,
+        "endMs": 6800
+      },
+      {
+        "word": "way",
+        "startMs": 6800,
+        "endMs": 7100
+      },
+      {
+        "word": "towards",
+        "startMs": 7200,
+        "endMs": 7600
+      },
+      {
+        "word": "face",
+        "startMs": 7600,
+        "endMs": 7900
+      },
+      {
+        "word": "G.",
+        "startMs": 7900,
+        "endMs": 8200
+      },
+      {
+        "word": "First,",
+        "startMs": 8900,
+        "endMs": 9400
+      },
+      {
+        "word": "face",
+        "startMs": 9500,
+        "endMs": 9800
+      },
+      {
+        "word": "A",
+        "startMs": 9900,
+        "endMs": 10100
+      },
+      {
+        "word": "lands",
+        "startMs": 10100,
+        "endMs": 10500
+      },
+      {
+        "word": "flat.",
+        "startMs": 10500,
+        "endMs": 10800
+      },
+      {
+        "word": "Second,",
+        "startMs": 11400,
+        "endMs": 12000
+      },
+      {
+        "word": "face",
+        "startMs": 12100,
+        "endMs": 12500
+      },
+      {
+        "word": "G",
+        "startMs": 12500,
+        "endMs": 12800
+      },
+      {
+        "word": "lands",
+        "startMs": 12800,
+        "endMs": 13200
+      },
+      {
+        "word": "flat.",
+        "startMs": 13200,
+        "endMs": 13500
+      },
+      {
+        "word": "Look",
+        "startMs": 14100,
+        "endMs": 14300
+      },
+      {
+        "word": "straight",
+        "startMs": 14300,
+        "endMs": 14600
+      },
+      {
+        "word": "up:",
+        "startMs": 14600,
+        "endMs": 14800
+      },
+      {
+        "word": "face",
+        "startMs": 15200,
+        "endMs": 15500
+      },
+      {
+        "word": "J",
+        "startMs": 15500,
+        "endMs": 16000
+      },
+      {
+        "word": "is",
+        "startMs": 16000,
+        "endMs": 16200
+      },
+      {
+        "word": "flat",
+        "startMs": 16200,
+        "endMs": 16600
+      },
+      {
+        "word": "on",
+        "startMs": 16600,
+        "endMs": 16700
+      },
+      {
+        "word": "top!",
+        "startMs": 16700,
+        "endMs": 17000
+      }
+    ],
+    "asrText": "Reset to face D, count zero. The other way takes eight rolls. Let's roll the short way towards face G. First, face A lands flat. Second, face G lands flat. Look straight up. Face J is flat on top.",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q14-exam": {
+    "text": "Let's check Question 14. Option A says one — that counts only face A between them and misses face G landing. Option C says three — that counts face D by mistake, or rolls face J onto the ground. Option D counts all four panels from face D to face J. Face A and face G both land. That's two faces. Choose option B.",
+    "src": "discovery/q14-exam-810af1f567e0.m4a",
+    "duration": 25.6,
+    "sourceHash": "810af1f567e06f8da3f77d92075ec8ea723f69e6cae4391d162f7557c96651f3",
+    "mediaSha256": "abbeced8a8df0c1c39e6e8e1d8cae5a73656feedb4b1d782ea5a5ceaf0f85a6f",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 150,
+    "captions": [
+      {
+        "text": "Let's check Question 14.",
+        "startMs": 300,
+        "endMs": 1690,
+        "timestampMs": 300,
+        "confidence": null
+      },
+      {
+        "text": "Option A says one —",
+        "startMs": 2200,
+        "endMs": 3800,
+        "timestampMs": 2200,
+        "confidence": null
+      },
+      {
+        "text": "that counts only face A between them and misses face G landing.",
+        "startMs": 3800,
+        "endMs": 8290,
+        "timestampMs": 3800,
+        "confidence": null
+      },
+      {
+        "text": "Option C says three —",
+        "startMs": 8900,
+        "endMs": 10700,
+        "timestampMs": 8900,
+        "confidence": null
+      },
+      {
+        "text": "that counts face D by mistake,",
+        "startMs": 10700,
+        "endMs": 12690,
+        "timestampMs": 10700,
+        "confidence": null
+      },
+      {
+        "text": "or rolls face J onto the ground.",
+        "startMs": 12700,
+        "endMs": 14790,
+        "timestampMs": 12700,
+        "confidence": null
+      },
+      {
+        "text": "Option D counts all four panels from face D to face J.",
+        "startMs": 15300,
+        "endMs": 19390,
+        "timestampMs": 15300,
+        "confidence": null
+      },
+      {
+        "text": "Face A and face G both land.",
+        "startMs": 20000,
+        "endMs": 22490,
+        "timestampMs": 20000,
+        "confidence": null
+      },
+      {
+        "text": "That's two faces.",
+        "startMs": 22600,
+        "endMs": 23790,
+        "timestampMs": 22600,
+        "confidence": null
+      },
+      {
+        "text": "Choose option B.",
+        "startMs": 24200,
+        "endMs": 25290,
+        "timestampMs": 24200,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Let's",
+        "startMs": 300,
+        "endMs": 600
+      },
+      {
+        "word": "check",
+        "startMs": 600,
+        "endMs": 800
+      },
+      {
+        "word": "Question",
+        "startMs": 800,
+        "endMs": 1200
+      },
+      {
+        "word": "14.",
+        "startMs": 1200,
+        "endMs": 1600
+      },
+      {
+        "word": "Option",
+        "startMs": 2200,
+        "endMs": 2500
+      },
+      {
+        "word": "A",
+        "startMs": 2500,
+        "endMs": 2700
+      },
+      {
+        "word": "says",
+        "startMs": 2700,
+        "endMs": 3000
+      },
+      {
+        "word": "one",
+        "startMs": 3000,
+        "endMs": 3300
+      },
+      {
+        "word": "—",
+        "startMs": 3300,
+        "endMs": 3800
+      },
+      {
+        "word": "that",
+        "startMs": 3800,
+        "endMs": 4000
+      },
+      {
+        "word": "counts",
+        "startMs": 4000,
+        "endMs": 4400
+      },
+      {
+        "word": "only",
+        "startMs": 4400,
+        "endMs": 4700
+      },
+      {
+        "word": "face",
+        "startMs": 4700,
+        "endMs": 5200
+      },
+      {
+        "word": "A",
+        "startMs": 5200,
+        "endMs": 5500
+      },
+      {
+        "word": "between",
+        "startMs": 5500,
+        "endMs": 5900
+      },
+      {
+        "word": "them",
+        "startMs": 5900,
+        "endMs": 6200
+      },
+      {
+        "word": "and",
+        "startMs": 6300,
+        "endMs": 6600
+      },
+      {
+        "word": "misses",
+        "startMs": 6600,
+        "endMs": 7100
+      },
+      {
+        "word": "face",
+        "startMs": 7100,
+        "endMs": 7400
+      },
+      {
+        "word": "G",
+        "startMs": 7400,
+        "endMs": 7800
+      },
+      {
+        "word": "landing.",
+        "startMs": 7800,
+        "endMs": 8200
+      },
+      {
+        "word": "Option",
+        "startMs": 8900,
+        "endMs": 9200
+      },
+      {
+        "word": "C",
+        "startMs": 9200,
+        "endMs": 9500
+      },
+      {
+        "word": "says",
+        "startMs": 9500,
+        "endMs": 9700
+      },
+      {
+        "word": "three",
+        "startMs": 9700,
+        "endMs": 10200
+      },
+      {
+        "word": "—",
+        "startMs": 10200,
+        "endMs": 10700
+      },
+      {
+        "word": "that",
+        "startMs": 10700,
+        "endMs": 10900
+      },
+      {
+        "word": "counts",
+        "startMs": 10900,
+        "endMs": 11300
+      },
+      {
+        "word": "face",
+        "startMs": 11300,
+        "endMs": 11600
+      },
+      {
+        "word": "D",
+        "startMs": 11600,
+        "endMs": 11900
+      },
+      {
+        "word": "by",
+        "startMs": 11900,
+        "endMs": 12000
+      },
+      {
+        "word": "mistake,",
+        "startMs": 12000,
+        "endMs": 12600
+      },
+      {
+        "word": "or",
+        "startMs": 12700,
+        "endMs": 12900
+      },
+      {
+        "word": "rolls",
+        "startMs": 12900,
+        "endMs": 13300
+      },
+      {
+        "word": "face",
+        "startMs": 13300,
+        "endMs": 13600
+      },
+      {
+        "word": "J",
+        "startMs": 13600,
+        "endMs": 14000
+      },
+      {
+        "word": "onto",
+        "startMs": 14000,
+        "endMs": 14200
+      },
+      {
+        "word": "the",
+        "startMs": 14200,
+        "endMs": 14240
+      },
+      {
+        "word": "ground.",
+        "startMs": 14200,
+        "endMs": 14700
+      },
+      {
+        "word": "Option",
+        "startMs": 15300,
+        "endMs": 15700
+      },
+      {
+        "word": "D",
+        "startMs": 15700,
+        "endMs": 16000
+      },
+      {
+        "word": "counts",
+        "startMs": 16000,
+        "endMs": 16400
+      },
+      {
+        "word": "all",
+        "startMs": 16400,
+        "endMs": 16600
+      },
+      {
+        "word": "four",
+        "startMs": 16600,
+        "endMs": 17000
+      },
+      {
+        "word": "panels",
+        "startMs": 17000,
+        "endMs": 17500
+      },
+      {
+        "word": "from",
+        "startMs": 17500,
+        "endMs": 17700
+      },
+      {
+        "word": "face",
+        "startMs": 17700,
+        "endMs": 18000
+      },
+      {
+        "word": "D",
+        "startMs": 18000,
+        "endMs": 18400
+      },
+      {
+        "word": "to",
+        "startMs": 18400,
+        "endMs": 18600
+      },
+      {
+        "word": "face",
+        "startMs": 18600,
+        "endMs": 18900
+      },
+      {
+        "word": "J.",
+        "startMs": 18900,
+        "endMs": 19300
+      },
+      {
+        "word": "Face",
+        "startMs": 20000,
+        "endMs": 20300
+      },
+      {
+        "word": "A",
+        "startMs": 20300,
+        "endMs": 20700
+      },
+      {
+        "word": "and",
+        "startMs": 20700,
+        "endMs": 20900
+      },
+      {
+        "word": "face",
+        "startMs": 20900,
+        "endMs": 21200
+      },
+      {
+        "word": "G",
+        "startMs": 21200,
+        "endMs": 21600
+      },
+      {
+        "word": "both",
+        "startMs": 21600,
+        "endMs": 21900
+      },
+      {
+        "word": "land.",
+        "startMs": 21900,
+        "endMs": 22400
+      },
+      {
+        "word": "That's",
+        "startMs": 22600,
+        "endMs": 23000
+      },
+      {
+        "word": "two",
+        "startMs": 23000,
+        "endMs": 23200
+      },
+      {
+        "word": "faces.",
+        "startMs": 23200,
+        "endMs": 23700
+      },
+      {
+        "word": "Choose",
+        "startMs": 24200,
+        "endMs": 24600
+      },
+      {
+        "word": "option",
+        "startMs": 24600,
+        "endMs": 24900
+      },
+      {
+        "word": "B.",
+        "startMs": 24900,
+        "endMs": 25200
+      }
+    ],
+    "asrText": "Let's check question 14. Option A says one. That counts only face A between them and misses face G landing. Option C says three. That counts face D by mistake or rolls face J onto the ground. Option D counts all four panels from face D to face J. Face A and face G both land. That's two faces. Choose option B.",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q14-practice": {
+    "text": "Your turn. This tube has a regular eight-sided end. Face K starts on the ground. Roll the tube to put face R on top. How few other faces must land flat?",
+    "src": "discovery/q14-practice-e958e8c1de79.m4a",
+    "duration": 13.1,
+    "sourceHash": "e958e8c1de798e3c118eeaf3c8845804761a86370faf01867b84f83f17a9721f",
+    "mediaSha256": "e541ad16872de7fdc8b6fe7620d25bca09cd1d0da7c4d1a2eacd8b0236a70bdd",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 142,
+    "captions": [
+      {
+        "text": "Your turn.",
+        "startMs": 300,
+        "endMs": 890,
+        "timestampMs": 300,
+        "confidence": null
+      },
+      {
+        "text": "This tube has a regular eight-sided end.",
+        "startMs": 1400,
+        "endMs": 4290,
+        "timestampMs": 1400,
+        "confidence": null
+      },
+      {
+        "text": "Face K starts on the ground.",
+        "startMs": 4800,
+        "endMs": 6490,
+        "timestampMs": 4800,
+        "confidence": null
+      },
+      {
+        "text": "Roll the tube to put face R on top.",
+        "startMs": 7000,
+        "endMs": 9690,
+        "timestampMs": 7000,
+        "confidence": null
+      },
+      {
+        "text": "How few other faces must land flat?",
+        "startMs": 10300,
+        "endMs": 12790,
+        "timestampMs": 10300,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Your",
+        "startMs": 300,
+        "endMs": 500
+      },
+      {
+        "word": "turn.",
+        "startMs": 500,
+        "endMs": 800
+      },
+      {
+        "word": "This",
+        "startMs": 1400,
+        "endMs": 1700
+      },
+      {
+        "word": "tube",
+        "startMs": 1700,
+        "endMs": 2000
+      },
+      {
+        "word": "has",
+        "startMs": 2000,
+        "endMs": 2300
+      },
+      {
+        "word": "a",
+        "startMs": 2300,
+        "endMs": 2400
+      },
+      {
+        "word": "regular",
+        "startMs": 2400,
+        "endMs": 3100
+      },
+      {
+        "word": "eight-sided",
+        "startMs": 3100,
+        "endMs": 3900
+      },
+      {
+        "word": "end.",
+        "startMs": 3900,
+        "endMs": 4200
+      },
+      {
+        "word": "Face",
+        "startMs": 4800,
+        "endMs": 5000
+      },
+      {
+        "word": "K",
+        "startMs": 5000,
+        "endMs": 5400
+      },
+      {
+        "word": "starts",
+        "startMs": 5400,
+        "endMs": 5900
+      },
+      {
+        "word": "on",
+        "startMs": 5900,
+        "endMs": 6000
+      },
+      {
+        "word": "the",
+        "startMs": 6000,
+        "endMs": 6100
+      },
+      {
+        "word": "ground.",
+        "startMs": 6100,
+        "endMs": 6400
+      },
+      {
+        "word": "Roll",
+        "startMs": 7000,
+        "endMs": 7300
+      },
+      {
+        "word": "the",
+        "startMs": 7300,
+        "endMs": 7400
+      },
+      {
+        "word": "tube",
+        "startMs": 7400,
+        "endMs": 7800
+      },
+      {
+        "word": "to",
+        "startMs": 7800,
+        "endMs": 7900
+      },
+      {
+        "word": "put",
+        "startMs": 7900,
+        "endMs": 8100
+      },
+      {
+        "word": "face",
+        "startMs": 8100,
+        "endMs": 8500
+      },
+      {
+        "word": "R",
+        "startMs": 8600,
+        "endMs": 9000
+      },
+      {
+        "word": "on",
+        "startMs": 9000,
+        "endMs": 9200
+      },
+      {
+        "word": "top.",
+        "startMs": 9200,
+        "endMs": 9600
+      },
+      {
+        "word": "How",
+        "startMs": 10300,
+        "endMs": 10500
+      },
+      {
+        "word": "few",
+        "startMs": 10500,
+        "endMs": 10900
+      },
+      {
+        "word": "other",
+        "startMs": 10900,
+        "endMs": 11200
+      },
+      {
+        "word": "faces",
+        "startMs": 11200,
+        "endMs": 11700
+      },
+      {
+        "word": "must",
+        "startMs": 11700,
+        "endMs": 12100
+      },
+      {
+        "word": "land",
+        "startMs": 12100,
+        "endMs": 12400
+      },
+      {
+        "word": "flat?",
+        "startMs": 12400,
+        "endMs": 12700
+      }
+    ],
+    "asrText": "Your turn. This tube has a regular eight-sided end. Face K starts on the ground. Roll the tube to put face R on top. How few other faces must land flat?",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q14-practice-answer": {
+    "text": "Rolling one step onto face R puts face R on the floor. Halfway round eight sides is four steps, so face L is opposite face R. The long way takes five rolls. Take the short way from face K. Face W lands first. Then face P. Then face L. Two would miss that last landing. Four would count the start. Three faces land. Choose option C.",
+    "src": "discovery/q14-practice-answer-1c7844654ba1.m4a",
+    "duration": 26.9,
+    "sourceHash": "1c7844654ba15af0c2064b0c59a2224d9bc21c08d5fbabbe4400361308bab65f",
+    "mediaSha256": "59175639dfacb0080e51452672d42265fba68ddefdf3ab351943454f5954b2f5",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 147.2,
+    "captions": [
+      {
+        "text": "Rolling one step onto face R puts face R on the floor.",
+        "startMs": 300,
+        "endMs": 4590,
+        "timestampMs": 300,
+        "confidence": null
+      },
+      {
+        "text": "Halfway round eight sides is four steps,",
+        "startMs": 4600,
+        "endMs": 7690,
+        "timestampMs": 4600,
+        "confidence": null
+      },
+      {
+        "text": "so face L is opposite face R.",
+        "startMs": 7700,
+        "endMs": 10900,
+        "timestampMs": 7700,
+        "confidence": null
+      },
+      {
+        "text": "The long way takes five rolls.",
+        "startMs": 10900,
+        "endMs": 12890,
+        "timestampMs": 10900,
+        "confidence": null
+      },
+      {
+        "text": "Take the short way from face K.",
+        "startMs": 13100,
+        "endMs": 15090,
+        "timestampMs": 13100,
+        "confidence": null
+      },
+      {
+        "text": "Face W lands first.",
+        "startMs": 15500,
+        "endMs": 17390,
+        "timestampMs": 15500,
+        "confidence": null
+      },
+      {
+        "text": "Then face P.",
+        "startMs": 17400,
+        "endMs": 18590,
+        "timestampMs": 17400,
+        "confidence": null
+      },
+      {
+        "text": "Then face L.",
+        "startMs": 18600,
+        "endMs": 19790,
+        "timestampMs": 18600,
+        "confidence": null
+      },
+      {
+        "text": "Two would miss that last landing.",
+        "startMs": 20300,
+        "endMs": 22190,
+        "timestampMs": 20300,
+        "confidence": null
+      },
+      {
+        "text": "Four would count the start.",
+        "startMs": 22400,
+        "endMs": 23890,
+        "timestampMs": 22400,
+        "confidence": null
+      },
+      {
+        "text": "Three faces land.",
+        "startMs": 24100,
+        "endMs": 25390,
+        "timestampMs": 24100,
+        "confidence": null
+      },
+      {
+        "text": "Choose option C.",
+        "startMs": 25600,
+        "endMs": 26690,
+        "timestampMs": 25600,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Rolling",
+        "startMs": 300,
+        "endMs": 700
+      },
+      {
+        "word": "one",
+        "startMs": 700,
+        "endMs": 1000
+      },
+      {
+        "word": "step",
+        "startMs": 1000,
+        "endMs": 1400
+      },
+      {
+        "word": "onto",
+        "startMs": 1400,
+        "endMs": 1700
+      },
+      {
+        "word": "face",
+        "startMs": 1700,
+        "endMs": 2000
+      },
+      {
+        "word": "R",
+        "startMs": 2000,
+        "endMs": 2400
+      },
+      {
+        "word": "puts",
+        "startMs": 2500,
+        "endMs": 2800
+      },
+      {
+        "word": "face",
+        "startMs": 2800,
+        "endMs": 3100
+      },
+      {
+        "word": "R",
+        "startMs": 3100,
+        "endMs": 3400
+      },
+      {
+        "word": "on",
+        "startMs": 3400,
+        "endMs": 3600
+      },
+      {
+        "word": "the",
+        "startMs": 3600,
+        "endMs": 3700
+      },
+      {
+        "word": "floor.",
+        "startMs": 3700,
+        "endMs": 4500
+      },
+      {
+        "word": "Halfway",
+        "startMs": 4600,
+        "endMs": 5100
+      },
+      {
+        "word": "round",
+        "startMs": 5100,
+        "endMs": 5500
+      },
+      {
+        "word": "eight",
+        "startMs": 5500,
+        "endMs": 5800
+      },
+      {
+        "word": "sides",
+        "startMs": 5800,
+        "endMs": 6300
+      },
+      {
+        "word": "is",
+        "startMs": 6300,
+        "endMs": 6600
+      },
+      {
+        "word": "four",
+        "startMs": 6600,
+        "endMs": 7000
+      },
+      {
+        "word": "steps,",
+        "startMs": 7000,
+        "endMs": 7600
+      },
+      {
+        "word": "so",
+        "startMs": 7700,
+        "endMs": 7900
+      },
+      {
+        "word": "face",
+        "startMs": 7900,
+        "endMs": 8200
+      },
+      {
+        "word": "L",
+        "startMs": 8200,
+        "endMs": 8600
+      },
+      {
+        "word": "is",
+        "startMs": 8600,
+        "endMs": 8900
+      },
+      {
+        "word": "opposite",
+        "startMs": 8900,
+        "endMs": 9500
+      },
+      {
+        "word": "face",
+        "startMs": 9500,
+        "endMs": 9800
+      },
+      {
+        "word": "R.",
+        "startMs": 9800,
+        "endMs": 10900
+      },
+      {
+        "word": "The",
+        "startMs": 10900,
+        "endMs": 11000
+      },
+      {
+        "word": "long",
+        "startMs": 11000,
+        "endMs": 11300
+      },
+      {
+        "word": "way",
+        "startMs": 11300,
+        "endMs": 11500
+      },
+      {
+        "word": "takes",
+        "startMs": 11500,
+        "endMs": 12000
+      },
+      {
+        "word": "five",
+        "startMs": 12000,
+        "endMs": 12400
+      },
+      {
+        "word": "rolls.",
+        "startMs": 12400,
+        "endMs": 12800
+      },
+      {
+        "word": "Take",
+        "startMs": 13100,
+        "endMs": 13300
+      },
+      {
+        "word": "the",
+        "startMs": 13300,
+        "endMs": 13400
+      },
+      {
+        "word": "short",
+        "startMs": 13400,
+        "endMs": 13800
+      },
+      {
+        "word": "way",
+        "startMs": 13800,
+        "endMs": 14100
+      },
+      {
+        "word": "from",
+        "startMs": 14100,
+        "endMs": 14300
+      },
+      {
+        "word": "face",
+        "startMs": 14300,
+        "endMs": 14600
+      },
+      {
+        "word": "K.",
+        "startMs": 14600,
+        "endMs": 15000
+      },
+      {
+        "word": "Face",
+        "startMs": 15500,
+        "endMs": 15800
+      },
+      {
+        "word": "W",
+        "startMs": 15800,
+        "endMs": 16400
+      },
+      {
+        "word": "lands",
+        "startMs": 16400,
+        "endMs": 16700
+      },
+      {
+        "word": "first.",
+        "startMs": 16700,
+        "endMs": 17300
+      },
+      {
+        "word": "Then",
+        "startMs": 17400,
+        "endMs": 17600
+      },
+      {
+        "word": "face",
+        "startMs": 17600,
+        "endMs": 18000
+      },
+      {
+        "word": "P.",
+        "startMs": 18000,
+        "endMs": 18500
+      },
+      {
+        "word": "Then",
+        "startMs": 18600,
+        "endMs": 19000
+      },
+      {
+        "word": "face",
+        "startMs": 19000,
+        "endMs": 19400
+      },
+      {
+        "word": "L.",
+        "startMs": 19400,
+        "endMs": 19700
+      },
+      {
+        "word": "Two",
+        "startMs": 20300,
+        "endMs": 20700
+      },
+      {
+        "word": "would",
+        "startMs": 20700,
+        "endMs": 20900
+      },
+      {
+        "word": "miss",
+        "startMs": 20900,
+        "endMs": 21100
+      },
+      {
+        "word": "that",
+        "startMs": 21100,
+        "endMs": 21300
+      },
+      {
+        "word": "last",
+        "startMs": 21300,
+        "endMs": 21600
+      },
+      {
+        "word": "landing.",
+        "startMs": 21600,
+        "endMs": 22100
+      },
+      {
+        "word": "Four",
+        "startMs": 22400,
+        "endMs": 22800
+      },
+      {
+        "word": "would",
+        "startMs": 22800,
+        "endMs": 23000
+      },
+      {
+        "word": "count",
+        "startMs": 23000,
+        "endMs": 23200
+      },
+      {
+        "word": "the",
+        "startMs": 23200,
+        "endMs": 23300
+      },
+      {
+        "word": "start.",
+        "startMs": 23300,
+        "endMs": 23800
+      },
+      {
+        "word": "Three",
+        "startMs": 24100,
+        "endMs": 24400
+      },
+      {
+        "word": "faces",
+        "startMs": 24400,
+        "endMs": 24900
+      },
+      {
+        "word": "land.",
+        "startMs": 24900,
+        "endMs": 25300
+      },
+      {
+        "word": "Choose",
+        "startMs": 25600,
+        "endMs": 26000
+      },
+      {
+        "word": "option",
+        "startMs": 26000,
+        "endMs": 26400
+      },
+      {
+        "word": "C.",
+        "startMs": 26400,
+        "endMs": 26600
+      }
+    ],
+    "asrText": "Rolling one step onto face R puts face R on the floor. Halfway round eight sides is four steps. So face L is opposite face The long way takes five rolls. Take the short way from face K. Face W lands first, then face P, then face L. Two would miss that last landing. Four would count the start. Three faces land. Choose option C.",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q14-pocket": {
+    "text": "Regular, even-sided tube? Roll the shortest way to the face opposite your chosen top. Count each landing.",
+    "src": "discovery/q14-pocket-f67dbd6b658f.m4a",
+    "duration": 7.2,
+    "sourceHash": "f67dbd6b658f910eb0e4333e0a5f4a30d5f674b3444c81180aceb04637fc73f0",
+    "mediaSha256": "cb4d29e26b53a86f7580e61b7a7ddf6d07fcccfe3cbb2ce566108868fbc428a4",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 141.7,
+    "captions": [
+      {
+        "text": "Regular, even-sided tube?",
+        "startMs": 200,
+        "endMs": 2390,
+        "timestampMs": 200,
+        "confidence": null
+      },
+      {
+        "text": "Roll the shortest way to the face opposite your chosen top.",
+        "startMs": 2500,
+        "endMs": 5790,
+        "timestampMs": 2500,
+        "confidence": null
+      },
+      {
+        "text": "Count each landing.",
+        "startMs": 5900,
+        "endMs": 6990,
+        "timestampMs": 5900,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Regular,",
+        "startMs": 200,
+        "endMs": 1000
+      },
+      {
+        "word": "even-sided",
+        "startMs": 1000,
+        "endMs": 1800
+      },
+      {
+        "word": "tube?",
+        "startMs": 1800,
+        "endMs": 2300
+      },
+      {
+        "word": "Roll",
+        "startMs": 2500,
+        "endMs": 2700
+      },
+      {
+        "word": "the",
+        "startMs": 2700,
+        "endMs": 2800
+      },
+      {
+        "word": "shortest",
+        "startMs": 2800,
+        "endMs": 3300
+      },
+      {
+        "word": "way",
+        "startMs": 3300,
+        "endMs": 3600
+      },
+      {
+        "word": "to",
+        "startMs": 3600,
+        "endMs": 3700
+      },
+      {
+        "word": "the",
+        "startMs": 3700,
+        "endMs": 3800
+      },
+      {
+        "word": "face",
+        "startMs": 3800,
+        "endMs": 4200
+      },
+      {
+        "word": "opposite",
+        "startMs": 4300,
+        "endMs": 4700
+      },
+      {
+        "word": "your",
+        "startMs": 4700,
+        "endMs": 4800
+      },
+      {
+        "word": "chosen",
+        "startMs": 4800,
+        "endMs": 5200
+      },
+      {
+        "word": "top.",
+        "startMs": 5200,
+        "endMs": 5700
+      },
+      {
+        "word": "Count",
+        "startMs": 5900,
+        "endMs": 6200
+      },
+      {
+        "word": "each",
+        "startMs": 6200,
+        "endMs": 6400
+      },
+      {
+        "word": "landing.",
+        "startMs": 6400,
+        "endMs": 6900
+      }
+    ],
+    "asrText": "Regular even-sided tube, roll the shortest way to the face opposite your chosen top. Count each landing.",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  }
+}

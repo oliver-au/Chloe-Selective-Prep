@@ -1,0 +1,62 @@
+[
+  {
+    "id": "q14-hook",
+    "kind": "hook",
+    "title": "The puzzle",
+    "text": "Face D starts on the ground. Roll the tube to put face J on top. How few other faces must land flat?"
+  },
+  {
+    "id": "q14-predict",
+    "kind": "quiz",
+    "title": "Your guess",
+    "text": "I count three steps along the strip to face J. Three looks tempting. Which number would you choose?"
+  },
+  {
+    "id": "q14-fold",
+    "kind": "worked",
+    "title": "Fold the tube",
+    "text": "Let's fold the net into a regular ten-sided tube. Every turn is equal, and face I meets face B. Face D rests flat on the ground. Face F sits flat on top."
+  },
+  {
+    "id": "q14-trap",
+    "kind": "worked",
+    "title": "The upside-down trap",
+    "text": "Watch three rolls across face E, face H, and face J. Stop! Face J landed on the ground. Face G is on top. We wanted face J up there. That is the upside-down trap."
+  },
+  {
+    "id": "q14-opposite",
+    "kind": "logic",
+    "title": "Find the opposite",
+    "text": "To put face J on top, its opposite face must land flat on the ground. On a regular ten-sided tube, opposite is halfway round: five steps. Count from face J: one, two, three, four, five. That's face G. Face G belongs on the ground."
+  },
+  {
+    "id": "q14-roll",
+    "kind": "answer",
+    "title": "Roll the short way",
+    "text": "Reset to face D, count zero. The other way takes eight rolls. Let's roll the short way towards face G. First, face A lands flat. Second, face G lands flat. Look straight up: face J is flat on top!"
+  },
+  {
+    "id": "q14-exam",
+    "kind": "answer",
+    "title": "Check Question 14",
+    "text": "Let's check Question 14. Option A says one — that counts only face A between them and misses face G landing. Option C says three — that counts face D by mistake, or rolls face J onto the ground. Option D counts all four panels from face D to face J. Face A and face G both land. That's two faces. Choose option B."
+  },
+  {
+    "id": "q14-practice",
+    "kind": "quiz",
+    "title": "Your turn",
+    "text": "Your turn. This tube has a regular eight-sided end. Face K starts on the ground. Roll the tube to put face R on top. How few other faces must land flat?"
+  },
+  {
+    "id": "q14-practice-answer",
+    "kind": "answer",
+    "title": "Octagon proof",
+    "text": "Rolling one step onto face R puts face R on the floor. Halfway round eight sides is four steps, so face L is opposite face R. The long way takes five rolls. Take the short way from face K. Face W lands first. Then face P. Then face L. Two would miss that last landing. Four would count the start. Three faces land. Choose option C."
+  },
+  {
+    "id": "q14-pocket",
+    "kind": "recap",
+    "title": "Pocket rule",
+    "text": "Regular, even-sided tube? Roll the shortest way to the face opposite your chosen top. Count each landing."
+  }
+]

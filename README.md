@@ -12,3 +12,7 @@ To use either skill in Codex, ask Codex to install it from its folder in this re
 ## Chloe Thinking Studio
 
 The course includes 72 Thinking Skills lessons across nine units, two guides and 144 practice and review questions. The [website source and local setup instructions](weibsite/choloe-selective-thinking-skills/) include the course player, editable lessons and reviewed films.
+
+## Week 6 Questions 14 & 18
+
+The [Week 6 Q14 & Q18 website](weibsite/chloe-week6-q14-q18/) provides narrated Australian Gemini 3.8 Flash TTS video explanations, word-aligned captions, and interactive transfer practice for Question 14 (rolling decagonal tube) and Question 18 (shape & shade analogy).

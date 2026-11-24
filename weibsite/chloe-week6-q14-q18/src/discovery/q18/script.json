@@ -1,0 +1,62 @@
+[
+  {
+    "id": "q18-hook",
+    "kind": "hook",
+    "title": "The puzzle",
+    "text": "Look at the top pair. Which picture belongs beside the four shapes below?"
+  },
+  {
+    "id": "q18-predict",
+    "kind": "quiz",
+    "title": "Your guess",
+    "text": "That black outer heart looks tempting. The starting heart is black too. Which picture would you choose?"
+  },
+  {
+    "id": "q18-trap",
+    "kind": "worked",
+    "title": "The sticky-paint trap",
+    "text": "Look closely at the top example. The circle started white. Now it's black! In this puzzle, every shape changed shade. Paint did not stick to its shape. That is the sticky-paint trap."
+  },
+  {
+    "id": "q18-shapes",
+    "kind": "logic",
+    "title": "Track the shapes",
+    "text": "Read the diagonal from top left to bottom right: one, two, three, four. Read the layers from the outside in. First, lift just the outlines off their paint. They nest in order two, four, one, three: circle, hexagon, triangle, pentagon."
+  },
+  {
+    "id": "q18-shades",
+    "kind": "logic",
+    "title": "Track the shades",
+    "text": "Now follow the four shades left behind: black, white, grey, black. They fill the layers in original order: one, two, three, four from the outside in. Check each layer against the worked example. Every layer matches."
+  },
+  {
+    "id": "q18-apply",
+    "kind": "worked",
+    "title": "Build the answer",
+    "text": "Now use both orders on the bottom box. Outlines go two, four, one, three: heart, circle, parallelogram, triangle. Shades stay one, two, three, four: grey, black, white, grey. We get a grey heart, black circle, white parallelogram, and grey triangle."
+  },
+  {
+    "id": "q18-exam",
+    "kind": "answer",
+    "title": "Check Question 18",
+    "text": "Let's check Question 18. Options A and D both put a parallelogram outside. Option B has a black heart. Our outside heart is grey. Choose option C."
+  },
+  {
+    "id": "q18-practice",
+    "kind": "quiz",
+    "title": "Your turn",
+    "text": "Here's a new puzzle. Use its top pair to choose the missing bottom picture. Pause here while you decide."
+  },
+  {
+    "id": "q18-practice-answer",
+    "kind": "answer",
+    "title": "New puzzle proof",
+    "text": "Check the top pair. This time the outlines reverse: four, three, two, one. The shades stay in order: one, two, three, four. On the bottom box, that builds a grey square, black circle, grey hexagon, and white diamond. Option A keeps the square white. Option B puts the diamond third. We need the hexagon there. Option C puts the diamond outside. Choose option D."
+  },
+  {
+    "id": "q18-pocket",
+    "kind": "recap",
+    "title": "Pocket rule",
+    "text": "Use the example to find both orders. Check shapes and shades from the outside in."
+  }
+]

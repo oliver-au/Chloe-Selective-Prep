@@ -1,0 +1,2053 @@
+{
+  "q18-hook": {
+    "text": "Look at the top pair. Which picture belongs beside the four shapes below?",
+    "src": "discovery/q18-hook-e636c42fd9eb.m4a",
+    "duration": 4.6,
+    "sourceHash": "e636c42fd9eb26b268273aa2d1d8a339d72f580ff9e854e832ac15fc326ee9b4",
+    "mediaSha256": "6dee3c28b354b9b25e3f820930bba440ee889f817f9fa0a120d36bea5044750c",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 169.6,
+    "captions": [
+      {
+        "text": "Look at the top pair.",
+        "startMs": 300,
+        "endMs": 1700,
+        "timestampMs": 300,
+        "confidence": null
+      },
+      {
+        "text": "Which picture belongs beside the four shapes below?",
+        "startMs": 1700,
+        "endMs": 4290,
+        "timestampMs": 1700,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Look",
+        "startMs": 300,
+        "endMs": 500
+      },
+      {
+        "word": "at",
+        "startMs": 500,
+        "endMs": 540
+      },
+      {
+        "word": "the",
+        "startMs": 500,
+        "endMs": 600
+      },
+      {
+        "word": "top",
+        "startMs": 600,
+        "endMs": 800
+      },
+      {
+        "word": "pair.",
+        "startMs": 800,
+        "endMs": 1700
+      },
+      {
+        "word": "Which",
+        "startMs": 1700,
+        "endMs": 1900
+      },
+      {
+        "word": "picture",
+        "startMs": 1900,
+        "endMs": 2300
+      },
+      {
+        "word": "belongs",
+        "startMs": 2300,
+        "endMs": 2800
+      },
+      {
+        "word": "beside",
+        "startMs": 2800,
+        "endMs": 3100
+      },
+      {
+        "word": "the",
+        "startMs": 3100,
+        "endMs": 3200
+      },
+      {
+        "word": "four",
+        "startMs": 3200,
+        "endMs": 3400
+      },
+      {
+        "word": "shapes",
+        "startMs": 3400,
+        "endMs": 3800
+      },
+      {
+        "word": "below?",
+        "startMs": 3800,
+        "endMs": 4200
+      }
+    ],
+    "asrText": "Look at the top here. Which picture belongs beside the four shapes below?",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q18-predict": {
+    "text": "That black outer heart looks tempting. The starting heart is black too. Which picture would you choose?",
+    "src": "discovery/q18-predict-db251def4f7d.m4a",
+    "duration": 6.9,
+    "sourceHash": "db251def4f7db73fa754f173a34b7ddb7926f2552f32199bdccdaa4dcc65c3d9",
+    "mediaSha256": "c5a184a8aab3357278182a33fd8d627964c641c89eeca4e8b45244fdc460f9fb",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 147.8,
+    "captions": [
+      {
+        "text": "That black outer heart looks tempting.",
+        "startMs": 300,
+        "endMs": 2690,
+        "timestampMs": 300,
+        "confidence": null
+      },
+      {
+        "text": "The starting heart is black too.",
+        "startMs": 3200,
+        "endMs": 4690,
+        "timestampMs": 3200,
+        "confidence": null
+      },
+      {
+        "text": "Which picture would you choose?",
+        "startMs": 5500,
+        "endMs": 6590,
+        "timestampMs": 5500,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "That",
+        "startMs": 300,
+        "endMs": 400
+      },
+      {
+        "word": "black",
+        "startMs": 400,
+        "endMs": 800
+      },
+      {
+        "word": "outer",
+        "startMs": 800,
+        "endMs": 1100
+      },
+      {
+        "word": "heart",
+        "startMs": 1100,
+        "endMs": 1500
+      },
+      {
+        "word": "looks",
+        "startMs": 1500,
+        "endMs": 1800
+      },
+      {
+        "word": "tempting.",
+        "startMs": 1800,
+        "endMs": 2600
+      },
+      {
+        "word": "The",
+        "startMs": 3200,
+        "endMs": 3300
+      },
+      {
+        "word": "starting",
+        "startMs": 3300,
+        "endMs": 3700
+      },
+      {
+        "word": "heart",
+        "startMs": 3700,
+        "endMs": 3900
+      },
+      {
+        "word": "is",
+        "startMs": 3900,
+        "endMs": 4000
+      },
+      {
+        "word": "black",
+        "startMs": 4000,
+        "endMs": 4200
+      },
+      {
+        "word": "too.",
+        "startMs": 4200,
+        "endMs": 4600
+      },
+      {
+        "word": "Which",
+        "startMs": 5500,
+        "endMs": 5600
+      },
+      {
+        "word": "picture",
+        "startMs": 5600,
+        "endMs": 5900
+      },
+      {
+        "word": "would",
+        "startMs": 5900,
+        "endMs": 6000
+      },
+      {
+        "word": "you",
+        "startMs": 6000,
+        "endMs": 6100
+      },
+      {
+        "word": "choose?",
+        "startMs": 6100,
+        "endMs": 6500
+      }
+    ],
+    "asrText": "That black outer heart looks tempting. The starting heart is black too. Which picture would you choose?",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q18-trap": {
+    "text": "Look closely at the top example. The circle started white. Now it's black! In this puzzle, every shape changed shade. Paint did not stick to its shape. That is the sticky-paint trap.",
+    "src": "discovery/q18-trap-9d510108ec8c.m4a",
+    "duration": 12.3,
+    "sourceHash": "9d510108ec8c2df51b4e7cb1088d7f4ede862789bee42144427033542579ae9a",
+    "mediaSha256": "0ea2494d2b586a2166aab0d712531f63ff0469b41fc5444dd79b3718ec9a6b78",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 156.1,
+    "captions": [
+      {
+        "text": "Look closely at the top example.",
+        "startMs": 200,
+        "endMs": 1890,
+        "timestampMs": 200,
+        "confidence": null
+      },
+      {
+        "text": "The circle started white.",
+        "startMs": 2200,
+        "endMs": 3690,
+        "timestampMs": 2200,
+        "confidence": null
+      },
+      {
+        "text": "Now it's black!",
+        "startMs": 3800,
+        "endMs": 5090,
+        "timestampMs": 3800,
+        "confidence": null
+      },
+      {
+        "text": "In this puzzle, every shape changed shade.",
+        "startMs": 5200,
+        "endMs": 8090,
+        "timestampMs": 5200,
+        "confidence": null
+      },
+      {
+        "text": "Paint did not stick to its shape.",
+        "startMs": 8200,
+        "endMs": 10190,
+        "timestampMs": 8200,
+        "confidence": null
+      },
+      {
+        "text": "That is the sticky-paint trap.",
+        "startMs": 10400,
+        "endMs": 11990,
+        "timestampMs": 10400,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Look",
+        "startMs": 200,
+        "endMs": 400
+      },
+      {
+        "word": "closely",
+        "startMs": 400,
+        "endMs": 900
+      },
+      {
+        "word": "at",
+        "startMs": 900,
+        "endMs": 1000
+      },
+      {
+        "word": "the",
+        "startMs": 1000,
+        "endMs": 1040
+      },
+      {
+        "word": "top",
+        "startMs": 1000,
+        "endMs": 1300
+      },
+      {
+        "word": "example.",
+        "startMs": 1300,
+        "endMs": 1800
+      },
+      {
+        "word": "The",
+        "startMs": 2200,
+        "endMs": 2240
+      },
+      {
+        "word": "circle",
+        "startMs": 2200,
+        "endMs": 2600
+      },
+      {
+        "word": "started",
+        "startMs": 2600,
+        "endMs": 3100
+      },
+      {
+        "word": "white.",
+        "startMs": 3100,
+        "endMs": 3600
+      },
+      {
+        "word": "Now",
+        "startMs": 3800,
+        "endMs": 4100
+      },
+      {
+        "word": "it's",
+        "startMs": 4200,
+        "endMs": 4400
+      },
+      {
+        "word": "black!",
+        "startMs": 4400,
+        "endMs": 5000
+      },
+      {
+        "word": "In",
+        "startMs": 5200,
+        "endMs": 5300
+      },
+      {
+        "word": "this",
+        "startMs": 5300,
+        "endMs": 5400
+      },
+      {
+        "word": "puzzle,",
+        "startMs": 5400,
+        "endMs": 6000
+      },
+      {
+        "word": "every",
+        "startMs": 6000,
+        "endMs": 6400
+      },
+      {
+        "word": "shape",
+        "startMs": 6400,
+        "endMs": 6900
+      },
+      {
+        "word": "changed",
+        "startMs": 6900,
+        "endMs": 7400
+      },
+      {
+        "word": "shade.",
+        "startMs": 7400,
+        "endMs": 8000
+      },
+      {
+        "word": "Paint",
+        "startMs": 8200,
+        "endMs": 8600
+      },
+      {
+        "word": "did",
+        "startMs": 8600,
+        "endMs": 8800
+      },
+      {
+        "word": "not",
+        "startMs": 8800,
+        "endMs": 9100
+      },
+      {
+        "word": "stick",
+        "startMs": 9100,
+        "endMs": 9400
+      },
+      {
+        "word": "to",
+        "startMs": 9400,
+        "endMs": 9500
+      },
+      {
+        "word": "its",
+        "startMs": 9500,
+        "endMs": 9600
+      },
+      {
+        "word": "shape.",
+        "startMs": 9600,
+        "endMs": 10100
+      },
+      {
+        "word": "That",
+        "startMs": 10400,
+        "endMs": 10800
+      },
+      {
+        "word": "is",
+        "startMs": 10800,
+        "endMs": 10900
+      },
+      {
+        "word": "the",
+        "startMs": 10900,
+        "endMs": 11000
+      },
+      {
+        "word": "sticky-paint",
+        "startMs": 11000,
+        "endMs": 11300
+      },
+      {
+        "word": "trap.",
+        "startMs": 11600,
+        "endMs": 11900
+      }
+    ],
+    "asrText": "Look closely at the top example. The circle started white. Now it's black. In this puzzle, every shape changed shade. Paint did not stick to its shape. That is the sticky paint trap.",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q18-shapes": {
+    "text": "Read the diagonal from top left to bottom right: one, two, three, four. Read the layers from the outside in. First, lift just the outlines off their paint. They nest in order two, four, one, three: circle, hexagon, triangle, pentagon.",
+    "src": "discovery/q18-shapes-420b6fff5b25.m4a",
+    "duration": 18.2,
+    "sourceHash": "420b6fff5b2500fc1b657d480607cd0d67977c4dfea1140b4dd972f31980be24",
+    "mediaSha256": "35e67598af9330a55582f694d3e620352fe3d0bed9c8736d2e9b895158529621",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 131.9,
+    "captions": [
+      {
+        "text": "Read the diagonal from top left to bottom right:",
+        "startMs": 300,
+        "endMs": 3090,
+        "timestampMs": 300,
+        "confidence": null
+      },
+      {
+        "text": "one, two, three, four.",
+        "startMs": 3400,
+        "endMs": 5490,
+        "timestampMs": 3400,
+        "confidence": null
+      },
+      {
+        "text": "Read the layers from the outside in.",
+        "startMs": 6200,
+        "endMs": 8390,
+        "timestampMs": 6200,
+        "confidence": null
+      },
+      {
+        "text": "First, lift just the outlines off their paint.",
+        "startMs": 8800,
+        "endMs": 11690,
+        "timestampMs": 8800,
+        "confidence": null
+      },
+      {
+        "text": "They nest in order two, four, one, three:",
+        "startMs": 12000,
+        "endMs": 14590,
+        "timestampMs": 12000,
+        "confidence": null
+      },
+      {
+        "text": "circle, hexagon, triangle, pentagon.",
+        "startMs": 15100,
+        "endMs": 17790,
+        "timestampMs": 15100,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Read",
+        "startMs": 300,
+        "endMs": 600
+      },
+      {
+        "word": "the",
+        "startMs": 600,
+        "endMs": 700
+      },
+      {
+        "word": "diagonal",
+        "startMs": 700,
+        "endMs": 1300
+      },
+      {
+        "word": "from",
+        "startMs": 1300,
+        "endMs": 1500
+      },
+      {
+        "word": "top",
+        "startMs": 1500,
+        "endMs": 1800
+      },
+      {
+        "word": "left",
+        "startMs": 1800,
+        "endMs": 2300
+      },
+      {
+        "word": "to",
+        "startMs": 2300,
+        "endMs": 2400
+      },
+      {
+        "word": "bottom",
+        "startMs": 2400,
+        "endMs": 2700
+      },
+      {
+        "word": "right:",
+        "startMs": 2700,
+        "endMs": 3000
+      },
+      {
+        "word": "one,",
+        "startMs": 3400,
+        "endMs": 3800
+      },
+      {
+        "word": "two,",
+        "startMs": 4000,
+        "endMs": 4300
+      },
+      {
+        "word": "three,",
+        "startMs": 4500,
+        "endMs": 5000
+      },
+      {
+        "word": "four.",
+        "startMs": 5100,
+        "endMs": 5400
+      },
+      {
+        "word": "Read",
+        "startMs": 6200,
+        "endMs": 6400
+      },
+      {
+        "word": "the",
+        "startMs": 6400,
+        "endMs": 6500
+      },
+      {
+        "word": "layers",
+        "startMs": 6500,
+        "endMs": 7000
+      },
+      {
+        "word": "from",
+        "startMs": 7000,
+        "endMs": 7100
+      },
+      {
+        "word": "the",
+        "startMs": 7100,
+        "endMs": 7400
+      },
+      {
+        "word": "outside",
+        "startMs": 7400,
+        "endMs": 8000
+      },
+      {
+        "word": "in.",
+        "startMs": 8000,
+        "endMs": 8300
+      },
+      {
+        "word": "First,",
+        "startMs": 8800,
+        "endMs": 9300
+      },
+      {
+        "word": "lift",
+        "startMs": 9300,
+        "endMs": 9700
+      },
+      {
+        "word": "just",
+        "startMs": 9700,
+        "endMs": 10100
+      },
+      {
+        "word": "the",
+        "startMs": 10100,
+        "endMs": 10400
+      },
+      {
+        "word": "outlines",
+        "startMs": 10400,
+        "endMs": 10900
+      },
+      {
+        "word": "off",
+        "startMs": 10900,
+        "endMs": 11100
+      },
+      {
+        "word": "their",
+        "startMs": 11100,
+        "endMs": 11200
+      },
+      {
+        "word": "paint.",
+        "startMs": 11200,
+        "endMs": 11600
+      },
+      {
+        "word": "They",
+        "startMs": 12000,
+        "endMs": 12200
+      },
+      {
+        "word": "nest",
+        "startMs": 12200,
+        "endMs": 12500
+      },
+      {
+        "word": "in",
+        "startMs": 12500,
+        "endMs": 12600
+      },
+      {
+        "word": "order",
+        "startMs": 12600,
+        "endMs": 13000
+      },
+      {
+        "word": "two,",
+        "startMs": 13100,
+        "endMs": 13400
+      },
+      {
+        "word": "four,",
+        "startMs": 13400,
+        "endMs": 13800
+      },
+      {
+        "word": "one,",
+        "startMs": 13800,
+        "endMs": 14100
+      },
+      {
+        "word": "three:",
+        "startMs": 14100,
+        "endMs": 14500
+      },
+      {
+        "word": "circle,",
+        "startMs": 15100,
+        "endMs": 15600
+      },
+      {
+        "word": "hexagon,",
+        "startMs": 15800,
+        "endMs": 16400
+      },
+      {
+        "word": "triangle,",
+        "startMs": 16600,
+        "endMs": 17100
+      },
+      {
+        "word": "pentagon.",
+        "startMs": 17300,
+        "endMs": 17700
+      }
+    ],
+    "asrText": "Read the diagonal from top left to bottom right. One, two, three, four. Read the layers from the outside in. First, lift just the outlines off their paint. They nest in order two, four, one, three. Circle, hexagon, triangle, pentagon.",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q18-shades": {
+    "text": "Now follow the four shades left behind: black, white, grey, black. They fill the layers in original order: one, two, three, four from the outside in. Check each layer against the worked example. Every layer matches.",
+    "src": "discovery/q18-shades-2e4b321c33bb.m4a",
+    "duration": 17.3,
+    "sourceHash": "2e4b321c33bbcaf63afced9caac1b4af2eea37e25db3f865f6a76b4eb9d37cc0",
+    "mediaSha256": "76b21ea588c7bb9bdff06ea0fc8ab2dbe97c28958023ace09da30933964a40c8",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 124.9,
+    "captions": [
+      {
+        "text": "Now follow the four shades left behind: black, white, grey, black.",
+        "startMs": 200,
+        "endMs": 5890,
+        "timestampMs": 200,
+        "confidence": null
+      },
+      {
+        "text": "They fill the layers in original order:",
+        "startMs": 6400,
+        "endMs": 8290,
+        "timestampMs": 6400,
+        "confidence": null
+      },
+      {
+        "text": "one, two, three, four from the outside in.",
+        "startMs": 8700,
+        "endMs": 12290,
+        "timestampMs": 8700,
+        "confidence": null
+      },
+      {
+        "text": "Check each layer against the worked example.",
+        "startMs": 13000,
+        "endMs": 15490,
+        "timestampMs": 13000,
+        "confidence": null
+      },
+      {
+        "text": "Every layer matches.",
+        "startMs": 15900,
+        "endMs": 16990,
+        "timestampMs": 15900,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Now",
+        "startMs": 200,
+        "endMs": 700
+      },
+      {
+        "word": "follow",
+        "startMs": 800,
+        "endMs": 1100
+      },
+      {
+        "word": "the",
+        "startMs": 1100,
+        "endMs": 1200
+      },
+      {
+        "word": "four",
+        "startMs": 1200,
+        "endMs": 1600
+      },
+      {
+        "word": "shades",
+        "startMs": 1600,
+        "endMs": 2100
+      },
+      {
+        "word": "left",
+        "startMs": 2100,
+        "endMs": 2300
+      },
+      {
+        "word": "behind:",
+        "startMs": 2300,
+        "endMs": 2900
+      },
+      {
+        "word": "black,",
+        "startMs": 3200,
+        "endMs": 3600
+      },
+      {
+        "word": "white,",
+        "startMs": 3900,
+        "endMs": 4400
+      },
+      {
+        "word": "grey,",
+        "startMs": 4600,
+        "endMs": 5200
+      },
+      {
+        "word": "black.",
+        "startMs": 5400,
+        "endMs": 5800
+      },
+      {
+        "word": "They",
+        "startMs": 6400,
+        "endMs": 6600
+      },
+      {
+        "word": "fill",
+        "startMs": 6600,
+        "endMs": 6800
+      },
+      {
+        "word": "the",
+        "startMs": 6800,
+        "endMs": 7000
+      },
+      {
+        "word": "layers",
+        "startMs": 7000,
+        "endMs": 7400
+      },
+      {
+        "word": "in",
+        "startMs": 7400,
+        "endMs": 7500
+      },
+      {
+        "word": "original",
+        "startMs": 7500,
+        "endMs": 8000
+      },
+      {
+        "word": "order:",
+        "startMs": 8000,
+        "endMs": 8200
+      },
+      {
+        "word": "one,",
+        "startMs": 8700,
+        "endMs": 9100
+      },
+      {
+        "word": "two,",
+        "startMs": 9300,
+        "endMs": 9700
+      },
+      {
+        "word": "three,",
+        "startMs": 9900,
+        "endMs": 10400
+      },
+      {
+        "word": "four",
+        "startMs": 10600,
+        "endMs": 11000
+      },
+      {
+        "word": "from",
+        "startMs": 11100,
+        "endMs": 11300
+      },
+      {
+        "word": "the",
+        "startMs": 11300,
+        "endMs": 11500
+      },
+      {
+        "word": "outside",
+        "startMs": 11500,
+        "endMs": 12000
+      },
+      {
+        "word": "in.",
+        "startMs": 12000,
+        "endMs": 12200
+      },
+      {
+        "word": "Check",
+        "startMs": 13000,
+        "endMs": 13400
+      },
+      {
+        "word": "each",
+        "startMs": 13400,
+        "endMs": 13800
+      },
+      {
+        "word": "layer",
+        "startMs": 13800,
+        "endMs": 14100
+      },
+      {
+        "word": "against",
+        "startMs": 14100,
+        "endMs": 14500
+      },
+      {
+        "word": "the",
+        "startMs": 14500,
+        "endMs": 14600
+      },
+      {
+        "word": "worked",
+        "startMs": 14600,
+        "endMs": 14900
+      },
+      {
+        "word": "example.",
+        "startMs": 14900,
+        "endMs": 15400
+      },
+      {
+        "word": "Every",
+        "startMs": 15900,
+        "endMs": 16200
+      },
+      {
+        "word": "layer",
+        "startMs": 16200,
+        "endMs": 16400
+      },
+      {
+        "word": "matches.",
+        "startMs": 16400,
+        "endMs": 16900
+      }
+    ],
+    "asrText": "Now, follow the four shades left behind. Black, white, grey, black. They fill the layers in original order. One, two, three, four from the outside in. Check each layer against the worked example. Every layer matches.",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q18-apply": {
+    "text": "Now use both orders on the bottom box. Outlines go two, four, one, three: heart, circle, parallelogram, triangle. Shades stay one, two, three, four: grey, black, white, grey. We get a grey heart, black circle, white parallelogram, and grey triangle.",
+    "src": "discovery/q18-apply-7980d66a1bcc.m4a",
+    "duration": 17.8,
+    "sourceHash": "7980d66a1bcc004bcedd5a232c35db7b499286396688e8738a47406bd8756649",
+    "mediaSha256": "0c79faed8b297b53fd2a8ac0b9d31e21df2d5250a75c49fd03b44f8a5ec6a796",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 134.8,
+    "captions": [
+      {
+        "text": "Now use both orders on the bottom box.",
+        "startMs": 300,
+        "endMs": 2990,
+        "timestampMs": 300,
+        "confidence": null
+      },
+      {
+        "text": "Outlines go two, four, one, three:",
+        "startMs": 3500,
+        "endMs": 6100,
+        "timestampMs": 3500,
+        "confidence": null
+      },
+      {
+        "text": "heart, circle, parallelogram, triangle.",
+        "startMs": 6100,
+        "endMs": 8390,
+        "timestampMs": 6100,
+        "confidence": null
+      },
+      {
+        "text": "Shades stay one, two, three, four: grey, black, white, grey.",
+        "startMs": 8800,
+        "endMs": 12590,
+        "timestampMs": 8800,
+        "confidence": null
+      },
+      {
+        "text": "We get a grey heart, black circle,",
+        "startMs": 13100,
+        "endMs": 14990,
+        "timestampMs": 13100,
+        "confidence": null
+      },
+      {
+        "text": "white parallelogram, and grey triangle.",
+        "startMs": 15200,
+        "endMs": 17290,
+        "timestampMs": 15200,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Now",
+        "startMs": 300,
+        "endMs": 500
+      },
+      {
+        "word": "use",
+        "startMs": 500,
+        "endMs": 900
+      },
+      {
+        "word": "both",
+        "startMs": 900,
+        "endMs": 1300
+      },
+      {
+        "word": "orders",
+        "startMs": 1300,
+        "endMs": 1800
+      },
+      {
+        "word": "on",
+        "startMs": 1800,
+        "endMs": 1900
+      },
+      {
+        "word": "the",
+        "startMs": 1900,
+        "endMs": 2000
+      },
+      {
+        "word": "bottom",
+        "startMs": 2000,
+        "endMs": 2400
+      },
+      {
+        "word": "box.",
+        "startMs": 2400,
+        "endMs": 2900
+      },
+      {
+        "word": "Outlines",
+        "startMs": 3500,
+        "endMs": 4000
+      },
+      {
+        "word": "go",
+        "startMs": 4000,
+        "endMs": 4200
+      },
+      {
+        "word": "two,",
+        "startMs": 4200,
+        "endMs": 4600
+      },
+      {
+        "word": "four,",
+        "startMs": 4600,
+        "endMs": 5100
+      },
+      {
+        "word": "one,",
+        "startMs": 5100,
+        "endMs": 5500
+      },
+      {
+        "word": "three:",
+        "startMs": 5500,
+        "endMs": 6100
+      },
+      {
+        "word": "heart,",
+        "startMs": 6100,
+        "endMs": 6500
+      },
+      {
+        "word": "circle,",
+        "startMs": 6500,
+        "endMs": 7000
+      },
+      {
+        "word": "parallelogram,",
+        "startMs": 7000,
+        "endMs": 7800
+      },
+      {
+        "word": "triangle.",
+        "startMs": 7800,
+        "endMs": 8300
+      },
+      {
+        "word": "Shades",
+        "startMs": 8800,
+        "endMs": 9300
+      },
+      {
+        "word": "stay",
+        "startMs": 9300,
+        "endMs": 9600
+      },
+      {
+        "word": "one,",
+        "startMs": 9600,
+        "endMs": 9916
+      },
+      {
+        "word": "two,",
+        "startMs": 9916,
+        "endMs": 10232
+      },
+      {
+        "word": "three,",
+        "startMs": 10232,
+        "endMs": 10705
+      },
+      {
+        "word": "four:",
+        "startMs": 10705,
+        "endMs": 11100
+      },
+      {
+        "word": "grey,",
+        "startMs": 11100,
+        "endMs": 11400
+      },
+      {
+        "word": "black,",
+        "startMs": 11400,
+        "endMs": 11800
+      },
+      {
+        "word": "white,",
+        "startMs": 11800,
+        "endMs": 12200
+      },
+      {
+        "word": "grey.",
+        "startMs": 12200,
+        "endMs": 12500
+      },
+      {
+        "word": "We",
+        "startMs": 13100,
+        "endMs": 13200
+      },
+      {
+        "word": "get",
+        "startMs": 13200,
+        "endMs": 13400
+      },
+      {
+        "word": "a",
+        "startMs": 13400,
+        "endMs": 13500
+      },
+      {
+        "word": "grey",
+        "startMs": 13500,
+        "endMs": 13700
+      },
+      {
+        "word": "heart,",
+        "startMs": 13700,
+        "endMs": 14100
+      },
+      {
+        "word": "black",
+        "startMs": 14200,
+        "endMs": 14500
+      },
+      {
+        "word": "circle,",
+        "startMs": 14500,
+        "endMs": 14900
+      },
+      {
+        "word": "white",
+        "startMs": 15200,
+        "endMs": 15400
+      },
+      {
+        "word": "parallelogram,",
+        "startMs": 15400,
+        "endMs": 16200
+      },
+      {
+        "word": "and",
+        "startMs": 16500,
+        "endMs": 16600
+      },
+      {
+        "word": "grey",
+        "startMs": 16600,
+        "endMs": 16800
+      },
+      {
+        "word": "triangle.",
+        "startMs": 16800,
+        "endMs": 17200
+      }
+    ],
+    "asrText": "Now, use both orders on the bottom box. Outlines go 2 4 1 5, heart, circle, parallelogram, triangle. Shades stay 1 2 3 4, grey, black, white, grey. We get a grey heart, black circle, white parallelogram, and grey triangle.",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q18-exam": {
+    "text": "Let's check Question 18. Options A and D both put a parallelogram outside. Option B has a black heart. Our outside heart is grey. Choose option C.",
+    "src": "discovery/q18-exam-777c2e2feca2.m4a",
+    "duration": 10,
+    "sourceHash": "777c2e2feca22d41bed854487bb19fe63ffecb3987e0958f22b79fd09205edc7",
+    "mediaSha256": "f3d08f3a533b0abb67af16a4ee9c5355e1ea02f296bc8e981ae505af97362dcf",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 162,
+    "captions": [
+      {
+        "text": "Let's check Question 18.",
+        "startMs": 300,
+        "endMs": 1690,
+        "timestampMs": 300,
+        "confidence": null
+      },
+      {
+        "text": "Options A and D both put a parallelogram outside.",
+        "startMs": 2100,
+        "endMs": 5290,
+        "timestampMs": 2100,
+        "confidence": null
+      },
+      {
+        "text": "Option B has a black heart.",
+        "startMs": 5300,
+        "endMs": 7090,
+        "timestampMs": 5300,
+        "confidence": null
+      },
+      {
+        "text": "Our outside heart is grey.",
+        "startMs": 7100,
+        "endMs": 8490,
+        "timestampMs": 7100,
+        "confidence": null
+      },
+      {
+        "text": "Choose option C.",
+        "startMs": 8700,
+        "endMs": 9690,
+        "timestampMs": 8700,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Let's",
+        "startMs": 300,
+        "endMs": 600
+      },
+      {
+        "word": "check",
+        "startMs": 600,
+        "endMs": 800
+      },
+      {
+        "word": "Question",
+        "startMs": 800,
+        "endMs": 1200
+      },
+      {
+        "word": "18.",
+        "startMs": 1200,
+        "endMs": 1600
+      },
+      {
+        "word": "Options",
+        "startMs": 2100,
+        "endMs": 2500
+      },
+      {
+        "word": "A",
+        "startMs": 2500,
+        "endMs": 2700
+      },
+      {
+        "word": "and",
+        "startMs": 2700,
+        "endMs": 2900
+      },
+      {
+        "word": "D",
+        "startMs": 2900,
+        "endMs": 3100
+      },
+      {
+        "word": "both",
+        "startMs": 3100,
+        "endMs": 3500
+      },
+      {
+        "word": "put",
+        "startMs": 3500,
+        "endMs": 3600
+      },
+      {
+        "word": "a",
+        "startMs": 3600,
+        "endMs": 3700
+      },
+      {
+        "word": "parallelogram",
+        "startMs": 3700,
+        "endMs": 4400
+      },
+      {
+        "word": "outside.",
+        "startMs": 4400,
+        "endMs": 5200
+      },
+      {
+        "word": "Option",
+        "startMs": 5300,
+        "endMs": 5600
+      },
+      {
+        "word": "B",
+        "startMs": 5600,
+        "endMs": 5900
+      },
+      {
+        "word": "has",
+        "startMs": 5900,
+        "endMs": 6100
+      },
+      {
+        "word": "a",
+        "startMs": 6100,
+        "endMs": 6200
+      },
+      {
+        "word": "black",
+        "startMs": 6200,
+        "endMs": 6500
+      },
+      {
+        "word": "heart.",
+        "startMs": 6500,
+        "endMs": 7000
+      },
+      {
+        "word": "Our",
+        "startMs": 7100,
+        "endMs": 7300
+      },
+      {
+        "word": "outside",
+        "startMs": 7300,
+        "endMs": 7600
+      },
+      {
+        "word": "heart",
+        "startMs": 7600,
+        "endMs": 7800
+      },
+      {
+        "word": "is",
+        "startMs": 7800,
+        "endMs": 8000
+      },
+      {
+        "word": "grey.",
+        "startMs": 8000,
+        "endMs": 8400
+      },
+      {
+        "word": "Choose",
+        "startMs": 8700,
+        "endMs": 9000
+      },
+      {
+        "word": "option",
+        "startMs": 9000,
+        "endMs": 9300
+      },
+      {
+        "word": "C.",
+        "startMs": 9300,
+        "endMs": 9600
+      }
+    ],
+    "asrText": "Let's check question 18. Options A and D both put a parallelogram outside. Option B has a black heart. Our outside heart is grey. Choose option C.",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q18-practice": {
+    "text": "Here's a new puzzle. Use its top pair to choose the missing bottom picture. Pause here while you decide.",
+    "src": "discovery/q18-practice-ffde6fbbfdaf.m4a",
+    "duration": 6.4,
+    "sourceHash": "ffde6fbbfdafb75f034c798a2aa2c108a8efd7ebcab6681dd09b9d7a081a6b27",
+    "mediaSha256": "2305647c7e2fe42f9c9b082d913d5f74778bc43724bd63aca7a87083521f3eed",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 178.1,
+    "captions": [
+      {
+        "text": "Here's a new puzzle.",
+        "startMs": 200,
+        "endMs": 1190,
+        "timestampMs": 200,
+        "confidence": null
+      },
+      {
+        "text": "Use its top pair to choose the missing bottom picture.",
+        "startMs": 1400,
+        "endMs": 4490,
+        "timestampMs": 1400,
+        "confidence": null
+      },
+      {
+        "text": "Pause here while you decide.",
+        "startMs": 4800,
+        "endMs": 5990,
+        "timestampMs": 4800,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Here's",
+        "startMs": 200,
+        "endMs": 400
+      },
+      {
+        "word": "a",
+        "startMs": 400,
+        "endMs": 500
+      },
+      {
+        "word": "new",
+        "startMs": 500,
+        "endMs": 700
+      },
+      {
+        "word": "puzzle.",
+        "startMs": 700,
+        "endMs": 1100
+      },
+      {
+        "word": "Use",
+        "startMs": 1400,
+        "endMs": 1700
+      },
+      {
+        "word": "its",
+        "startMs": 1700,
+        "endMs": 1900
+      },
+      {
+        "word": "top",
+        "startMs": 1900,
+        "endMs": 2200
+      },
+      {
+        "word": "pair",
+        "startMs": 2200,
+        "endMs": 2600
+      },
+      {
+        "word": "to",
+        "startMs": 2600,
+        "endMs": 2700
+      },
+      {
+        "word": "choose",
+        "startMs": 2700,
+        "endMs": 3100
+      },
+      {
+        "word": "the",
+        "startMs": 3100,
+        "endMs": 3200
+      },
+      {
+        "word": "missing",
+        "startMs": 3200,
+        "endMs": 3600
+      },
+      {
+        "word": "bottom",
+        "startMs": 3600,
+        "endMs": 4000
+      },
+      {
+        "word": "picture.",
+        "startMs": 4000,
+        "endMs": 4400
+      },
+      {
+        "word": "Pause",
+        "startMs": 4800,
+        "endMs": 5100
+      },
+      {
+        "word": "here",
+        "startMs": 5100,
+        "endMs": 5200
+      },
+      {
+        "word": "while",
+        "startMs": 5200,
+        "endMs": 5400
+      },
+      {
+        "word": "you",
+        "startMs": 5400,
+        "endMs": 5500
+      },
+      {
+        "word": "decide.",
+        "startMs": 5500,
+        "endMs": 5900
+      }
+    ],
+    "asrText": "Here's a new puzzle. Use its top pair to choose the missing bottom picture. Pause here while you decide.",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q18-practice-answer": {
+    "text": "Check the top pair. This time the outlines reverse: four, three, two, one. The shades stay in order: one, two, three, four. On the bottom box, that builds a grey square, black circle, grey hexagon, and white diamond. Option A keeps the square white. Option B puts the diamond third. We need the hexagon there. Option C puts the diamond outside. Choose option D.",
+    "src": "discovery/q18-practice-answer-4a0e01d938b0.m4a",
+    "duration": 30.4,
+    "sourceHash": "4a0e01d938b0a855df09663545d278b105cf79b7efee0d05c2fb1451abb9d117",
+    "mediaSha256": "cc92bfd71d53defb04f991b44fafc4e754c7a2ecbb4214dbdc46d7c78acd3287",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 126.3,
+    "captions": [
+      {
+        "text": "Check the top pair.",
+        "startMs": 200,
+        "endMs": 1390,
+        "timestampMs": 200,
+        "confidence": null
+      },
+      {
+        "text": "This time the outlines reverse: four, three, two, one.",
+        "startMs": 1700,
+        "endMs": 6890,
+        "timestampMs": 1700,
+        "confidence": null
+      },
+      {
+        "text": "The shades stay in order: one, two, three, four.",
+        "startMs": 7400,
+        "endMs": 11590,
+        "timestampMs": 7400,
+        "confidence": null
+      },
+      {
+        "text": "On the bottom box, that builds a grey square,",
+        "startMs": 12300,
+        "endMs": 14990,
+        "timestampMs": 12300,
+        "confidence": null
+      },
+      {
+        "text": "black circle, grey hexagon, and white diamond.",
+        "startMs": 15200,
+        "endMs": 18790,
+        "timestampMs": 15200,
+        "confidence": null
+      },
+      {
+        "text": "Option A keeps the square white.",
+        "startMs": 19400,
+        "endMs": 21590,
+        "timestampMs": 19400,
+        "confidence": null
+      },
+      {
+        "text": "Option B puts the diamond third.",
+        "startMs": 22100,
+        "endMs": 24490,
+        "timestampMs": 22100,
+        "confidence": null
+      },
+      {
+        "text": "We need the hexagon there.",
+        "startMs": 24500,
+        "endMs": 25690,
+        "timestampMs": 24500,
+        "confidence": null
+      },
+      {
+        "text": "Option C puts the diamond outside.",
+        "startMs": 26300,
+        "endMs": 28690,
+        "timestampMs": 26300,
+        "confidence": null
+      },
+      {
+        "text": "Choose option D.",
+        "startMs": 29100,
+        "endMs": 30090,
+        "timestampMs": 29100,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Check",
+        "startMs": 200,
+        "endMs": 400
+      },
+      {
+        "word": "the",
+        "startMs": 400,
+        "endMs": 500
+      },
+      {
+        "word": "top",
+        "startMs": 500,
+        "endMs": 900
+      },
+      {
+        "word": "pair.",
+        "startMs": 900,
+        "endMs": 1300
+      },
+      {
+        "word": "This",
+        "startMs": 1700,
+        "endMs": 1900
+      },
+      {
+        "word": "time",
+        "startMs": 1900,
+        "endMs": 2200
+      },
+      {
+        "word": "the",
+        "startMs": 2200,
+        "endMs": 2400
+      },
+      {
+        "word": "outlines",
+        "startMs": 2400,
+        "endMs": 3000
+      },
+      {
+        "word": "reverse:",
+        "startMs": 3000,
+        "endMs": 3800
+      },
+      {
+        "word": "four,",
+        "startMs": 4100,
+        "endMs": 4500
+      },
+      {
+        "word": "three,",
+        "startMs": 4900,
+        "endMs": 5400
+      },
+      {
+        "word": "two,",
+        "startMs": 5700,
+        "endMs": 6200
+      },
+      {
+        "word": "one.",
+        "startMs": 6600,
+        "endMs": 6800
+      },
+      {
+        "word": "The",
+        "startMs": 7400,
+        "endMs": 7500
+      },
+      {
+        "word": "shades",
+        "startMs": 7500,
+        "endMs": 7900
+      },
+      {
+        "word": "stay",
+        "startMs": 7900,
+        "endMs": 8200
+      },
+      {
+        "word": "in",
+        "startMs": 8200,
+        "endMs": 8240
+      },
+      {
+        "word": "order:",
+        "startMs": 8200,
+        "endMs": 8600
+      },
+      {
+        "word": "one,",
+        "startMs": 8900,
+        "endMs": 9300
+      },
+      {
+        "word": "two,",
+        "startMs": 9600,
+        "endMs": 10000
+      },
+      {
+        "word": "three,",
+        "startMs": 10300,
+        "endMs": 10800
+      },
+      {
+        "word": "four.",
+        "startMs": 11100,
+        "endMs": 11500
+      },
+      {
+        "word": "On",
+        "startMs": 12300,
+        "endMs": 12400
+      },
+      {
+        "word": "the",
+        "startMs": 12400,
+        "endMs": 12500
+      },
+      {
+        "word": "bottom",
+        "startMs": 12500,
+        "endMs": 12800
+      },
+      {
+        "word": "box,",
+        "startMs": 12800,
+        "endMs": 13200
+      },
+      {
+        "word": "that",
+        "startMs": 13400,
+        "endMs": 13700
+      },
+      {
+        "word": "builds",
+        "startMs": 13700,
+        "endMs": 14000
+      },
+      {
+        "word": "a",
+        "startMs": 14000,
+        "endMs": 14040
+      },
+      {
+        "word": "grey",
+        "startMs": 14000,
+        "endMs": 14400
+      },
+      {
+        "word": "square,",
+        "startMs": 14400,
+        "endMs": 14900
+      },
+      {
+        "word": "black",
+        "startMs": 15200,
+        "endMs": 15600
+      },
+      {
+        "word": "circle,",
+        "startMs": 15600,
+        "endMs": 16200
+      },
+      {
+        "word": "grey",
+        "startMs": 16500,
+        "endMs": 16800
+      },
+      {
+        "word": "hexagon,",
+        "startMs": 16800,
+        "endMs": 17500
+      },
+      {
+        "word": "and",
+        "startMs": 17700,
+        "endMs": 17900
+      },
+      {
+        "word": "white",
+        "startMs": 17900,
+        "endMs": 18300
+      },
+      {
+        "word": "diamond.",
+        "startMs": 18300,
+        "endMs": 18700
+      },
+      {
+        "word": "Option",
+        "startMs": 19400,
+        "endMs": 19800
+      },
+      {
+        "word": "A",
+        "startMs": 19900,
+        "endMs": 20200
+      },
+      {
+        "word": "keeps",
+        "startMs": 20200,
+        "endMs": 20500
+      },
+      {
+        "word": "the",
+        "startMs": 20500,
+        "endMs": 20600
+      },
+      {
+        "word": "square",
+        "startMs": 20600,
+        "endMs": 21100
+      },
+      {
+        "word": "white.",
+        "startMs": 21100,
+        "endMs": 21500
+      },
+      {
+        "word": "Option",
+        "startMs": 22100,
+        "endMs": 22500
+      },
+      {
+        "word": "B",
+        "startMs": 22500,
+        "endMs": 22800
+      },
+      {
+        "word": "puts",
+        "startMs": 22800,
+        "endMs": 23100
+      },
+      {
+        "word": "the",
+        "startMs": 23100,
+        "endMs": 23300
+      },
+      {
+        "word": "diamond",
+        "startMs": 23300,
+        "endMs": 23800
+      },
+      {
+        "word": "third.",
+        "startMs": 23800,
+        "endMs": 24400
+      },
+      {
+        "word": "We",
+        "startMs": 24500,
+        "endMs": 24700
+      },
+      {
+        "word": "need",
+        "startMs": 24700,
+        "endMs": 24900
+      },
+      {
+        "word": "the",
+        "startMs": 24900,
+        "endMs": 25000
+      },
+      {
+        "word": "hexagon",
+        "startMs": 25000,
+        "endMs": 25400
+      },
+      {
+        "word": "there.",
+        "startMs": 25400,
+        "endMs": 25600
+      },
+      {
+        "word": "Option",
+        "startMs": 26300,
+        "endMs": 26600
+      },
+      {
+        "word": "C",
+        "startMs": 26600,
+        "endMs": 27000
+      },
+      {
+        "word": "puts",
+        "startMs": 27000,
+        "endMs": 27200
+      },
+      {
+        "word": "the",
+        "startMs": 27200,
+        "endMs": 27400
+      },
+      {
+        "word": "diamond",
+        "startMs": 27400,
+        "endMs": 27800
+      },
+      {
+        "word": "outside.",
+        "startMs": 27800,
+        "endMs": 28600
+      },
+      {
+        "word": "Choose",
+        "startMs": 29100,
+        "endMs": 29400
+      },
+      {
+        "word": "option",
+        "startMs": 29400,
+        "endMs": 29700
+      },
+      {
+        "word": "D.",
+        "startMs": 29700,
+        "endMs": 30000
+      }
+    ],
+    "asrText": "Check the top pair. This time the outlines reverse. Four, three, two, one. The shades stay in order. One, two, three, four. On the bottom box, that builds a grey square, black circle, grey hexagon, and white diamond. Option A keeps the square white. Option B puts the diamond third. We need the hexagon there. Option C puts the diamond outside. Choose Option D.",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  },
+  "q18-pocket": {
+    "text": "Use the example to find both orders. Check shapes and shades from the outside in.",
+    "src": "discovery/q18-pocket-750562c721d5.m4a",
+    "duration": 6,
+    "sourceHash": "750562c721d54817ee2c58e5e11abc5c3379a0e118b809c4931618eeffbfed3b",
+    "mediaSha256": "8cda54ba9d1bbb19f03c6a36d97b9acc90e322b39857f015f0e96ff807e38914",
+    "voice": "Chloe Sydney Logic Tutor AU",
+    "voiceId": "voice_p3rkxzz22c59",
+    "model": "gemini-3.8-flash-tts",
+    "languageCode": "en-AU",
+    "wpm": 150,
+    "captions": [
+      {
+        "text": "Use the example to find both orders.",
+        "startMs": 300,
+        "endMs": 2590,
+        "timestampMs": 300,
+        "confidence": null
+      },
+      {
+        "text": "Check shapes and shades from the outside in.",
+        "startMs": 2900,
+        "endMs": 5690,
+        "timestampMs": 2900,
+        "confidence": null
+      }
+    ],
+    "words": [
+      {
+        "word": "Use",
+        "startMs": 300,
+        "endMs": 600
+      },
+      {
+        "word": "the",
+        "startMs": 600,
+        "endMs": 700
+      },
+      {
+        "word": "example",
+        "startMs": 700,
+        "endMs": 1300
+      },
+      {
+        "word": "to",
+        "startMs": 1300,
+        "endMs": 1400
+      },
+      {
+        "word": "find",
+        "startMs": 1400,
+        "endMs": 1700
+      },
+      {
+        "word": "both",
+        "startMs": 1700,
+        "endMs": 2100
+      },
+      {
+        "word": "orders.",
+        "startMs": 2100,
+        "endMs": 2500
+      },
+      {
+        "word": "Check",
+        "startMs": 2900,
+        "endMs": 3200
+      },
+      {
+        "word": "shapes",
+        "startMs": 3200,
+        "endMs": 3700
+      },
+      {
+        "word": "and",
+        "startMs": 3700,
+        "endMs": 3800
+      },
+      {
+        "word": "shades",
+        "startMs": 3800,
+        "endMs": 4400
+      },
+      {
+        "word": "from",
+        "startMs": 4400,
+        "endMs": 4600
+      },
+      {
+        "word": "the",
+        "startMs": 4600,
+        "endMs": 4800
+      },
+      {
+        "word": "outside",
+        "startMs": 4800,
+        "endMs": 5300
+      },
+      {
+        "word": "in.",
+        "startMs": 5300,
+        "endMs": 5600
+      }
+    ],
+    "asrText": "Use the example to find both orders. Check shapes and shades from the outside in.",
+    "captionTiming": "Word-level timestamps aligned from Gemini 3.5 Transcribe on this exact encoded clip.",
+    "ready": true,
+    "provisional": false
+  }
+}
