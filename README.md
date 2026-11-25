@@ -16,3 +16,7 @@ The course includes 72 Thinking Skills lessons across nine units, two guides and
 ## Week 6 Questions 14 & 18
 
 The [Week 6 Q14 & Q18 website](websites/chloe-week6-q14-q18/) provides narrated Australian Gemini 3.8 Flash TTS video explanations, word-aligned captions, and interactive transfer practice for Question 14 (rolling decagonal tube) and Question 18 (shape & shade analogy).
+
+## Lesson page template
+
+The [lesson page template](websites/chloe-lesson-template/) is the starting point for new sites. Each section of a source has a video, a follow-up, and practice questions three at a time. AI tutor explanations appear once all three are answered. All content lives in one file, `src/content/site.ts`.

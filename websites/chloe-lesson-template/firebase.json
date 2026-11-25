@@ -1,0 +1,25 @@
+{
+  "hosting": {
+    "site": "chloe-lesson-template",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "headers": [
+      {
+        "source": "**/*.@(m4a|mp3|mp4|webm|vtt)",
+        "headers": [{"key": "Cache-Control", "value": "public, max-age=31536000, immutable"}]
+      },
+      {
+        "source": "**/*.woff2",
+        "headers": [{"key": "Cache-Control", "value": "public, max-age=31536000, immutable"}]
+      },
+      {
+        "source": "/@(index.html|app.js|app.css)",
+        "headers": [{"key": "Cache-Control", "value": "no-cache"}]
+      }
+    ]
+  }
+}
