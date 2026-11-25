@@ -81,7 +81,7 @@ async function loadApiKey() {
 		}
 	}
 	throw new Error(
-		'GEMINI_API_KEY not found. Set GEMINI_API_KEY in environment or weibsite/chloe-week6-q14-q18/.env'
+		'GEMINI_API_KEY not found. Set GEMINI_API_KEY in environment or websites/chloe-week6-q14-q18/.env'
 	);
 }
 
